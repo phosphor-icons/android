@@ -19,7 +19,7 @@
 
 <!-- This is for Atom Launcher -->
 <themeInfo>
-    <packageName>com.tobiasfried.blueprint.phosphor</packageName>
+    <packageName>com.tobiasfried.phosphor</packageName>
     <versionName>1.4.0a</versionName>
     <versionCode>8</versionCode>
     <themeName>Phosphor Carbon</themeName>

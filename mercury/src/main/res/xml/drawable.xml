@@ -20,7 +20,7 @@
 
 <resources>
 
-    <version>1</version>
+    <version>8</version>
 
     <category title="New" />
     <item drawable="instagram"/>

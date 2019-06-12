@@ -50,6 +50,31 @@
     <item component="ComponentInfo{com.sevencupsoftea.app/io.trigger.forge.android.core.ForgeActivity}" drawable="seven_cups" />
 
     <!-- AccuWeather -->
+    <item component="ComponentInfo{com.accuweather.android/com.accuweather.android.MainActivity}" drawable="weather"/>
+    <item component="ComponentInfo{com.accuweather.android.simpleweather/com.accuweather.android.simpleweather.MainActivity}" drawable="weather"/>
+    <item component="ComponentInfo{com.accuweather.android/com.accuweather.android.LauncherActivity}" drawable="weather"/>
+    <item component="ComponentInfo{com.accuweather.paid.android/com.accuweather.paid.android.LauncherActivity}" drawable="weather"/>
+    <item component="ComponentInfo{com.accuweather.android.tablet/com.accuweather.android.tablet.Main}" drawable="weather"/>
+    <item component="ComponentInfo{com.accuweather.android.tablet/com.accuweather.android.tablet.LauncherActivity}" drawable="weather"/>
+    <item component="ComponentInfo{com.accuweather.android.simpleweather.paid/com.accuweather.android.simpleweather.paid.MainActivity}" drawable="weather"/>
+    <item component="ComponentInfo{com.accuweather.android/com.accuweather.android.AccuWeather}" drawable="weather"/>
+    <item component="ComponentInfo{com.accuweather.android.simpleweatherlite_tcl/com.accuweather.android.simpleweatherlite_tcl.MainActivity}" drawable="weather"/>
+    <item component="ComponentInfo{com.accuweather.android.simpleweatherlite/com.accuweather.android.simpleweatherlite.MainActivity}" drawable="weather"/>
+    <item component="ComponentInfo{com.accuweather.android/com.accuweather.android.MainMenuActivity}" drawable="weather"/>
+    <item component="ComponentInfo{com.accuweather.amazon.android/com.accuweather.amazon.android.LauncherActivity}" drawable="weather"/>
+    <item component="ComponentInfo{com.accuweather.amazon.android/com.accuweather.amazon.android.MainActivity}" drawable="weather"/>
+    <item component="ComponentInfo{com.accuweather.amazon.paid.android/com.accuweather.amazon.paid.android.LauncherActivity}" drawable="weather"/>
+    <item component="ComponentInfo{com.accuweather.android.amazon.simpleweather/com.accuweather.android.amazon.simpleweather.MainActivity}" drawable="weather"/>
+    <item component="ComponentInfo{com.motorola.notifier.plugin.accuweather/com.motorola.notifier.plugin.accuweather.activity.WelcomeScreen}" drawable="weather"/>
+    <item component="ComponentInfo{com.accuweather.android.tablet.sony/com.accuweather.android.tablet.sony.LauncherActivity}" drawable="weather"/>
+    <item component="ComponentInfo{com.accuweather.android.tablet.sonys2/com.accuweather.android.tablet.sonys2.Main}" drawable="weather"/>
+    <item component="ComponentInfo{com.accuweather.android.tablet.sony/com.accuweather.android.tablet.sony.Main}" drawable="weather"/>
+    <item component="ComponentInfo{com.mob4.androidweather/com.mob4.androidweather.SplashDisplay}" drawable="weather"/>
+    <item component="ComponentInfo{com.accuweather.android.amazon.tablet/com.accuweather.android.amazon.tablet.Main}" drawable="weather"/>
+    <item component="ComponentInfo{com.accuweather.android.simpleweatherlite.dellstreak/com.accuweather.android.simpleweatherlite.dellstreak.MainActivity}" drawable="weather"/>
+    <item component="ComponentInfo{com.accuweather.android.simpleweatherlite.dellportrait/com.accuweather.android.simpleweatherlite.dellportrait.MainActivity}" drawable="weather"/>
+    <item component="ComponentInfo{com.accuweather.android/com.accuweather.onboarding.SplashScreen}" drawable="weather"/>
+
     <item component="ComponentInfo{com.accuweather.android/com.accuweather.android.MainActivity}" drawable="accuweather"/>
     <item component="ComponentInfo{com.accuweather.android.simpleweather/com.accuweather.android.simpleweather.MainActivity}" drawable="accuweather"/>
     <item component="ComponentInfo{com.accuweather.android/com.accuweather.android.LauncherActivity}" drawable="accuweather"/>
@@ -73,6 +98,7 @@
     <item component="ComponentInfo{com.accuweather.android.amazon.tablet/com.accuweather.android.amazon.tablet.Main}" drawable="accuweather"/>
     <item component="ComponentInfo{com.accuweather.android.simpleweatherlite.dellstreak/com.accuweather.android.simpleweatherlite.dellstreak.MainActivity}" drawable="accuweather"/>
     <item component="ComponentInfo{com.accuweather.android.simpleweatherlite.dellportrait/com.accuweather.android.simpleweatherlite.dellportrait.MainActivity}" drawable="accuweather"/>
+    <item component="ComponentInfo{com.accuweather.android/com.accuweather.onboarding.SplashScreen}" drawable="accuweather"/>
 
     <!-- Acorns -->
     <item component="ComponentInfo{com.acorns.android/com.acorns.android.activities.MainActivity}" drawable="acorns" />
@@ -1238,7 +1264,7 @@
     <item component="ComponentInfo{com.google.android.apps.wellbeing/com.google.android.apps.wellbeing.settings.LauncherActivity}" drawable="google_digital_wellbeing"/>
 
     <!-- Google Docs -->
-    <item component="com.google.android.apps.docs.editors.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="google_docs"/>
+    <item component="ComponentInfo{com.google.android.apps.docs.editors.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="google_docs" />
 
     <!-- Google Drive -->
     <item component="ComponentInfo{com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="google_drive" />
