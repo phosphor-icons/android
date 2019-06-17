@@ -15,12 +15,16 @@
   ~ limitations under the License.
   -->
 <resources>
+    <version title="v1.4.2a" />
+    <item text="New icons for Phosphor Packs, in line and material styles" />
+    <version title="v1.4.1a" />
+    <item text="Updated tons of icons for consistency" />
+    <item text="Faster loading of wallpapers" />
+    <item text="Removed unrelated Zooper Widgets" />
     <version title="v1.4.0a" />
     <item text="TOTALLY NEW UI thanks to the awesome Blueprint Dashboard" />
     <item text="Allows filtering icons by category" />
-    <item text="" />
     <item text="Added some new icons" />
     <item text="Updated some old icons for consistency" />
-    <item text="" />
     <item text="" /> <!-- this one is empty and therefore ignored -->
 </resources>

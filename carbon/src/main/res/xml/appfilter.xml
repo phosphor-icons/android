@@ -29,6 +29,9 @@
     <!-- Nova Launcher Default App Drawer -->
     <item component=":LAUNCHER_ACTION_APP_DRAWER" drawable="apps" />
 
+    <!-- VERSION NUMBER CORRESPONDS TO APP versionCode -->
+    <version>9</version>
+
     <!-- 1.1.1.1 -->
     <item component="ComponentInfo{com.cloudflare.onedotonedotonedotone/com.cloudflare.app.presentation.main.MainActivity}" drawable="one_dot_one"/>
 
@@ -73,6 +76,7 @@
     <item component="ComponentInfo{com.accuweather.android.amazon.tablet/com.accuweather.android.amazon.tablet.Main}" drawable="accuweather"/>
     <item component="ComponentInfo{com.accuweather.android.simpleweatherlite.dellstreak/com.accuweather.android.simpleweatherlite.dellstreak.MainActivity}" drawable="accuweather"/>
     <item component="ComponentInfo{com.accuweather.android.simpleweatherlite.dellportrait/com.accuweather.android.simpleweatherlite.dellportrait.MainActivity}" drawable="accuweather"/>
+    <item component="ComponentInfo{com.accuweather.android/com.accuweather.onboarding.SplashScreen}" drawable="accuweather"/>
 
     <!-- Acorns -->
     <item component="ComponentInfo{com.acorns.android/com.acorns.android.activities.MainActivity}" drawable="acorns" />
@@ -1238,7 +1242,7 @@
     <item component="ComponentInfo{com.google.android.apps.wellbeing/com.google.android.apps.wellbeing.settings.LauncherActivity}" drawable="google_digital_wellbeing"/>
 
     <!-- Google Docs -->
-    <item component="com.google.android.apps.docs.editors.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="google_docs"/>
+    <item component="ComponentInfo{com.google.android.apps.docs.editors.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="google_docs" />
 
     <!-- Google Drive -->
     <item component="ComponentInfo{com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="google_drive" />
@@ -1908,11 +1912,10 @@
     <item component="ComponentInfo{com.philips.lighting.hue2/com.philips.lighting.hue2.ContentActivity}" drawable="hue" />
 
     <!-- Phosphor Carbon -->
-    <item component="ComponentInfo{com.tobiasfried.phosphor/com.tobiasfried.phosphor.activities.MainActivity}" drawable="phosphor" />
-
-    <!-- Phosphor Helium -->
-    <!-- Phosphor Krypton -->
-    <!-- Phosphor Xenon -->
+    <item component="ComponentInfo{com.tobiasfried.phosphor.mercury/com.tobiasfried.phosphor.mercury.MainActivity}" drawable="phosphor" />
+    <item component="ComponentInfo{com.tobiasfried.phosphor/com.tobiasfried.phosphor.MainActivity" drawable="phosphor_carbon" />
+    <item component="ComponentInfo{com.tobiasfried.phosphor.helium/com.tobiasfried.phosphor.helium.MainActivity" drawable="phosphor_helium" />
+    <item component="ComponentInfo{com.tobiasfried.phosphor.krypton/com.tobiasfried.phosphor.krypton.MainActivity" drawable="phosphor_krypton" />
 
     <!-- Phone -->
     <item component="ComponentInfo{com.android.dialer/com.android.dialer.DialtactsActivity}" drawable="phone" />

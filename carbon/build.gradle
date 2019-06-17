@@ -71,8 +71,8 @@ android {
         applicationId "com.tobiasfried.phosphor"
         minSdkVersion versions.minSdk
         targetSdkVersion versions.targetSdk
-        versionCode 8
-        versionName "1.4.0a"
+        versionCode 9
+        versionName "1.4.1a"
         vectorDrawables.useSupportLibrary = true
         proguardFiles 'proguard-android-optimize.txt', 'proguard-rules.pro'
         consumerProguardFiles 'proguard-android-optimize.txt', 'proguard-rules.pro'
