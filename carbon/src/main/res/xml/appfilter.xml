@@ -30,7 +30,7 @@
     <item component=":LAUNCHER_ACTION_APP_DRAWER" drawable="apps" />
 
     <!-- VERSION NUMBER CORRESPONDS TO APP versionCode -->
-    <version>9</version>
+    <version>10</version>
 
     <!-- 1.1.1.1 -->
     <item component="ComponentInfo{com.cloudflare.onedotonedotonedotone/com.cloudflare.app.presentation.main.MainActivity}" drawable="one_dot_one"/>
@@ -1911,7 +1911,7 @@
     <!-- Philips Hue -->
     <item component="ComponentInfo{com.philips.lighting.hue2/com.philips.lighting.hue2.ContentActivity}" drawable="hue" />
 
-    <!-- Phosphor Carbon -->
+    <!-- Phosphor -->
     <item component="ComponentInfo{com.tobiasfried.phosphor.mercury/com.tobiasfried.phosphor.mercury.MainActivity}" drawable="phosphor" />
     <item component="ComponentInfo{com.tobiasfried.phosphor/com.tobiasfried.phosphor.MainActivity" drawable="phosphor_carbon" />
     <item component="ComponentInfo{com.tobiasfried.phosphor.helium/com.tobiasfried.phosphor.helium.MainActivity" drawable="phosphor_helium" />

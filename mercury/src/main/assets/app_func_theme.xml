@@ -18,7 +18,7 @@
   ~ 	https://github.com/jahirfiquitiva/IconShowcase#special-thanks
   -->
 
-<Theme version="1">
+<Theme version="@string/version_code">
     <!-- Wallpaper name/Background color and transparency -->
     <Wallpaper bg_color="#222222" image="funbg"></Wallpaper>
     <!-- folder thumbnail -->

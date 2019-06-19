@@ -21,7 +21,7 @@
 <themeInfo>
     <packageName>com.tobiasfried.phosphor</packageName>
     <versionName>1.4.2a</versionName>
-    <versionCode>9</versionCode>
+    <versionCode>10</versionCode>
     <themeName>Phosphor Carbon</themeName>
     <!-- Default Component Color -->
     <themePointColor>#00b0ff</themePointColor>

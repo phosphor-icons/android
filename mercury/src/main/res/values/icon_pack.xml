@@ -23,49 +23,51 @@
     <!-- Make sure to put at least 8 icons -->
     <string-array name="icons_preview">
         <item>alltrails</item>
-        <item>banking</item>
         <item>doodle_jump</item>
         <item>google_drive</item>
+        <item>google_digital_wellbeing</item>
         <item>fenix</item>
+        <item>firefox</item>
         <item>gallery</item>
+        <item>giphy</item>
+        <item>google_console</item>
         <item>google_docs</item>
         <item>google_lens</item>
+        <item>google_one</item>
         <item>headspace</item>
+        <item>ia_writer</item>
         <item>instagram</item>
-        <item>messages</item>
+        <item>chat</item>
         <item>minecraft</item>
         <item>nbc</item>
         <item>news_alt</item>
         <item>nytimes</item>
         <item>podcast</item>
-        <item>phone_alt</item>
+        <item>gboard</item>
+        <item>delivery</item>
+        <item>skype</item>
+        <item>roku</item>
+        <item>proton_vpn</item>
+        <item>pubg</item>
+        <item>kustom_klwp</item>
+        <item>kustom_kwgt</item>
+        <item>hyperion</item>
+        <item>phosphor</item>
+        <item>phosphor_carbon</item>
+        <item>phosphor_helium</item>
+        <item>phosphor_krypton</item>
         <item>radio</item>
         <item>robinhood</item>
-        <item>sim_card</item>
-        <item>slack</item>
+        <item>sync_for_reddit</item>
         <item>twitch</item>
         <item>timer</item>
-        <item>transit</item>
-        <item>airbnb</item>
-        <item>boost_for_reddit</item>
-        <item>brave</item>
-        <item>craigslist</item>
-        <item>draw</item>
-        <item>duolingo</item>
-        <item>email_alt</item>
-        <item>foursquare</item>
-        <item>giphy</item>
-        <item>ia_writer</item>
-        <item>imgur</item>
-        <item>medium</item>
-        <item>notion</item>
-        <item>nord_vpn</item>
-        <item>samsung_internet</item>
-        <item>shazam</item>
-        <item>snapchat</item>
-        <item>steam</item>
-        <item>tiktok</item>
-        <item>weather_underground</item>
+        <item>bandsintown</item>
+        <item>barcode_scanner</item>
+        <item>barcode_scanner_alt</item>
+        <item>hulu</item>
+        <item>microsoft_edge</item>
+        <item>nova_launcher</item>
+        <item>nova_launcher_settings</item>
     </string-array>
 
     <!-- Filter Categories -->
@@ -135,8 +137,8 @@
         <item>banking_alt</item>
         <item>banking</item>
         <item>bank_of_america</item>
-        <item>barcode_scanner_alt</item>
         <item>barcode_scanner</item>
+        <item>barcode_scanner_alt</item>
         <item>bbc</item>
         <item>boost_for_reddit</item>
         <item>box</item>
@@ -146,16 +148,6 @@
         <item>calculator_alt</item>
         <item>calculator_plus_plus</item>
         <item>calculator</item>
-        <item>calendar</item>
-        <item>calendar_1</item>
-        <item>calendar_2</item>
-        <item>calendar_3</item>
-        <item>calendar_4</item>
-        <item>calendar_5</item>
-        <item>calendar_6</item>
-        <item>calendar_7</item>
-        <item>calendar_8</item>
-        <item>calendar_9</item>
         <item>calendar_10</item>
         <item>calendar_11</item>
         <item>calendar_12</item>
@@ -166,6 +158,7 @@
         <item>calendar_17</item>
         <item>calendar_18</item>
         <item>calendar_19</item>
+        <item>calendar_1</item>
         <item>calendar_20</item>
         <item>calendar_21</item>
         <item>calendar_22</item>
@@ -176,8 +169,17 @@
         <item>calendar_27</item>
         <item>calendar_28</item>
         <item>calendar_29</item>
+        <item>calendar_2</item>
         <item>calendar_30</item>
         <item>calendar_31</item>
+        <item>calendar_3</item>
+        <item>calendar_4</item>
+        <item>calendar_5</item>
+        <item>calendar_6</item>
+        <item>calendar_7</item>
+        <item>calendar_8</item>
+        <item>calendar_9</item>
+        <item>calendar</item>
         <item>camera_alt</item>
         <item>camera</item>
         <item>candy_crush</item>
@@ -355,6 +357,10 @@
         <item>paypal</item>
         <item>phone_alt</item>
         <item>phone</item>
+        <item>phosphor</item>
+        <item>phosphor_carbon</item>
+        <item>phosphor_helium</item>
+        <item>phosphor_krypton</item>
         <item>pinterest</item>
         <item>player_fm</item>
         <item>plex_alt</item>
@@ -446,80 +452,23 @@
         <item>zero_launcher</item>
     </string-array>
 
-
     <string-array name="recent">
-        <item>instagram</item>
-        <item>instagram_alt</item>
-        <item>news</item>
-        <item>news_alt</item>
-        <item>notes_alt</item>
-        <item>phone</item>
-        <item>sports</item>
-        <item>video</item>
-        <item>web</item>
-        <item>web_alt</item>
-        <item>web_alt_2</item>
-        <item>audio</item>
-        <item>camera</item>
-        <item>camera_alt</item>
-        <item>chat</item>
-        <item>gallery</item>
-        <item>hype_machine</item>
-        <item>ia_writer</item>
-        <item>lyft</item>
-        <item>messages</item>
-        <item>messages_alt</item>
-        <item>spotify</item>
-        <item>twitter</item>
-        <item>wallpaper</item>
-        <item>adblock</item>
-        <item>adblock_alt</item>
-        <item>banking</item>
-        <item>banking_alt</item>
+        <item>bbc</item>
+        <item>drops</item>
+        <item>firefox</item>
+        <item>kustom</item>
+        <item>roku</item>
+        <item>phosphor</item>
+        <item>phosphor_carbon</item>
+        <item>phosphor_helium</item>
+        <item>phosphor_krypton</item>
+        <item>bandsintown</item>
         <item>barcode_scanner</item>
         <item>barcode_scanner_alt</item>
-        <item>calendar</item>
-        <item>cloud_alt</item>
-        <item>cloud</item>
-        <item>compass</item>
-        <item>customization</item>
-        <item>dropbox</item>
-        <item>education</item>
-        <item>email_alt</item>
-        <item>emergency_alerts</item>
-        <item>facebook_alt</item>
-        <item>facebook</item>
-        <item>file_manager</item>
-        <item>flashlight_alt</item>
-        <item>flashlight</item>
-        <item>games</item>
-        <item>games_alt</item>
-        <item>gboard_alt</item>
-        <item>google_lens</item>
-        <item>mic_alt</item>
-        <item>mic</item>
-        <item>outdoors</item>
-        <item>phone_alt</item>
-        <item>podcast</item>
-        <item>radio</item>
-        <item>sim_card</item>
-        <item>social</item>
-        <item>sound_recorder</item>
-        <item>sound_recorder_alt</item>
-        <item>starbucks</item>
-        <item>steam</item>
-        <item>system_updates</item>
-        <item>the_weather_channel</item>
-        <item>timer</item>
-        <item>timer_alt</item>
-        <item>travel</item>
-        <item>venmo</item>
-        <item>waze</item>
-        <item>wearables</item>
-        <item>wearables_alt</item>
-        <item>weather</item>
-        <item>xbox</item>
-        <item>yelp</item>
+        <item>hulu</item>
+        <item>microsoft_edge</item>
+        <item>nova_launcher</item>
+        <item>nova_launcher_settings</item>
     </string-array>
 
     <string-array name="banking">
@@ -537,9 +486,9 @@
         <item>paypal</item>
         <item>robinhood</item>
         <item>square_cash</item>
-        <item>td_bank</item>
+        <item>tdbank</item>
         <item>venmo</item>
-        <item>wells_fargo</item>
+        <item>wellsfargo</item>
         <item>yahoo_finance</item>
         <item>zelle</item>
     </string-array>
@@ -553,7 +502,7 @@
         <item>adobe_photoshop_sketch</item>
         <item>camera</item>
         <item>draw</item>
-        <item>figma_mirror</item>
+        <item>figma</item>
         <item>flickr</item>
         <item>giphy</item>
         <item>google_photos</item>
@@ -569,6 +518,7 @@
         <item>drops</item>
         <item>duolingo</item>
         <item>duolingo_alt</item>
+        <item>education</item>
         <item>education</item>
         <item>headspace</item>
         <item>headspace_alt</item>
@@ -660,8 +610,8 @@
         <item>amazon_kindle</item>
         <item>apple_music</item>
         <item>apple_music_alt</item>
-        <item>amazon_kindle</item>
-        <item>amazon_video</item>
+        <item>apple_video</item>
+        <item>apple_video_alt</item>
         <item>audible</item>
         <item>audio</item>
         <item>bandsintown</item>
@@ -737,14 +687,13 @@
         <item>news_alt</item>
         <item>nytimes</item>
         <item>nytimes_alt</item>
-        <item>weather</item>
         <item>the_weather_channel</item>
-        <item>weather_underground</item>
+        <item>weatherunderground</item>
         <item>yahoo_news</item>
         <item>yahoo_weather</item>
     </string-array>
 
-    <string-array name="personaliztion">
+    <string-array name="personalization">
         <item>action_launcher</item>
         <item>adw_launcher</item>
         <item>apex_launcher</item>
@@ -765,6 +714,10 @@
         <item>niagara_launcher</item>
         <item>nova_launcher</item>
         <item>nova_launcher_settings</item>
+        <item>phosphor</item>
+        <item>phosphor_carbon</item>
+        <item>phosphor_helium</item>
+        <item>phosphor_krypton</item>
         <item>smart_launcher</item>
         <item>solo_launcher</item>
         <item>tasker</item>
@@ -828,7 +781,7 @@
     </string-array>
 
     <string-array name="shopping">
-        <item>ali_express</item>
+        <item>aliexpress</item>
         <item>amazon</item>
         <item>craigslist</item>
         <item>ebay</item>
@@ -859,7 +812,7 @@
         <item>reddit_alt</item>
         <item>snapchat</item>
         <item>social</item>
-        <item>sync_for_reddit</item>
+        <item>sync</item>
         <item>tiktok</item>
         <item>tinder</item>
         <item>tumblr</item>
@@ -930,6 +883,7 @@
         <item>productivity</item>
         <item>radio</item>
         <item>settings</item>
+        <item>settings_alt</item>
         <item>sound_recorder</item>
         <item>sound_recorder_alt</item>
         <item>timer</item>

@@ -32,6 +32,13 @@
     <item drawable="phosphor_helium"/>
     <item drawable="phosphor_krypton"/>
     <item drawable="roku"/>
+    <item drawable="bandsintown" />
+    <item drawable="barcode_scanner" />
+    <item drawable="barcode_scanner_alt" />
+    <item drawable="hulu" />
+    <item drawable="microsoft_edge" />
+    <item drawable="nova_launcher" />
+    <item drawable="nova_launcher_settings" />
 
     <category title="Banking" />
     <item drawable="acorns"/>
@@ -717,6 +724,10 @@
     <item drawable="paypal" />
     <item drawable="phone" />
     <item drawable="phone_alt" />
+    <item drawable="phosphor"/>
+    <item drawable="phosphor_carbon"/>
+    <item drawable="phosphor_helium"/>
+    <item drawable="phosphor_krypton"/>
     <item drawable="pinterest" />
     <item drawable="player_fm" />
     <item drawable="plex" />

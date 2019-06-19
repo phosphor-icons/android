@@ -20,7 +20,7 @@
     <string name="email">friedtm@gmail.com</string>
 
     <!-- Mail subjects for simple e-mail and requests e-mail -->
-    <string name="email_subject">Phosphor Carbon</string>
+    <string name="email_subject">@string/app_name</string>
     <string name="request_title">Phosphor Icon Request</string>
 
     <!-- Strings for Wallpapers and Requests -->
