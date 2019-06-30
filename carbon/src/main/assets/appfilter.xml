@@ -765,8 +765,9 @@
 
     <!-- Chase -->
     <item component="ComponentInfo{com.chase.sig.android/com.chase.sig.android.activity.HomeActivity}" drawable="chase"/>
+    <item component="ComponentInfo{com.chase.sig.android/com.chase.sig.android.activity.LoginActivity}" drawable="chase"/>
 
-        <!-- Chase Pay -->
+    <!-- Chase Pay -->
         <!--<item component="ComponentInfo{com.chasepay.sig.android/com.chase.sig.android.activity.LoginActivity}" drawable="chase_pay"/>-->
 
     <!-- Chess For Android -->
