@@ -32,14 +32,14 @@ class MainActivity : BottomNavigationBlueprintActivity() {
     override var donationsEnabled = true
 
     override fun amazonInstallsEnabled(): Boolean = false
-    override fun checkLPF(): Boolean = true
-    override fun checkStores(): Boolean = true
+    override fun checkLPF(): Boolean = false
+    override fun checkStores(): Boolean = false
 
     /**
      * This is your app's license key. Get yours on Google Play Dev Console.
      * Default one isn't valid and could cause issues in your app.
      */
-    override fun getLicKey(): String? = "MIIBIjANBgkqhkiGgKglYGYGihLuihUuhhuBlouBkuiu"
+    override fun getLicKey(): String? = "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAne5eLPQHZlmZhqvPaBLAihNYGSRQvxTlZXMmFOsA89vk5KqihBwE4AYF+EnX4r8IAod98LZA8sebIqQyftzaZfXMRummEG/C8dT/agYRyTQewSCTGjXc7gM6jYFFRYUBLdSW8MAc+JgKLIMoNsKguvzs/VTdczLY+Liz11qBo3/y7WyFcghmV4qrr+kETuK8gqn2oqyzJcpRVO2qxSnJYP76tq56azzixCM/m0w/0R5u0x4JqdlPihlmeQlHCRu2qSC5X5zWJgm4ilPVe5QiS9a4tjH43nouW/fyGYpXmYPt/DCPuAKLHyK+tcf/+YZHTzbrKOpqaW1ZF+Auo7eAKQIDAQAB"
 
     /**
      * This is the license checker code. Feel free to create your own implementation or

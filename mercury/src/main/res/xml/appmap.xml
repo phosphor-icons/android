@@ -1889,7 +1889,6 @@
     <!-- Phosphor Carbon -->
     <item class="com.tobiasfried.phosphor.mercury.MainActivity" name="phosphor" />
     <item class="com.tobiasfried.phosphor.MainActivity" name="phosphor_carbon" />
-    <item class="com.tobiasfried.phosphor.MainActivity" name="phosphor_carbon" />
     <item class="com.tobiasfried.phosphor.helium.MainActivity" name="phosphor_helium" />
     <item class="com.tobiasfried.phosphor.krypton.MainActivity" name="phosphor_krypton" />
 

@@ -20,17 +20,20 @@
 
 <resources>
 
-    <version>10</version>
+    <version>11</version>
 
     <category title="Recent" />
     <item drawable="bbc"/>
     <item drawable="drops"/>
+    <item drawable="ebay"/>
     <item drawable="firefox"/>
+    <item drawable="fox_news"/>
     <item drawable="kustom"/>
     <item drawable="phosphor"/>
     <item drawable="phosphor_carbon"/>
     <item drawable="phosphor_helium"/>
     <item drawable="phosphor_krypton"/>
+    <item drawable="postmates"/>
     <item drawable="roku"/>
     <item drawable="bandsintown" />
     <item drawable="barcode_scanner" />

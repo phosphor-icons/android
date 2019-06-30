@@ -19,10 +19,10 @@
 
 <!-- This is for Atom Launcher -->
 <themeInfo>
-    <packageName>com.tobiasfried.phosphor.helium</packageName>
+    <packageName>com.tobiasfried.phosphor.krypton</packageName>
     <versionName>1.4.2a</versionName>
     <versionCode>10</versionCode>
-    <themeName>Phosphor Helium</themeName>
+    <themeName>Phosphor Krypton</themeName>
     <!-- Default Component Color -->
     <themePointColor>#00b0ff</themePointColor>
     <themePreview img1="preview1" />

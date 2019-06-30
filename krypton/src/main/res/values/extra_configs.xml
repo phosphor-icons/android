@@ -21,12 +21,12 @@
     then write Activity
     -->
     <string name="main_activity_name">MainActivity</string>
-    <string name="main_activity_fullname">com.tobiasfried.phosphor.helium.MainActivity</string>
+    <string name="main_activity_fullname">com.tobiasfried.phosphor.krypton.MainActivity</string>
 
     <!--    These arrays are for the list of apps or links in main section. -->
     <string-array name="home_list_titles">
         <item>Tobias Fried</item>
-        <item>Phosphor Carbon</item>
+        <item>Phosphor Helium</item>
         <item>r/AndroidThemes</item>
     </string-array>
     <string-array name="home_list_descriptions">
@@ -36,12 +36,12 @@
     </string-array>
     <string-array name="home_list_icons">
         <item>google_play</item>
-        <item>phosphor_carbon</item>
+        <item>phosphor_helium</item>
         <item>reddit</item>
     </string-array>
     <string-array name="home_list_links">
         <item>https://play.google.com/store/apps/developer?id=Tobias+Fried</item>
-        <item>https://play.google.com/store/apps/details?id=com.tobiasfried.phosphor</item>
+        <item>https://play.google.com/store/apps/details?id=com.tobiasfried.phosphor.helium</item>
         <item>https://www.reddit.com/r/androidthemes/</item>
     </string-array>
 </resources>

@@ -15,10 +15,12 @@
   ~ limitations under the License.
   -->
 <resources>
+    <version title="v1.5.0" />
+    <item text="We have liftoff!" />
+    <item text="Updated tons of icons for consistency" />
     <version title="v1.4.2a" />
     <item text="New icons for Phosphor Packs, in line and material styles" />
     <version title="v1.4.1a" />
-    <item text="Updated tons of icons for consistency" />
     <item text="Faster loading of wallpapers" />
     <item text="Removed unrelated Zooper Widgets" />
     <version title="v1.4.0a" />

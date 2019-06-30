@@ -4,7 +4,7 @@
     <!-- SUPPORTED LAUNCHERS -->
     <!-- LG Home -->
 
-    <Label value="Phosphor Carbon" />
+    <Label value="Phosphor Helium" />
     <Wallpaper image="lg_homescreen_wallpaper" />
     <LockScreenWallpaper image="lockscreen_wallpaper" />
     <ThemePreview image="lg_homescreen_preview" />
@@ -1895,7 +1895,7 @@
 <AppIcon name="com.philips.lighting.hue2/com.philips.lighting.hue2.ContentActivity" image="hue" />
 
     <!-- Phosphor Carbon -->
-<AppIcon name="com.tobiasfried.phosphor.mercury.MainActivity}" image="phosphor" />
+<AppIcon name="com.tobiasfried.phosphor.mercury.MainActivity" image="phosphor" />
 <AppIcon name="com.tobiasfried.phosphor.MainActivity" image="phosphor_carbon" />
 <AppIcon name="com.tobiasfried.phosphor.helium.MainActivity" image="phosphor_helium" />
 <AppIcon name="com.tobiasfried.phosphor.krypton.MainActivity" image="phosphor_krypton" />

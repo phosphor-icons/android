@@ -1913,9 +1913,9 @@
 
     <!-- Phosphor -->
     <item component="ComponentInfo{com.tobiasfried.phosphor.mercury/com.tobiasfried.phosphor.mercury.MainActivity}" drawable="phosphor" />
-    <item component="ComponentInfo{com.tobiasfried.phosphor/com.tobiasfried.phosphor.MainActivity" drawable="phosphor_carbon" />
-    <item component="ComponentInfo{com.tobiasfried.phosphor.helium/com.tobiasfried.phosphor.helium.MainActivity" drawable="phosphor_helium" />
-    <item component="ComponentInfo{com.tobiasfried.phosphor.krypton/com.tobiasfried.phosphor.krypton.MainActivity" drawable="phosphor_krypton" />
+    <item component="ComponentInfo{com.tobiasfried.phosphor/com.tobiasfried.phosphor.MainActivity}" drawable="phosphor_carbon" />
+    <item component="ComponentInfo{com.tobiasfried.phosphor.helium/com.tobiasfried.phosphor.helium.MainActivity}" drawable="phosphor_helium" />
+    <item component="ComponentInfo{com.tobiasfried.phosphor.krypton/com.tobiasfried.phosphor.krypton.MainActivity}" drawable="phosphor_krypton" />
 
     <!-- Phone -->
     <item component="ComponentInfo{com.android.dialer/com.android.dialer.DialtactsActivity}" drawable="phone" />

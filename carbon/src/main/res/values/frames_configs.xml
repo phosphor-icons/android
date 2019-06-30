@@ -73,8 +73,8 @@
 
     <!--    These are your donation items. Only put their ids here -->
     <string-array name="donation_items">
-        <item>coffee</item>
-        <item>donut</item>
-        <item>lamborghini</item>
+        <item>square_cash</item>
+        <item>asana</item>
+        <item>alltrails</item>
     </string-array>
 </resources>

@@ -40,7 +40,7 @@ class MainActivity : BottomNavigationBlueprintActivity() {
      * This is your app's license key. Get yours on Google Play Dev Console.
      * Default one isn't valid and could cause issues in your app.
      */
-    override fun getLicKey(): String? = "MIIBIjANBgkqhkiGgKglYGYGihLuihUuhhuBlouBkuiu"
+    override fun getLicKey(): String? = "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvebgRNKRC0cCrQUbqAVbqIZMnwmvia2MIIIWaAws9mb5tDuNtamFGEgs/sGwGAzztyBitSN3dLR0VZ5r+BbL3z/GklNpUeIuT7FkPANBSv2PyiDjNGpqBjeh4Q2fesWDGjqV55pqF7w6WLqLtDv5a/Mb/ZpUqPEfIMxL64d6pZTpCbvukGQccJFtBuYX5vfD0AKb9+lAMVaCxSD93L8Mjskpp4dpaaV2w4riykWfAi5Fh8fxPbq3o4pb9X5m67DUkgBWxier36tgZJo3kaUnEgoDVDt3tcXj2tMBO3XSB0pngS3ASg8a2Y4LukpwsKPZ5FurRhpSga5wJeQ/LjnQzwIDAQAB"
 
     /**
      * This is the license checker code. Feel free to create your own implementation or
@@ -50,8 +50,7 @@ class MainActivity : BottomNavigationBlueprintActivity() {
      */
     override fun getLicenseChecker(): PiracyChecker? {
         destroyChecker() // Important
-        return if (BuildConfig.DEBUG) null
-        else super.getLicenseChecker()
+        return super.getLicenseChecker()
     }
 
     /**
