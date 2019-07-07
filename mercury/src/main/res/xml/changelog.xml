@@ -15,6 +15,9 @@
   ~ limitations under the License.
   -->
 <resources>
+    <version title="v1.5.2" />
+    <item text="Added 31 new icons" />
+    <item text="Added some hand-picked solid color wallpapers" />
     <version title="v1.5.1" />
     <item text="First of many regular updates!" />
     <item text="Added 33 new icons" />
@@ -22,14 +25,4 @@
     <version title="v1.5.0" />
     <item text="We have liftoff!" />
     <item text="Updated tons of icons for consistency" />
-    <version title="v1.4.2a" />
-    <item text="Added new icons for Phosphor Packs, in line and material styles" />
-    <version title="v1.4.1a" />
-    <item text="Fixed issue causing slow loading of wallpapers" />
-    <item text="Removed unrelated Zooper Widgets" />
-    <version title="v1.4.0a" />
-    <item text="TOTALLY NEW UI thanks to the awesome Blueprint Dashboard" />
-    <item text="Added some new icons" />
-    <item text="Updated some old icons for consistency" />
-    <item text="" /> <!-- this one is empty and therefore ignored -->
 </resources>
