@@ -50,7 +50,8 @@ class MainActivity : BottomNavigationBlueprintActivity() {
      */
     override fun getLicenseChecker(): PiracyChecker? {
         destroyChecker() // Important
-        return super.getLicenseChecker()
+        return if (BuildConfig.DEBUG) null
+        else return super.getLicenseChecker()
     }
 
     /**

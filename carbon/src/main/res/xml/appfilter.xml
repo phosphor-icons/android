@@ -316,6 +316,7 @@
     <!-- Ancestry -->
     <item component="ComponentInfo{com.ancestry.android.apps.ancestry/com.ancestry.android.apps.ancestry.WelcomeActivity}" drawable="ancestry"/>
     <item component="ComponentInfo{com.ancestry.android.apps.ancestry/com.ancestry.android.apps.ancestry.StartupActivity}" drawable="ancestry"/>
+    <item component="ComponentInfo{com.ancestry.android.apps.ancestry/com.ancestry.android.apps.launch.LaunchActivity}" drawable="ancestry"/>
 
     <!-- Android Auto -->
     <item component="ComponentInfo{com.google.android.projection.gearhead/com.google.android.gearhead.vanagon.VnLaunchPadActivity}" drawable="android_auto"/>
@@ -1885,6 +1886,13 @@
     <item component="ComponentInfo{io.dwak.holohackernews.app/io.dwak.holohackernews.app.ui.storylist.MainActivity}" drawable="hacker_news" />
     <item component="ComponentInfo{com.ifdefined.hackernews/com.ifdefined.hackernews.Hacker1}" drawable="hacker_news" />
     <item component="ComponentInfo{com.premii.hn/com.premii.hn.MainActivity}" drawable="hacker_news" />
+    <item component="ComponentInfo{io.pumpkinz.pumpkinreader/io.pumpkinz.pumpkinreader.MainActivity}" drawable="hacker_news" />
+    <item component="ComponentInfo{com.theappnerds.hackernews/com.theappnerds.hackernews.SplashScreenActivity}" drawable="hacker_news_alt" />
+    <item component="ComponentInfo{com.stefandekanski.hackernews.free/com.stefandekanski.hackernews.free.FreeSplashActivity}" drawable="hacker_news_alt" />
+    <item component="ComponentInfo{net.dreambits.hackernews/net.dreambits.hackernews.MainActivity}" drawable="hacker_news_alt" />
+    <item component="ComponentInfo{io.github.hidroh.materialistic/io.github.hidroh.materialistic.LauncherActivity}" drawable="hacker_news_alt" />
+    <item component="ComponentInfo{com.hadaclay.minimalhn/com.hadaclay.minimalhn.MainActivity}" drawable="hacker_news_alt" />
+    <item component="ComponentInfo{com.manuelmaly.hn/com.manuelmaly.hn.MainActivity_}" drawable="hacker_news_alt" />
 
     <!-- Harmony -->
     <!--<item component="ComponentInfo{com.logitech.harmonyhub/com.logitech.harmonyhub.ui.SplashActivity}" drawable="harmony" />-->
@@ -4021,6 +4029,7 @@
 
     <!-- Wikipedia -->
     <item component="ComponentInfo{org.wikipedia/org.wikipedia.main.MainActivity}" drawable="wikipedia"/>
+    <item component="ComponentInfo{org.wikipedia.beta/org.wikipedia.main.MainActivity}" drawable="wikipedia"/>
 
     <!-- Wigglegram -->
     <!--<item component="ComponentInfo{com.n4no.wigglegram/com.n4no.wigglegram.app.RecordingActivity}" drawable="wigglegram" />-->
@@ -4054,6 +4063,7 @@
     <!-- XDA Feed -->
     <item component="ComponentInfo{com.xda.feed/com.xda.feed.FeedActivity}" drawable="xda_feed" />
     <item component="ComponentInfo{com.xda.feed.oneplus3/com.xda.feed.FeedActivity}" drawable="xda_feed" />
+    <item component="ComponentInfo{com.xda.feed.pixel/com.xda.feed.FeedActivity}" drawable="xda_feed" />
     <item component="ComponentInfo{com.iven.xdafeedreader/com.iven.xdafeedreader.mainact.SplashActivity}" drawable="xda_feed" />
 
     <!-- Yahoo -->
