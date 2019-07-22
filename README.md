@@ -22,22 +22,19 @@ An elegant and sophisticated line icon pack to declutter your home screen.
 # Images
 
 ### Mercury
-<p align="left">
-	<img src="https://i.imgur.com/MBBdv5Z.jpg" height="175"/>
-</P>
 <p align="center">
-<img src="https://i.imgur.com/xNm4r65.png" height="350"/>
-<img src="https://i.imgur.com/e35mHMD.png" height="350"/>
-<img src="https://i.imgur.com/KOkyr1Z.png" height="350"/>
-<img src="https://i.imgur.com/biDWSTh.png" height="350"/>
+	<img src="https://i.imgur.com/Pavsi6Y.png" height="350"/>
+	<img src="https://i.imgur.com/xNm4r65.png" height="350"/>
+	<img src="https://i.imgur.com/e35mHMD.png" height="350"/>
+	<img src="https://i.imgur.com/KOkyr1Z.png" height="350"/>
 </p>
 
 ### Carbon
 <p align="center">
-<img src="https://github.com/jahirfiquitiva/Blueprint/raw/master/art/5.png" height="350"/>
-<img src="https://github.com/jahirfiquitiva/Blueprint/raw/master/art/6.png" height="350"/>
-<img src="https://github.com/jahirfiquitiva/Blueprint/raw/master/art/7.png" height="350"/>
-<img src="https://github.com/jahirfiquitiva/Blueprint/raw/master/art/8.png" height="350"/>
+	<img src="https://i.imgur.com/3qAt662.png" height="350"/>
+	<img src="https://i.imgur.com/SEC3PeI.pngg" height="350"/>
+	<img src="https://i.imgur.com/DfLKRw5.png" height="350"/>
+	<img src="https://i.imgur.com/szUHv06.png" height="350"/>
 </p>
 
 # Features:
