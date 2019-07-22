@@ -17,7 +17,6 @@ An elegant and sophisticated line icon pack to declutter your home screen.
 [![Follow on GitHub](https://img.shields.io/github/followers/rektdeckard.svg?style=social&label=Follow)](https://github.com/rektdeckard)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/friedtm.svg?style=social)](https://twitter.com/friedtm)
-[![Instagram Follow](https://img.shields.io/instagram/follow/tobiaswias.svg?style=social&logo=instagram)](https://instagram.com/tobiaswias)
 
 # Images
 
