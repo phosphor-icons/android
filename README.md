@@ -1,6 +1,6 @@
 <img src="https://github.com/rektdeckard/phosphor/blob/master/mercury/src/main/res/drawable-nodpi-v4/app_logo.png" width="192" align="right" hspace="20" />
 
-PHOSPHOR
+Phosphor
 ======
 
 ![API](https://img.shields.io/badge/API-16%2B-34bf49.svg)
@@ -15,10 +15,10 @@ An elegant and sophisticated line icon pack to declutter your home screen.
 [![GitHub stars](https://img.shields.io/github/stars/rektdeckard/phosphor.svg?style=social&label=Star)](https://github.com/rektdeckard/phorphor)
 [![GitHub forks](https://img.shields.io/github/forks/rektdeckard/phosphor.svg?style=social&label=Fork)](https://github.com/rektdeckard/phorphorfork)
 [![GitHub watchers](https://img.shields.io/github/watchers/rektdeckard/phosphor.svg?style=social&label=Watch)](https://github.com/rektdeckard/phorphor)
-
 [![Follow on GitHub](https://img.shields.io/github/followers/rektdeckard.svg?style=social&label=Follow)](https://github.com/rektdeckard)
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/friedtm.svg?style=social)](https://twitter.com/friedtm)
-[![Instagram](https://img.shields.io/instagram/follow/tobiaswias.svg)](https://instagram.com/tobiaswias)
+[![Instagram Follow](https://img.shields.io/instagram/follow/tobiaswias.svg?style=social&logo=instagram)](https://instagram.com/tobiaswias)
 
 ---
 
