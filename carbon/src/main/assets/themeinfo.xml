@@ -20,8 +20,8 @@
 <!-- This is for Atom Launcher -->
 <themeInfo>
     <packageName>com.tobiasfried.phosphor</packageName>
-    <versionName>1.5.2</versionName>
-    <versionCode>13</versionCode>
+    <versionName>1.5.3</versionName>
+    <versionCode>14</versionCode>
     <themeName>Phosphor Carbon</themeName>
     <!-- Default Component Color -->
     <themePointColor>#00b0ff</themePointColor>

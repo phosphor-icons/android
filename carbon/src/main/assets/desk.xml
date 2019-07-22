@@ -18,7 +18,7 @@
   ~ 	https://github.com/jahirfiquitiva/IconShowcase#special-thanks
   -->
 
-<Desk ScollWallpaper="false" Version="1.5.2" VersionCode="13" Wallpaper="default_wallpaper"
+<Desk ScollWallpaper="false" Version="1.5.3" VersionCode="14" Wallpaper="default_wallpaper"
       WallpaperFill="0">
     <!-- Common Style, for Icons -->
     <CommonStyles>
