@@ -23,7 +23,7 @@ An elegant and sophisticated line icon pack to declutter your home screen.
 
 ### Mercury
 <p align="center">
-	<img src="https://i.imgur.com/Pavsi6Y.png" height="350"/>
+	<img src="https://i.imgur.com/biDWSTh.png" height="350"/>
 	<img src="https://i.imgur.com/xNm4r65.png" height="350"/>
 	<img src="https://i.imgur.com/e35mHMD.png" height="350"/>
 	<img src="https://i.imgur.com/KOkyr1Z.png" height="350"/>
