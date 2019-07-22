@@ -1,7 +1,6 @@
 <img src="https://github.com/rektdeckard/phosphor/blob/master/mercury/src/main/res/drawable-nodpi-v4/app_logo.png" width="192" align="right" hspace="20" />
 
-Phosphor
-======
+# Phosphor
 
 ![API](https://img.shields.io/badge/API-16%2B-34bf49.svg)
 [![JitPack](https://jitpack.io/v/com.jahirfiquitiva/Blueprint.svg)](https://jitpack.io/#com.jahirfiquitiva/Blueprint)
@@ -20,37 +19,26 @@ An elegant and sophisticated line icon pack to declutter your home screen.
 [![Twitter Follow](https://img.shields.io/twitter/follow/friedtm.svg?style=social)](https://twitter.com/friedtm)
 [![Instagram Follow](https://img.shields.io/instagram/follow/tobiaswias.svg?style=social&logo=instagram)](https://instagram.com/tobiaswias)
 
----
+# Images
 
-# Previews
-
-### Customizable styles
-
-### Home / Icons / Changelog
+### Mercury
+<p align="left">
+	<img src="https://i.imgur.com/MBBdv5Z.jpg" height="175"/>
+</P>
 <p align="center">
-<img src="https://github.com/jahirfiquitiva/Blueprint/raw/master/art/1.png" height="350"/>
-<img src="https://github.com/jahirfiquitiva/Blueprint/raw/master/art/3.png" height="350"/>
-<img src="https://github.com/jahirfiquitiva/Blueprint/raw/master/art/4.png" height="350"/>
-<img src="https://github.com/jahirfiquitiva/Blueprint/raw/master/art/9.png" height="350"/>
+<img src="https://i.imgur.com/xNm4r65.png" height="350"/>
+<img src="https://i.imgur.com/e35mHMD.png" height="350"/>
+<img src="https://i.imgur.com/KOkyr1Z.png" height="350"/>
+<img src="https://i.imgur.com/biDWSTh.png" height="350"/>
 </p>
 
-### Wallpapers / Apply / Requests / Templates (Zooper & Kustom)
+### Carbon
 <p align="center">
 <img src="https://github.com/jahirfiquitiva/Blueprint/raw/master/art/5.png" height="350"/>
 <img src="https://github.com/jahirfiquitiva/Blueprint/raw/master/art/6.png" height="350"/>
 <img src="https://github.com/jahirfiquitiva/Blueprint/raw/master/art/7.png" height="350"/>
 <img src="https://github.com/jahirfiquitiva/Blueprint/raw/master/art/8.png" height="350"/>
 </p>
-
-### Help / Credits / Settings / Legacy Navigation Drawer
-<p align="center">
-<img src="https://github.com/jahirfiquitiva/Blueprint/raw/master/art/10.png" height="350"/>
-<img src="https://github.com/jahirfiquitiva/Blueprint/raw/master/art/11.png" height="350"/>
-<img src="https://github.com/jahirfiquitiva/Blueprint/raw/master/art/12.png" height="350"/>
-<img src="https://github.com/jahirfiquitiva/Blueprint/raw/master/art/13.png" height="350"/>
-</p>
-
----
 
 # Features:
 - Material Design dashboard.
