@@ -1,6 +1,6 @@
-<img src="https://github.com/jahirfiquitiva/Blueprint/raw/master/art/app_logo.png" width="192" align="right" hspace="20" />
+<img src="https://github.com/rektdeckard/phosphor/blob/master/mercury/src/main/res/drawable-nodpi-v4/app_logo.png" width="192" align="right" hspace="20" />
 
-Blueprint
+PHOSPHOR
 ======
 
 ![API](https://img.shields.io/badge/API-16%2B-34bf49.svg)
@@ -9,24 +9,16 @@ Blueprint
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/55f3f196492a4ea88f13da0f219b9125)](https://www.codacy.com/app/jahirfiquitiva/Blueprint?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=jahirfiquitiva/Blueprint&amp;utm_campaign=Badge_Grade)
 [![Crowdin](https://d322cqt584bo4o.cloudfront.net/blueprint/localized.svg)](http://j.mp/BlueprintTranslations)
 
-A full-of-features, easy-to-customize, free and open source, light-weight, Android dashboard library for icon packs.
-
-<a target="_blank" href="http://j.mp/BlueprintAPK">
-<img src="https://jahirfiquitiva.com/share/download_sample.svg?maxAge=432000" width="200"/>
-</a>
-
-<a target="_blank" href="https://jahirfiquitiva.com/support/">
-<img src="https://jahirfiquitiva.com/share/support_my_work.svg?maxAge=432000" width="200"/>
-</a>
+An elegant and sophisticated line icon pack to declutter your home screen.
 
 ## Show some  :blue_heart:
-[![GitHub stars](https://img.shields.io/github/stars/jahirfiquitiva/Blueprint.svg?style=social&label=Star)](https://github.com/jahirfiquitiva/Blueprint)
-[![GitHub forks](https://img.shields.io/github/forks/jahirfiquitiva/Blueprint.svg?style=social&label=Fork)](https://github.com/jahirfiquitiva/Blueprint/fork)
-[![GitHub watchers](https://img.shields.io/github/watchers/jahirfiquitiva/Blueprint.svg?style=social&label=Watch)](https://github.com/jahirfiquitiva/Blueprint)
+[![GitHub stars](https://img.shields.io/github/stars/rektdeckard/phosphor.svg?style=social&label=Star)](https://github.com/rektdeckard/phorphor)
+[![GitHub forks](https://img.shields.io/github/forks/rektdeckard/phosphor.svg?style=social&label=Fork)](https://github.com/rektdeckard/phorphorfork)
+[![GitHub watchers](https://img.shields.io/github/watchers/rektdeckard/phosphor.svg?style=social&label=Watch)](https://github.com/rektdeckard/phorphor)
 
-[![Follow on GitHub](https://img.shields.io/github/followers/jahirfiquitiva.svg?style=social&label=Follow)](https://github.com/jahirfiquitiva)
-[![Twitter Follow](https://img.shields.io/twitter/follow/jahirfiquitiva.svg?style=social)](https://twitter.com/jahirfiquitiva)
-[![Google+](https://img.shields.io/badge/Follow-Google%2B-ea4335.svg)](https://plus.google.com/+JahirFiquitivaR)
+[![Follow on GitHub](https://img.shields.io/github/followers/rektdeckard.svg?style=social&label=Follow)](https://github.com/rektdeckard)
+[![Twitter Follow](https://img.shields.io/twitter/follow/friedtm.svg?style=social)](https://twitter.com/friedtm)
+[![Instagram](https://img.shields.io/instagram/follow/tobiaswias.svg)](https://instagram.com/tobiaswias)
 
 ---
 
