@@ -87,6 +87,7 @@ proguard/
 /.idea/codeStyles
 /.idea/markdown-navigator
 /.idea/*.xml
+
 #gradle.properties
 *.iml
 =======
@@ -103,3 +104,6 @@ proguard/
 
 # Version control
 vcs.xml
+
+# Icon Assets
+drawable-nodpi/
