@@ -1103,6 +1103,7 @@
 
     <string-array name="banking">
         <item>acorns</item>
+        <item>alipay</item>
         <item>ame_digital</item>
         <item>amex</item>
         <item>bank_of_america</item>
@@ -1113,22 +1114,21 @@
         <item>chime</item>
         <item>coinbase</item>
         <item>coinbase_alt</item>
+        <item>credit_karma</item>
         <item>finance</item>
         <item>google_pay</item>
         <item>paypal</item>
+        <item>paytm</item>
+        <item>phonepe</item>
         <item>robinhood</item>
         <item>square_cash</item>
+        <item>stocard</item>
         <item>subscriptions</item>
         <item>td_bank</item>
         <item>venmo</item>
         <item>wells_fargo</item>
         <item>yahoo_finance</item>
         <item>zelle</item>
-        <item>alipay</item>
-        <item>credit_karma</item>
-        <item>paytm</item>
-        <item>phonepe</item>
-        <item>stocard</item>
     </string-array>
 
     <string-array name="creative">
@@ -1149,16 +1149,16 @@
         <item>flickr</item>
         <item>giphy</item>
         <item>google_photos</item>
+        <item>huji_cam</item>
         <item>imgur</item>
         <item>instagram</item>
         <item>instagram_alt</item>
         <item>patreon</item>
         <item>patreon_alt</item>
         <item>pinterest</item>
+        <item>pixlr</item>
         <item>snapseed</item>
         <item>vsco</item>
-        <item>huji_cam</item>
-        <item>pixlr</item>
     </string-array>
 
     <string-array name="education">
@@ -1275,21 +1275,22 @@
         <item>hue</item>
         <item>kasa</item>
         <item>life360</item>
-        <item>myjio</item>
         <item>my_verizon</item>
+        <item>myjio</item>
         <item>t_mobile</item>
     </string-array>
 
     <string-array name="media">
         <item>amazon_kindle</item>
         <item>amazon_music</item>
+        <item>amazon_video</item>
         <item>apple_music</item>
         <item>apple_music_alt</item>
-        <item>amazon_video</item>
         <item>audible</item>
         <item>audio</item>
         <item>bandcamp</item>
         <item>bandsintown</item>
+        <item>blackplayer</item>
         <item>castbox</item>
         <item>funimation</item>
         <item>goodreads</item>
@@ -1305,6 +1306,7 @@
         <item>iheartradio</item>
         <item>imdb</item>
         <item>imdb_alt</item>
+        <item>jiotv</item>
         <item>mi_music</item>
         <item>mi_video</item>
         <item>music</item>
@@ -1320,22 +1322,20 @@
         <item>poweramp</item>
         <item>retro_music</item>
         <item>roku</item>
+        <item>samsung_music</item>
         <item>shazam</item>
         <item>soundcloud</item>
         <item>soundhound</item>
         <item>spotify</item>
         <item>stitcher</item>
+        <item>ticketmaster</item>
         <item>tidal</item>
         <item>twitch</item>
         <item>video</item>
         <item>vlc</item>
+        <item>youku</item>
         <item>youtube</item>
         <item>youtube_music</item>
-        <item>blackplayer</item>
-        <item>jiotv</item>
-        <item>samsung_music</item>
-        <item>ticketmaster</item>
-        <item>youku</item>
         <item>youtube_vanced</item>
     </string-array>
 
@@ -1358,7 +1358,9 @@
         <item>messages_alt</item>
         <item>microsoft_outlook</item>
         <item>plus_messenger</item>
+        <item>pulse_messenger</item>
         <item>pushbullet</item>
+        <item>samsung_messages</item>
         <item>signal</item>
         <item>skype</item>
         <item>slack</item>
@@ -1369,8 +1371,6 @@
         <item>wechat</item>
         <item>whatsapp</item>
         <item>yahoo_mail</item>
-        <item>pulse_messenger</item>
-        <item>samsung_messages</item>
     </string-array>
 
     <string-array name="news_and_weather">
@@ -1406,6 +1406,8 @@
         <item>afterglow</item>
         <item>amoledwalls</item>
         <item>apex_launcher</item>
+        <item>aurora_droid</item>
+        <item>aurora_store</item>
         <item>backdrops</item>
         <item>delta</item>
         <item>evie_launcher</item>
@@ -1418,15 +1420,16 @@
         <item>kustom_kapk</item>
         <item>kustom_klck</item>
         <item>kustom_klwp</item>
-        <item>kustom_kwgt</item>
         <item>kustom_kweather</item>
+        <item>kustom_kwgt</item>
         <item>lawnchair_launcher</item>
         <item>linebit</item>
         <item>lucid_launcher</item>
-        <item>magisk_manager</item>
-        <item>microsoft_launcher</item>
         <item>m_launcher</item>
+        <item>magisk_manager</item>
         <item>mi_store</item>
+        <item>microsoft_launcher</item>
+        <item>miui_themes</item>
         <item>niagara_launcher</item>
         <item>nova_launcher</item>
         <item>nova_launcher_settings</item>
@@ -1435,36 +1438,33 @@
         <item>phosphor_carbon</item>
         <item>phosphor_helium</item>
         <item>phosphor_krypton</item>
+        <item>poco_launcher</item>
         <item>resplash</item>
+        <item>rgb_color_wallpaper</item>
+        <item>samsung_galaxy_store</item>
         <item>screener</item>
+        <item>sesame</item>
         <item>smart_launcher</item>
         <item>snapmod</item>
         <item>solo_launcher</item>
         <item>substratum</item>
         <item>substratum_theme</item>
-        <item>tholotis</item>
+        <item>system_ui_tuner</item>
         <item>tasker</item>
+        <item>tholotis</item>
         <item>walli</item>
         <item>walli_alt</item>
         <item>wallpaper</item>
         <item>xda_feed</item>
         <item>xda_feed_alt</item>
         <item>zero_launcher</item>
-        <item>aurora_droid</item>
-        <item>aurora_store</item>
-        <item>miui_themes</item>
-        <item>poco_launcher</item>
-        <item>rgb_color_wallpaper</item>
-        <item>samsung_galaxy_store</item>
-        <item>sesame</item>
-        <item>system_ui_tuner</item>
     </string-array>
 
     <string-array name="productivity">
+        <item>adm</item>
         <item>adobe_acrobat</item>
         <item>adobe_fill_and_sign</item>
         <item>adobe_scan</item>
-        <item>adm</item>
         <item>amazon_alexa</item>
         <item>anydo</item>
         <item>asana</item>
@@ -1475,6 +1475,7 @@
         <item>dictionary</item>
         <item>dropbox</item>
         <item>email</item>
+        <item>evernote</item>
         <item>gboard</item>
         <item>gboard_alt</item>
         <item>gmail</item>
@@ -1498,6 +1499,7 @@
         <item>mi_drop</item>
         <item>microsoft_cortana</item>
         <item>microsoft_excel</item>
+        <item>microsoft_onedrive</item>
         <item>microsoft_onenote</item>
         <item>microsoft_outlook</item>
         <item>microsoft_powerpoint</item>
@@ -1511,14 +1513,12 @@
         <item>productivity</item>
         <item>pushbullet</item>
         <item>samsung_notes</item>
+        <item>samsung_reminder</item>
         <item>subscriptions</item>
+        <item>swiftkey</item>
         <item>todoist</item>
         <item>wps_office</item>
         <item>yahoo</item>
-        <item>evernote</item>
-        <item>microsoft_onedrive</item>
-        <item>samsung_reminder</item>
-        <item>swiftkey</item>
     </string-array>
 
     <string-array name="security">
@@ -1546,13 +1546,13 @@
         <item>ali_express</item>
         <item>amazon</item>
         <item>amazon_now</item>
+        <item>chewy</item>
         <item>craigslist</item>
         <item>ebay</item>
         <item>google_express</item>
         <item>groupon</item>
         <item>shopping</item>
         <item>ticketmaster</item>
-        <item>chewy</item>
         <item>walmart</item>
     </string-array>
 
@@ -1580,24 +1580,24 @@
         <item>miui_feedback</item>
         <item>nine_gag</item>
         <item>okcupid</item>
+        <item>oneplus_community</item>
         <item>pinterest</item>
         <item>quora</item>
         <item>reddit</item>
         <item>reddit_alt</item>
-        <item>snapchat</item>
+        <item>relay</item>
         <item>slide_for_reddit</item>
+        <item>snapchat</item>
         <item>social</item>
         <item>stack_exchange</item>
+        <item>story_saver</item>
         <item>sync_for_reddit</item>
+        <item>talon</item>
         <item>tiktok</item>
         <item>tinder</item>
         <item>tumblr</item>
         <item>twitch</item>
         <item>twitter</item>
-        <item>oneplus_community</item>
-        <item>relay</item>
-        <item>story_saver</item>
-        <item>talon</item>
     </string-array>
 
     <string-array name="sports">
@@ -1634,6 +1634,7 @@
         <item>audio</item>
         <item>barcode_scanner</item>
         <item>barcode_scanner_alt</item>
+        <item>bittorrent</item>
         <item>calculator</item>
         <item>calculator_alt</item>
         <item>camera</item>
@@ -1662,32 +1663,31 @@
         <item>news_alt</item>
         <item>notes</item>
         <item>notes_alt</item>
+        <item>oneplus_switch</item>
         <item>phone</item>
         <item>phone_alt</item>
         <item>podcast</item>
         <item>productivity</item>
         <item>radio</item>
+        <item>sd_maid</item>
         <item>settings</item>
         <item>settings_alt</item>
         <item>sound_recorder</item>
         <item>speedtest</item>
         <item>teardrop</item>
+        <item>terminal</item>
+        <item>terminal_alt</item>
         <item>timer</item>
         <item>timer_alt</item>
         <item>video</item>
+        <item>voicemail</item>
         <item>wearables</item>
         <item>weather</item>
         <item>web</item>
         <item>web_alt</item>
         <item>web_alt_2</item>
-        <item>bittorrent</item>
-        <item>oneplus_switch</item>
-        <item>sd_maid</item>
-        <item>terminal_alt</item>
-        <item>terminal</item>
-        <item>voicemail</item>
-        <item>zarchiver_alt</item>
         <item>zarchiver</item>
+        <item>zarchiver_alt</item>
     </string-array>
 
     <string-array name="web">
