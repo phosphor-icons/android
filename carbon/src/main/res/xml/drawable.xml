@@ -656,6 +656,7 @@
     <item drawable="yahoo"/>
 
     <category title="All" />
+    <item drawable="clock_dynamic"/>
     <item drawable="abstruct" />
     <item drawable="accuweather" />
     <item drawable="acorns" />
