@@ -17,7 +17,7 @@
         hourLayerIndex="0"
         minuteLayerIndex="1"
         defaultHour="10"
-        defaultMinute="15"/>
+        defaultMinute="10"/>
 
     <!-- Device Defaults -->
     <item component=":BROWSER" drawable="web" />
@@ -1108,34 +1108,6 @@
     <!-- <item component="ComponentInfo{com.cbsinteractive.cnet/com.cbsinteractive.cnet.SplashActivity}" drawable="cnet"/> -->
 
     <!-- Clock -->
-    <item component="ComponentInfo{com.android.alarmclock/com.android.alarmclock.AlarmClock}" drawable="clock"/>
-    <item component="ComponentInfo{com.htc.android.worldclock/com.htc.android.worldclock.WorldClockTabControl}" drawable="clock"/>
-    <item component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.ClockPackage}" drawable="clock"/>
-    <item component="ComponentInfo{com.google.android.deskclock/com.android.deskclock.DeskClock}" drawable="clock"/>
-    <item component="ComponentInfo{com.android.deskclock/com.android.clock.Clockk}" drawable="clock" />
-    <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.AlarmClock}" drawable="clock" />
-    <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.AlarmsMainActivity}" drawable="clock" />
-    <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.ClockActivity}" drawable="clock" />
-    <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.ClockPackage}" drawable="clock" />
-    <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.ClockTabStyle}" drawable="clock" />
-    <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.DeskClockGroupActivity}" drawable="clock" />
-    <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.DeskClockMainActivity}" drawable="clock" />
-    <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.DeskClockTabActivity}" drawable="clock" />
-    <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.DeskClock}" drawable="clock" />
-    <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.MainActivity}" drawable="clock" />
-    <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.MultiClockTab}" drawable="clock" />
-    <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.StopwatchActivity}" drawable="clock" />
-    <item component="ComponentInfo{com.android.deskclock/com.android.main.TabsActivity}" drawable="clock_dynamic" />
-    <item component="ComponentInfo{com.android.deskclock/com.apalon.myclockfree.MainActivity}" drawable="clock" />
-    <item component="ComponentInfo{com.android.deskclock/com.hisense.timetools.TimeToolsMainActivity}" drawable="clock" />
-    <item component="ComponentInfo{com.android.deskclock/com.jrdcom.timetool.TimeToolActivity}" drawable="clock" />
-    <item component="ComponentInfo{com.android.deskclock/com.pantech.app.clock.ClockLauncher}" drawable="clock" />
-    <item component="ComponentInfo{com.android.deskclock2/com.android.deskclock2.SamsungDeskClock}" drawable="clock" />
-    <item component="ComponentInfo{com.motorola.blur/com.motorola.blur.alarmclock.AlarmClock}" drawable="clock"/>
-    <item component="ComponentInfo{com.sonyericsson.organizer/com.sonyericsson.organizer.Organizer}" drawable="clock" />
-    <item component="ComponentInfo{com.oneplus.deskclock/com.oneplus.deskclock.DeskClock}" drawable="clock"/>
-    <item component="ComponentInfo{com.android.BBKClock/com.android.BBKClock.Timer}" drawable="clock"/>
-
     <item component="ComponentInfo{com.android.alarmclock/com.android.alarmclock.AlarmClock}" drawable="clock_dynamic"/>
     <item component="ComponentInfo{com.htc.android.worldclock/com.htc.android.worldclock.WorldClockTabControl}" drawable="clock_dynamic"/>
     <item component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.ClockPackage}" drawable="clock_dynamic"/>
