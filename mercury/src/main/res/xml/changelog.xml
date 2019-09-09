@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <version title="v1.5.5" />
+    <item text="30 new and updated icons" />
+    <item text="More alternates for common productivity apps" />
+    <item text="New color coming soon!" />
     <version title="v1.5.4" />
     <item text="Added 53 new icons" />
     <version title="v1.5.3" />
@@ -7,8 +11,4 @@
     <version title="v1.5.2" />
     <item text="Added 31 new icons" />
     <item text="Added some hand-picked solid color wallpapers" />
-    <version title="v1.5.1" />
-    <item text="First of many regular updates!" />
-    <item text="Added 33 new icons" />
-    <item text="Fixed issue in which several icons not applying properly" />
 </resources>
