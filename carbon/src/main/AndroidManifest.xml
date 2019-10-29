@@ -15,8 +15,8 @@
   -->
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          xmlns:tools="http://schemas.android.com/tools"
-          package="com.tobiasfried.phosphor">
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.tobiasfried.phosphor">
 
     <!-- Permission required for donations -->
     <uses-permission android:name="com.android.vending.BILLING" />

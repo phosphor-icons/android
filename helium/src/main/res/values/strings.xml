@@ -26,7 +26,6 @@
         Each icon is crafted to be clear, playful, and balanced; using minimal strokes and curves.
         Scale up and down to your liking.</string>
 
-    <!--    TODO: Change this link -->
     <!--    This is the link for the JSON file where you have listed your wallpapers -->
     <string name="json_url">https://www.tobiasfried.com/assets/phosphor/helium/wallpaper.json</string>
     <!--<string name="json_url">https://jahirfiquitiva.com/frames/wallpapers.json</string>-->
@@ -39,4 +38,9 @@
 
     <!-- Terms and Conditions link or url -->
     <string name="terms_conditions_link">""</string>
+
+    <!-- Donation dialog content -->
+    <string name="donate_success_title">"Thank you"</string>
+    <string name="donate_success_content">"Your donation has been submitted! Thank you so much for your support, we appreciate your contribution to this project."</string>
+
 </resources>

@@ -62,11 +62,11 @@ class MainActivity : BottomNavigationBlueprintActivity() {
      */
     override fun getNavigationItems(): Array<NavigationItem> {
         return arrayOf(
-            NavigationItem.HOME,
-            NavigationItem.ICONS,
-            NavigationItem.WALLPAPERS,
-            NavigationItem.APPLY,
-            NavigationItem.REQUESTS)
+                NavigationItem.HOME,
+                NavigationItem.ICONS,
+                NavigationItem.WALLPAPERS,
+                NavigationItem.APPLY,
+                NavigationItem.REQUESTS)
     }
 
     /**

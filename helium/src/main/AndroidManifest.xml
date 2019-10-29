@@ -25,13 +25,13 @@
         android:name="com.tobiasfried.phosphor.helium.MyApplication"
         android:allowBackup="true"
         android:fullBackupContent="true"
-        android:label="@string/app_name"
         android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:manageSpaceActivity="jahirfiquitiva.libs.blueprint.ui.activities.SettingsActivity"
+        android:networkSecurityConfig="@xml/network_security_config"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/MySplashScreen"
-        android:manageSpaceActivity="jahirfiquitiva.libs.blueprint.ui.activities.SettingsActivity"
-        android:networkSecurityConfig="@xml/network_security_config"
         tools:ignore="UnusedAttribute">
 
         <!-- TODO: Remove comment marks to enable Zooper
@@ -45,31 +45,6 @@
         <!-- TODO: Remove comment marks to enable Kustom Skins
         * Remove intent-filter action lines according to your needs.
 		* If you're not going to provide one of the options, remove its respective line.
-        -->
-
-        <provider
-                android:name="org.kustom.api.Provider"
-                android:authorities="${applicationId}.kustom.provider"
-                android:exported="true"
-                tools:ignore="ExportedContentProvider">
-            <intent-filter>
-                <action android:name="org.kustom.provider.WALLPAPERS"/>
-                <action android:name="org.kustom.provider.WIDGETS"/>
-                <action android:name="org.kustom.provider.KOMPONENTS"/>
-                <action android:name="org.kustom.provider.LOCKSCREENS"/>
-            </intent-filter>
-        </provider>
-
-        <!-- OneSignal Notifications Service -->
-        <!-- TODO: Remove comment marks to enable
-        <service
-                android:name=".NotificationService"
-                android:permission="android.permission.BIND_JOB_SERVICE"
-                android:exported="false">
-            <intent-filter>
-                <action android:name="com.onesignal.NotificationExtender"/>
-            </intent-filter>
-        </service>
         -->
 
         <activity
@@ -276,14 +251,39 @@
             </intent-filter>
         </activity>
 
+        <!-- OneSignal Notifications Service -->
+        <!-- TODO: Remove comment marks to enable
+        <service
+                android:name=".NotificationService"
+                android:permission="android.permission.BIND_JOB_SERVICE"
+                android:exported="false">
+            <intent-filter>
+                <action android:name="com.onesignal.NotificationExtender"/>
+            </intent-filter>
+        </service>
+        -->
+
+        <provider
+            android:name="org.kustom.api.Provider"
+            android:authorities="${applicationId}.kustom.provider"
+            android:exported="true"
+            tools:ignore="ExportedContentProvider">
+            <intent-filter>
+                <action android:name="org.kustom.provider.WALLPAPERS" />
+                <action android:name="org.kustom.provider.WIDGETS" />
+                <action android:name="org.kustom.provider.KOMPONENTS" />
+                <action android:name="org.kustom.provider.LOCKSCREENS" />
+            </intent-filter>
+        </provider>
+
         <!-- Muzei Service -->
         <provider
             android:name="com.tobiasfried.phosphor.helium.MuzeiService"
             android:authorities="${applicationId}.muzei"
-            android:label="@string/app_name"
             android:description="@string/app_description"
-            android:icon="@drawable/ic_muzei_icon"
             android:exported="true"
+            android:icon="@drawable/ic_muzei_icon"
+            android:label="@string/app_name"
             android:permission="com.google.android.apps.muzei.api.ACCESS_PROVIDER"
             tools:ignore="ExportedService">
             <intent-filter>
