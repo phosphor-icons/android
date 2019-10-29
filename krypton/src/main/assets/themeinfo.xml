@@ -2,8 +2,8 @@
 <!-- This is for Atom Launcher -->
 <themeInfo>
     <packageName>com.tobiasfried.phosphor.krypton</packageName>
-    <versionName>1.5.5</versionName>
-    <versionCode>16</versionCode>
+    <versionName>1.5.6</versionName>
+    <versionCode>17</versionCode>
     <themeName>Phosphor Krypton</themeName>
     <!-- Default Component Color -->
     <themePointColor>#00b0ff</themePointColor>

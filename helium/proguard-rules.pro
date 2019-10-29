@@ -26,6 +26,9 @@
 -keep class android.support.v7.view.menu** {*;}
 -keep class android.support.v7.graphics.** {*;}
 
+# Attribute Signature requires InnerClasses attribute
+-keepattributes InnerClasses
+
 -keep public class * implements com.bumptech.glide.module.GlideModule
 -keep public class * extends com.bumptech.glide.module.AppGlideModule
 -keep class com.bumptech.glide.GeneratedAppGlideModuleImpl
