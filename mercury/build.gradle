@@ -62,6 +62,7 @@ android {
         proguardFiles 'proguard-android-optimize.txt', 'proguard-rules.pro'
         consumerProguardFiles 'proguard-android-optimize.txt', 'proguard-rules.pro'
         multiDexEnabled true
+        resConfigs "ar", "bn", "cs", "da", "de", "en", "es", "fi", "fr", "hi", "hr", "hu", "in", "it", "ja", "ka", "ko", "nl", "no", "pl", "pt", "ro", "ru", "sv", "tr", "vi", "zh"
     }
 
     buildTypes {
