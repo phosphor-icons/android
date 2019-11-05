@@ -10,13 +10,12 @@
 
 An elegant and sophisticated line icon pack to declutter your home screen.
 
-## Show some  :blue_heart:
-[![GitHub stars](https://img.shields.io/github/stars/rektdeckard/phosphor.svg?style=social&label=Star)](https://github.com/rektdeckard/phorphor)
-[![GitHub forks](https://img.shields.io/github/forks/rektdeckard/phosphor.svg?style=social&label=Fork)](https://github.com/rektdeckard/phorphorfork)
-[![GitHub watchers](https://img.shields.io/github/watchers/rektdeckard/phosphor.svg?style=social&label=Watch)](https://github.com/rektdeckard/phorphor)
-[![Follow on GitHub](https://img.shields.io/github/followers/rektdeckard.svg?style=social&label=Follow)](https://github.com/rektdeckard)
+[![GitHub stars](https://img.shields.io/github/stars/rektdeckard/phosphor.svg?style=flat&label=Star)](https://github.com/rektdeckard/phorphor)
+[![GitHub forks](https://img.shields.io/github/forks/rektdeckard/phosphor.svg?style=flat&label=Fork)](https://github.com/rektdeckard/phorphorfork)
+[![GitHub watchers](https://img.shields.io/github/watchers/rektdeckard/phosphor.svg?style=flat&label=Watch)](https://github.com/rektdeckard/phorphor)
+[![Follow on GitHub](https://img.shields.io/github/followers/rektdeckard.svg?style=flat&label=Follow)](https://github.com/rektdeckard)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/friedtm.svg?style=social)](https://twitter.com/friedtm)
+[![Twitter Follow](https://img.shields.io/twitter/follow/friedtm.svg?style=flat)](https://twitter.com/friedtm)
 
 # Images
 
