@@ -10,9 +10,9 @@
 
 An elegant and sophisticated line icon pack to declutter your home screen.
 
-[![GitHub stars](https://img.shields.io/github/stars/rektdeckard/phosphor.svg?style=flat&label=Star)](https://github.com/rektdeckard/phorphor)
-[![GitHub forks](https://img.shields.io/github/forks/rektdeckard/phosphor.svg?style=flat&label=Fork)](https://github.com/rektdeckard/phorphorfork)
-[![GitHub watchers](https://img.shields.io/github/watchers/rektdeckard/phosphor.svg?style=flat&label=Watch)](https://github.com/rektdeckard/phorphor)
+[![GitHub stars](https://img.shields.io/github/stars/rektdeckard/phosphor.svg?style=flat&label=Star)](https://github.com/rektdeckard/phosphor)
+[![GitHub forks](https://img.shields.io/github/forks/rektdeckard/phosphor.svg?style=flat&label=Fork)](https://github.com/rektdeckard/phosphor/fork)
+[![GitHub watchers](https://img.shields.io/github/watchers/rektdeckard/phosphor.svg?style=flat&label=Watch)](https://github.com/rektdeckard/phosphor)
 [![Follow on GitHub](https://img.shields.io/github/followers/rektdeckard.svg?style=flat&label=Follow)](https://github.com/rektdeckard)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/friedtm.svg?style=flat)](https://twitter.com/friedtm)
