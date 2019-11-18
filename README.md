@@ -21,18 +21,36 @@ An elegant and sophisticated line icon pack to declutter your home screen.
 
 ### Mercury
 <p align="center">
-	<img src="https://i.imgur.com/Pavsi6Y.png" height="350"/>
-	<img src="https://i.imgur.com/YPL7n9a.png" height="350"/>
-	<img src="https://i.imgur.com/3YyhsKw.png" height="350"/>
-	<img src="https://i.imgur.com/8TByrtv.png" height="350"/>
+	<img src="https://i.imgur.com/E6uswTJ.png" height="350"/>
+	<img src="https://i.imgur.com/1mNDtKT.png" height="350"/>
+	<img src="https://i.imgur.com/1FLBGLC.png" height="350"/>
+	<img src="https://i.imgur.com/km4L2vP.png" height="350"/>
+	<img src="https://i.imgur.com/jsY9wRp.png" height="350"/>
+	<img src="https://i.imgur.com/wWIbKqZ.png" height="350"/>
+	<img src="https://i.imgur.com/WM0gHHV.png" height="350"/>
+	<img src="https://i.imgur.com/S5DB23n.png" height="350"/>
 </p>
 
 ### Carbon
 <p align="center">
-	<img src="https://i.imgur.com/3qAt662.png" height="350"/>
-	<img src="https://i.imgur.com/SEC3PeI.png" height="350"/>
-	<img src="https://i.imgur.com/DfLKRw5.png" height="350"/>
-	<img src="https://i.imgur.com/szUHv06.png" height="350"/>
+	<img src="https://i.imgur.com/9NOSX0d.png" height="350"/>
+	<img src="https://i.imgur.com/s9rSVpS.png" height="350"/>
+	<img src="https://i.imgur.com/xtLyP5F.png" height="350"/>
+	<img src="https://i.imgur.com/1NAXNhX.png" height="350"/>
+	<img src="https://i.imgur.com/eDZrBz6.png" height="350"/>
+	<img src="https://i.imgur.com/Pleiray.png" height="350"/>
+	<img src="https://i.imgur.com/e1IyEmN.png" height="350"/>
+</p>
+
+### Krypton
+<p align="center">
+	<img src="https://i.imgur.com/czJh7qb.png" height="350"/>
+	<img src="https://i.imgur.com/y0il6Do.png" height="350"/>
+	<img src="https://i.imgur.com/SfGM0Uy.png" height="350"/>
+	<img src="https://i.imgur.com/fqms6uz.png" height="350"/>
+	<img src="https://i.imgur.com/C98Bh8A.png" height="350"/>
+	<img src="https://i.imgur.com/JIG0H4P.png" height="350"/>
+	<img src="https://i.imgur.com/OGq7FBO.png" height="350"/>
 </p>
 
 # Features:
