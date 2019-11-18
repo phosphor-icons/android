@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <version title="v1.5.6" />
-    <item text="Added 45 new icons" />
-    <item text="Donations feature is live!" />
-    <version title="v1.5.5" />
-    <item text="30 new and updated icons" />
-    <item text="More alternates for common productivity apps" />
-    <item text="New color coming soon!" />
-    <version title="v1.5.4" />
-    <item text="Added 53 new icons" />
-    <version title="v1.5.3" />
-    <item text="Added 43 new icons" />
+    <version title="v1.5.7" />
+    <item text="Brand new color!" />
+    <item text="Feel free to drop a donation if you appreciate this pack" />
 </resources>

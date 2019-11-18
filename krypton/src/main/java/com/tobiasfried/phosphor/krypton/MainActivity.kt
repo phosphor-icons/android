@@ -40,7 +40,7 @@ class MainActivity : BottomNavigationBlueprintActivity() {
      * This is your app's license key. Get yours on Google Play Dev Console.
      * Default one isn't valid and could cause issues in your app.
      */
-    override fun getLicKey(): String? = "MIIBIjANBgkqhkiGgKglYGYGihLuihUuhhuBlouBkuiu"
+    override fun getLicKey(): String? = "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwmSM0MAvQwZEh104PoeSloMk5xQJB31rW9lAfSqhhFGILeRpZNXbtBYp//kmQKN5EZOgH4DPjpRnWmEq64tOOzN+4r2knY1L7BzOUB5dBco2307qxFPU45hFj+7PZZSMZw2xqBTw0yR0LnaYX24fSAJxh2wY1gr/rQRc120E7+wPfpKyyw28ZfcHuRI/aBDuh9UzAICBVhS2JaZZ0UQv52VzLLFg6egqe/D1kssWBsZjRy/AAEae2z4pVLhuanFr4q7Nn7sdu7b9FGvYrPwScc5g2hVtROP5XLbFW02qaWj6z1Nq6Poloigzt/YOY9M/I36lB3ULAzg3qrXJa6fD4wIDAQAB"
 
     /**
      * This is the license checker code. Feel free to create your own implementation or
