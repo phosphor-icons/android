@@ -21,18 +21,17 @@ An elegant and sophisticated line icon pack to declutter your home screen.
 
 ### Mercury
 <p align="center">
-	<img src="https://i.imgur.com/Pavsi6Y.png" height="350"/>
-	<img src="https://i.imgur.com/YPL7n9a.png" height="350"/>
-	<img src="https://i.imgur.com/3YyhsKw.png" height="350"/>
-	<img src="https://i.imgur.com/8TByrtv.png" height="350"/>
+	<img src="https://i.imgur.com/ol2CCII.jpg" height="240"/>
 </p>
 
 ### Carbon
 <p align="center">
-	<img src="https://i.imgur.com/3qAt662.png" height="350"/>
-	<img src="https://i.imgur.com/SEC3PeI.png" height="350"/>
-	<img src="https://i.imgur.com/DfLKRw5.png" height="350"/>
-	<img src="https://i.imgur.com/szUHv06.png" height="350"/>
+	<img src="https://i.imgur.com/jKLxIFu.jpg" height="240"/>
+</p>
+
+### Krypton
+<p align="center">
+	<img src="https://i.imgur.com/TtapIfc.jpg" height="240"/>
 </p>
 
 # Features:
