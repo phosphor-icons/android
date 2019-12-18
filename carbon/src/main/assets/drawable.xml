@@ -229,7 +229,7 @@
     <item drawable="myjio" />
     <item drawable="my_verizon" />
     <item drawable="t_mobile" />
-    <item drawable="usaa" />
+    <item drawable="___usaa" />
     <item drawable="verizon_my_fios" />
 
     <category title="Media" />
@@ -523,6 +523,7 @@
     <item drawable="yahoo"/>
 
     <category title="Security" />
+    <item drawable="_1_1_1_1" />
     <item drawable="adblock"/>
     <item drawable="adblock_alt"/>
     <item drawable="ad_block_plus"/>
@@ -539,7 +540,6 @@
     <item drawable="mi_security" />
     <item drawable="microsoft_authenticator" />
     <item drawable="nord_vpn" />
-    <item drawable="one_dot_one" />
     <item drawable="onepassword" />
     <item drawable="proton_vpn" />
     <item drawable="ring" />
@@ -722,6 +722,7 @@
     <item drawable="zarchiver" />
 
     <category title="Web" />
+    <item drawable="_1_1_1_1"/>
     <item drawable="ad_block_plus"/>
     <item drawable="adblock_alt"/>
     <item drawable="adblock"/>
@@ -741,7 +742,6 @@
     <item drawable="microsoft_bing"/>
     <item drawable="microsoft_edge"/>
     <item drawable="nord_vpn"/>
-    <item drawable="one_dot_one"/>
     <item drawable="opera"/>
     <item drawable="proton_vpn"/>
     <item drawable="samsung_internet"/>
@@ -752,6 +752,7 @@
     <item drawable="yahoo"/>
 
     <category title="All" />
+    <item drawable="_1_1_1_1" />
     <item drawable="abstruct" />
     <item drawable="accubattery" />
     <item drawable="accuweather" />
@@ -1159,7 +1160,6 @@
     <item drawable="nytimes" />
     <item drawable="okcupid" />
     <item drawable="ola_cabs" />
-    <item drawable="one_dot_one" />
     <item drawable="onepassword" />
     <item drawable="oneplus_community" />
     <item drawable="oneplus_switch" />
@@ -1305,7 +1305,7 @@
     <item drawable="uber" />
     <item drawable="udacity" />
     <item drawable="universal_copy" />
-    <item drawable="usaa" />
+    <item drawable="___usaa" />
     <item drawable="venmo" />
     <item drawable="verizon_my_fios" />
     <item drawable="video" />

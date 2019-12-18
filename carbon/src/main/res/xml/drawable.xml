@@ -1,54 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <version>17</version>
+    <version>18</version>
 
     <category title="Recent" />
-    <item drawable="accubattery" />
-    <item drawable="adguard" />
-    <item drawable="airdroid" />
-    <item drawable="airtable" />
-    <item drawable="amaze_alt" />
-    <item drawable="amaze" />
-    <item drawable="amazon_drive" />
-    <item drawable="amazon_photos" />
-    <item drawable="amtrak" />
-    <item drawable="calculator_plus_plus_windowed" />
-    <item drawable="crunchyroll" />
-    <item drawable="dots" />
-    <item drawable="f_droid" />
-    <item drawable="flightradar24" />
-    <item drawable="framer" />
-    <item drawable="genius_alt" />
-    <item drawable="genius" />
-    <item drawable="glassdoor" />
-    <item drawable="google_chrome_remote_desktop" />
-    <item drawable="google_street_view" />
-    <item drawable="help" />
-    <item drawable="hoteltonight_alt" />
-    <item drawable="hoteltonight" />
-    <item drawable="icq" />
-    <item drawable="iflix" />
-    <item drawable="kustom_kunread" />
-    <item drawable="merriam_webster_dictionary" />
-    <item drawable="microsoft_your_phone_companion" />
-    <item drawable="mixplorer" />
-    <item drawable="nintendo" />
-    <item drawable="ola_cabs" />
-    <item drawable="picsart" />
-    <item drawable="roblox" />
-    <item drawable="sms_backup_and_restore" />
-    <item drawable="sony_headphones" />
-    <item drawable="tango" />
-    <item drawable="target" />
-    <item drawable="ted" />
-    <item drawable="two_dots" />
-    <item drawable="udacity" />
-    <item drawable="universal_copy" />
-    <item drawable="verizon_my_fios" />
-    <item drawable="vimeo" />
-    <item drawable="wolfram_alpha" />
-    <item drawable="youtube_studio" />
+    <item drawable="actiondash"/>
+    <item drawable="creative"/>
+    <item drawable="curiositystream"/>
+    <item drawable="dropsync"/>
+    <item drawable="elsa_speak"/>
+    <item drawable="file_transfer"/>
+    <item drawable="google_actions_services"/>
+    <item drawable="google_allo"/>
+    <item drawable="hurry"/>
+    <item drawable="hydro_coach"/>
+    <item drawable="instapaper"/>
+    <item drawable="instasave"/>
+    <item drawable="limeline"/>
+    <item drawable="mi_remote"/>
+    <item drawable="microsoft_sms_organizer"/>
+    <item drawable="min"/>
+    <item drawable="min_alt"/>
+    <item drawable="podcast_republic"/>
+    <item drawable="quartz"/>
+    <item drawable="replaio_radio"/>
+    <item drawable="sudoku"/>
+    <item drawable="torrse"/>
+    <item drawable="trello"/>
+    <item drawable="youcam_perfect"/>
 
     <category title="Banking" />
     <item drawable="alipay" />
@@ -115,15 +94,18 @@
     <item drawable="snapseed"/>
     <item drawable="vimeo" />
     <item drawable="vsco"/>
+    <item drawable="youcam_perfect"/>
     <item drawable="youtube_studio" />
 
     <category title="Education" />
     <item drawable="ancestry" />
     <item drawable="brilliant" />
+    <item drawable="curiositystream"/>
     <item drawable="drops" />
     <item drawable="duolingo" />
     <item drawable="duolingo_alt" />
     <item drawable="education" />
+    <item drawable="elsa_speak"/>
     <item drawable="headspace"/>
     <item drawable="headspace_alt"/>
     <item drawable="stack_exchange" />
@@ -165,12 +147,15 @@
     <item drawable="roblox" />
     <item drawable="sony_playstation_app" />
     <item drawable="steam" />
+    <item drawable="sudoku"/>
     <item drawable="twitch"/>
     <item drawable="two_dots" />
     <item drawable="xbox"/>
 
     <category title="Google" />
     <item drawable="google"/>
+    <item drawable="google_actions_services"/>
+    <item drawable="google_allo"/>
     <item drawable="android_auto"/>
     <item drawable="google_assistant"/>
     <item drawable="google_authenticator"/>
@@ -237,13 +222,14 @@
     <item drawable="strava" />
 
     <category title="Lifestyle" />
+    <item drawable="hydro_coach"/>
     <item drawable="hue" />
     <item drawable="kasa" />
     <item drawable="life360" />
     <item drawable="myjio" />
     <item drawable="my_verizon" />
     <item drawable="t_mobile" />
-    <item drawable="usaa" />
+    <item drawable="___usaa" />
     <item drawable="verizon_my_fios" />
 
     <category title="Media" />
@@ -252,8 +238,6 @@
     <item drawable="apple_music" />
     <item drawable="apple_music_alt" />
     <item drawable="amazon_photos" />
-
-
     <item drawable="amazon_video" />
     <item drawable="audible" />
     <item drawable="audio" />
@@ -293,7 +277,9 @@
     <item drawable="pocket_casts"/>
     <item drawable="podcast"/>
     <item drawable="podcast_addict"/>
+    <item drawable="podcast_republic"/>
     <item drawable="poweramp" />
+    <item drawable="replaio_radio"/>
     <item drawable="retro_music" />
     <item drawable="roku"/>
     <item drawable="samsung_music" />
@@ -324,6 +310,7 @@
     <item drawable="email"/>
     <item drawable="email_alt"/>
     <item drawable="gmail"/>
+    <item drawable="google_allo"/>
     <item drawable="google_duo"/>
     <item drawable="google_hangouts"/>
     <item drawable="google_meet" />
@@ -368,12 +355,14 @@
     <item drawable="google_news" />
     <item drawable="hacker_news" />
     <item drawable="hacker_news_alt" />
+    <item drawable="instapaper"/>
     <item drawable="medium" />
     <item drawable="nbc" />
     <item drawable="news"/>
     <item drawable="news_alt"/>
     <item drawable="nytimes"/>
     <item drawable="nytimes_alt"/>
+    <item drawable="quartz"/>
     <item drawable="quora" />
     <item drawable="weather" />
     <item drawable="the_weather_channel" />
@@ -383,6 +372,7 @@
 
     <category title="Personalization" />
     <item drawable="abstruct" />
+    <item drawable="actiondash"/>
     <item drawable="afterglow" />
     <item drawable="action_launcher"/>
     <item drawable="adw_launcher"/>
@@ -391,6 +381,7 @@
     <item drawable="aurora_droid" />
     <item drawable="aurora_store" />
     <item drawable="backdrops" />
+    <item drawable="creative"/>
     <item drawable="delta"/>
     <item drawable="evie_launcher"/>
     <item drawable="go_launcher"/>
@@ -407,11 +398,14 @@
     <item drawable="kustom_kwgt"/>
     <item drawable="kustom_kweather" />
     <item drawable="lawnchair_launcher"/>
+    <item drawable="limeline"/>
     <item drawable="linebit" />
     <item drawable="lucid_launcher"/>
     <item drawable="magisk_manager" />
     <item drawable="microsoft_launcher"/>
     <item drawable="m_launcher"/>
+    <item drawable="min"/>
+    <item drawable="min_alt"/>
     <item drawable="mi_store" />
     <item drawable="miui_forum" />
     <item drawable="miui_themes" />
@@ -465,8 +459,10 @@
     <item drawable="dictionary"/>
     <item drawable="download_manager" />
     <item drawable="dropbox"/>
+    <item drawable="dropsync"/>
     <item drawable="email"/>
     <item drawable="evernote" />
+    <item drawable="file_transfer"/>
     <item drawable="gboard"/>
     <item drawable="gboard_alt"/>
     <item drawable="gmail"/>
@@ -483,10 +479,12 @@
     <item drawable="google_translate"/>
     <item drawable="grammarly"/>
     <item drawable="home_agenda_calendar_widget" />
+    <item drawable="hurry"/>
     <item drawable="ia_writer"/>
     <item drawable="idm" />
     <item drawable="idm_alt" />
     <item drawable="ifttt"/>
+    <item drawable="instapaper"/>
     <item drawable="join" />
     <item drawable="mega" />
     <item drawable="mi_drop" />
@@ -500,6 +498,7 @@
     <item drawable="microsoft_outlook_alt"/>
     <item drawable="microsoft_powerpoint"/>
     <item drawable="microsoft_powerpoint_alt"/>
+    <item drawable="microsoft_sms_organizer"/>
     <item drawable="microsoft_word"/>
     <item drawable="microsoft_word_alt"/>
     <item drawable="microsoft_your_phone_companion" />
@@ -519,10 +518,12 @@
     <item drawable="subscriptions" />
     <item drawable="swiftkey" />
     <item drawable="todoist"/>
+    <item drawable="trello"/>
     <item drawable="wps_office" />
     <item drawable="yahoo"/>
 
     <category title="Security" />
+    <item drawable="_1_1_1_1" />
     <item drawable="adblock"/>
     <item drawable="adblock_alt"/>
     <item drawable="ad_block_plus"/>
@@ -539,7 +540,6 @@
     <item drawable="mi_security" />
     <item drawable="microsoft_authenticator" />
     <item drawable="nord_vpn" />
-    <item drawable="one_dot_one" />
     <item drawable="onepassword" />
     <item drawable="proton_vpn" />
     <item drawable="ring" />
@@ -577,6 +577,7 @@
     <item drawable="imgur"/>
     <item drawable="instagram"/>
     <item drawable="instagram_alt"/>
+    <item drawable="instasave"/>
     <item drawable="linkedin"/>
     <item drawable="meetup" />
     <item drawable="miui_feedback" />
@@ -664,6 +665,7 @@
     <item drawable="download_manager" />
     <item drawable="emergency_alerts"/>
     <item drawable="file_manager"/>
+    <item drawable="file_transfer"/>
     <item drawable="files"/>
     <item drawable="finance"/>
     <item drawable="flashlight"/>
@@ -676,6 +678,8 @@
     <item drawable="help" />
     <item drawable="idm" />
     <item drawable="idm_alt" />
+    <item drawable="instasave"/>
+    <item drawable="mi_remote"/>
     <item drawable="mic"/>
     <item drawable="mic_alt"/>
     <item drawable="mnml_screen_recorder" />
@@ -703,6 +707,7 @@
     <item drawable="terminal" />
     <item drawable="timer"/>
     <item drawable="timer_alt"/>
+    <item drawable="torrse"/>
     <item drawable="universal_copy" />
     <item drawable="video"/>
     <item drawable="voicemail" />
@@ -717,6 +722,7 @@
     <item drawable="zarchiver" />
 
     <category title="Web" />
+    <item drawable="_1_1_1_1"/>
     <item drawable="ad_block_plus"/>
     <item drawable="adblock_alt"/>
     <item drawable="adblock"/>
@@ -736,20 +742,22 @@
     <item drawable="microsoft_bing"/>
     <item drawable="microsoft_edge"/>
     <item drawable="nord_vpn"/>
-    <item drawable="one_dot_one"/>
     <item drawable="opera"/>
     <item drawable="proton_vpn"/>
     <item drawable="samsung_internet"/>
+    <item drawable="torrse"/>
     <item drawable="web"/>
     <item drawable="web_alt"/>
     <item drawable="web_alt_2"/>
     <item drawable="yahoo"/>
 
     <category title="All" />
+    <item drawable="_1_1_1_1" />
     <item drawable="abstruct" />
     <item drawable="accubattery" />
     <item drawable="accuweather" />
     <item drawable="acorns" />
+    <item drawable="actiondash" />
     <item drawable="action_launcher" />
     <item drawable="adblock_alt" />
     <item drawable="ad_block_plus" />
@@ -895,8 +903,10 @@
     <item drawable="compass" />
     <item drawable="contacts" />
     <item drawable="craigslist" />
+    <item drawable="creative" />
     <item drawable="credit_karma" />
     <item drawable="crunchyroll" />
+    <item drawable="curiositystream" />
     <item drawable="customization" />
     <item drawable="dating" />
     <item drawable="daylio" />
@@ -917,10 +927,12 @@
     <item drawable="dribbble" />
     <item drawable="dropbox" />
     <item drawable="drops" />
+    <item drawable="dropsync" />
     <item drawable="duolingo_alt" />
     <item drawable="duolingo" />
     <item drawable="ebay" />
     <item drawable="education" />
+    <item drawable="elsa_speak" />
     <item drawable="email_alt" />
     <item drawable="email" />
     <item drawable="emergency_alerts" />
@@ -937,6 +949,7 @@
     <item drawable="figma_mirror" />
     <item drawable="file_manager" />
     <item drawable="files" />
+    <item drawable="file_transfer" />
     <item drawable="finance" />
     <item drawable="firefox" />
     <item drawable="fitbit" />
@@ -963,6 +976,8 @@
     <item drawable="gmail" />
     <item drawable="go_launcher" />
     <item drawable="goodreads" />
+    <item drawable="google_actions_services" />
+    <item drawable="google_allo" />
     <item drawable="google_assistant" />
     <item drawable="google_authenticator" />
     <item drawable="google_calendar" />
@@ -1034,6 +1049,8 @@
     <item drawable="hue" />
     <item drawable="huji_cam" />
     <item drawable="hulu" />
+    <item drawable="hurry" />
+    <item drawable="hydro_coach" />
     <item drawable="hype_machine" />
     <item drawable="hyperion" />
     <item drawable="ia_writer" />
@@ -1052,6 +1069,8 @@
     <item drawable="instagram_alt" />
     <item drawable="instagram_layout" />
     <item drawable="instagram" />
+    <item drawable="instapaper" />
+    <item drawable="instasave" />
     <item drawable="jiotv" />
     <item drawable="join" />
     <item drawable="kasa" />
@@ -1068,6 +1087,7 @@
     <item drawable="lastpass" />
     <item drawable="lawnchair_launcher" />
     <item drawable="life360" />
+    <item drawable="limeline" />
     <item drawable="linebit" />
     <item drawable="linkedin" />
     <item drawable="lucid_launcher" />
@@ -1096,13 +1116,17 @@
     <item drawable="microsoft_outlook" />
     <item drawable="microsoft_powerpoint_alt" />
     <item drawable="microsoft_powerpoint" />
+    <item drawable="microsoft_sms_organizer" />
     <item drawable="microsoft_word_alt" />
     <item drawable="microsoft_word" />
     <item drawable="microsoft_your_phone_companion" />
     <item drawable="mi_drop" />
     <item drawable="mi_fit" />
     <item drawable="mi_music" />
+    <item drawable="min_alt" />
     <item drawable="minecraft" />
+    <item drawable="min" />
+    <item drawable="mi_remote" />
     <item drawable="mi_security" />
     <item drawable="mi_store" />
     <item drawable="miui_feedback" />
@@ -1136,7 +1160,6 @@
     <item drawable="nytimes" />
     <item drawable="okcupid" />
     <item drawable="ola_cabs" />
-    <item drawable="one_dot_one" />
     <item drawable="onepassword" />
     <item drawable="oneplus_community" />
     <item drawable="oneplus_switch" />
@@ -1168,6 +1191,7 @@
     <item drawable="poco_launcher" />
     <item drawable="podcast_addict" />
     <item drawable="podcast" />
+    <item drawable="podcast_republic" />
     <item drawable="pokemon" />
     <item drawable="postmates" />
     <item drawable="poweramp" />
@@ -1176,11 +1200,13 @@
     <item drawable="pubg" />
     <item drawable="pulse_messenger" />
     <item drawable="pushbullet" />
+    <item drawable="quartz" />
     <item drawable="quora" />
     <item drawable="radio" />
     <item drawable="reddit_alt" />
     <item drawable="reddit" />
     <item drawable="relay" />
+    <item drawable="replaio_radio" />
     <item drawable="resplash" />
     <item drawable="retro_music" />
     <item drawable="rgb_color_wallpaper" />
@@ -1240,6 +1266,7 @@
     <item drawable="subscriptions" />
     <item drawable="substratum" />
     <item drawable="substratum_theme" />
+    <item drawable="sudoku" />
     <item drawable="swiftkey" />
     <item drawable="sync_for_reddit" />
     <item drawable="system_ui_tuner" />
@@ -1266,8 +1293,10 @@
     <item drawable="t_mobile" />
     <item drawable="t_mobile_visual_voicemail" />
     <item drawable="todoist" />
+    <item drawable="torrse" />
     <item drawable="transit" />
     <item drawable="travel" />
+    <item drawable="trello" />
     <item drawable="tumblr" />
     <item drawable="twitch" />
     <item drawable="twitter" />
@@ -1276,7 +1305,7 @@
     <item drawable="uber" />
     <item drawable="udacity" />
     <item drawable="universal_copy" />
-    <item drawable="usaa" />
+    <item drawable="___usaa" />
     <item drawable="venmo" />
     <item drawable="verizon_my_fios" />
     <item drawable="video" />
@@ -1314,6 +1343,7 @@
     <item drawable="yahoo_sports" />
     <item drawable="yahoo_weather" />
     <item drawable="yelp" />
+    <item drawable="youcam_perfect" />
     <item drawable="youku" />
     <item drawable="youtube_music" />
     <item drawable="youtube" />

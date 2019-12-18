@@ -2,6 +2,7 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
 
     <string-array name="icons_preview">
+        <item>_1_1_1_1</item>
         <item>abstruct</item>
         <item>accubattery</item>
         <item>accuweather</item>
@@ -409,7 +410,6 @@
         <item>nytimes</item>
         <item>okcupid</item>
         <item>ola_cabs</item>
-        <item>one_dot_one</item>
         <item>onepassword</item>
         <item>oneplus_community</item>
         <item>oneplus_switch</item>
@@ -555,7 +555,7 @@
         <item>uber</item>
         <item>udacity</item>
         <item>universal_copy</item>
-        <item>usaa</item>
+        <item>___usaa</item>
         <item>venmo</item>
         <item>verizon_my_fios</item>
         <item>video</item>
@@ -635,6 +635,7 @@
     </string-array>
 
     <string-array name="all">
+        <item>_1_1_1_1</item>
         <item>abstruct</item>
         <item>accubattery</item>
         <item>accuweather</item>
@@ -1042,7 +1043,6 @@
         <item>nytimes</item>
         <item>okcupid</item>
         <item>ola_cabs</item>
-        <item>one_dot_one</item>
         <item>onepassword</item>
         <item>oneplus_community</item>
         <item>oneplus_switch</item>
@@ -1188,7 +1188,7 @@
         <item>uber</item>
         <item>udacity</item>
         <item>universal_copy</item>
-        <item>usaa</item>
+        <item>___usaa</item>
         <item>venmo</item>
         <item>verizon_my_fios</item>
         <item>video</item>
@@ -1473,7 +1473,7 @@
         <item>my_verizon</item>
         <item>myjio</item>
         <item>t_mobile</item>
-        <item>usaa</item>
+        <item>___usaa</item>
         <item>verizon_my_fios</item>
     </string-array>
 
@@ -1770,6 +1770,7 @@
     </string-array>
 
     <string-array name="security">
+        <item>_1_1_1_1</item>
         <item>adblock</item>
         <item>adblock_alt</item>
         <item>ad_block_plus</item>
@@ -1785,7 +1786,6 @@
         <item>mi_security</item>
         <item>microsoft_authenticator</item>
         <item>nord_vpn</item>
-        <item>one_dot_one</item>
         <item>onepassword</item>
         <item>proton_vpn</item>
         <item>ring</item>
@@ -1976,6 +1976,7 @@
     </string-array>
 
     <string-array name="web">
+        <item>_1_1_1_1</item>
         <item>ad_block_plus</item>
         <item>adblock</item>
         <item>adblock_alt</item>
@@ -1995,7 +1996,6 @@
         <item>microsoft_bing</item>
         <item>microsoft_edge</item>
         <item>nord_vpn</item>
-        <item>one_dot_one</item>
         <item>opera</item>
         <item>proton_vpn</item>
         <item>samsung_internet</item>
