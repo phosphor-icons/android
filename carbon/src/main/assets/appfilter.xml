@@ -294,6 +294,9 @@
   <!-- <item component="ComponentInfo{shashank066.AlbumArtChanger.Pro/shashank066.AlbumArtChanger.MainActivity}" drawable="album_art_changer"/> -->
   <!-- <item component="ComponentInfo{ocd.perfect.albumartchanger.free/shashank066.AlbumArtChanger.Free.MainActivityFree}" drawable="album_art_changer"/> -->
 
+  <!-- Alfred Camera -->
+  <item component="ComponentInfo{com.ivuu/com.ivuu.BrandingActivity}" drawable="kasa"/>
+
   <!-- Alibaba.com -->
   <!-- <item component="ComponentInfo{com.alibaba.intl.android.apps.poseidon/com.alibaba.intl.android.apps.poseidon.app.activity.ActivitySplash}" drawable="alibaba"/> -->
 
@@ -607,6 +610,9 @@
   <!-- Audio Profiles -->
   <!--<item component="ComponentInfo{com.fnp.audioprofiles/com.fnp.audioprofiles.MainActivity}" drawable="audio_profiles" />-->
 
+  <!-- Audiobooks.com -->
+  <!-- <item component="ComponentInfo{com.audiobooks.androidapp/com.audiobooks.androidapp.activities.SplashActivity}" drawable="audiobooks"/> -->
+
   <!-- August -->
   <!--<item component="ComponentInfo{com.august.luna/com.august.luna.ui.startup.LandingPage}" drawable="august" />-->
 
@@ -656,6 +662,9 @@
 
   <!-- BaiduMap -->
   <item component="ComponentInfo{com.baidu.BaiduMap/com.baidu.baidumaps.WelcomeScreen}" drawable="navigation"/>
+
+  <!-- Bamboo_Paper -->
+	<!-- <item component="ComponentInfo{com.wacom.bamboopapertab/com.wacom.bamboopapertab.LauncherActivity}" drawable="bamboo_paper"/> -->
 
   <!-- Banco Inter -->
   <!--<item component="ComponentInfo{br.com.intermedium/br.com.intermedium.SplashActivity}" drawable="banco_inter" />-->
@@ -890,6 +899,9 @@
 
   <!-- Brain Dots -->
   <!-- <item component="ComponentInfo{jp.co.translimit.braindots/org.cocos2dx.cpp.AppActivity}" drawable="brain_dots"/> -->
+
+  <!-- Brain_Focus -->
+  <!-- <item component="ComponentInfo{com.AT.PomodoroTimer/md526d39851d639bab802cdd7ddb2783acf.SplashActivity}" drawable="brain_focus"/> -->
 
   <!-- Brain.fm -->
   <!-- <item component="ComponentInfo{com.brainfm.app/com.brainfm.app.MainActivity}" drawable="brain_f__m" /> -->
@@ -1192,6 +1204,9 @@
   <!-- Checketry -->
   <!-- <item component="ComponentInfo{com.checketry.downloadmanager/md5976e8c58164b353debe5c4086a0215c3.LoginActivity}" drawable="checketry"/> -->
 
+  <!-- Check_Off -->
+  <!-- <item component="ComponentInfo{name.obrien.dave.lister/name.obrien.dave.lister.main}" drawable="check_off"/> -->
+
   <!-- Chess Clock -->
   <!-- <item component="ComponentInfo{com.chess.clock/com.chess.clock.activities.ClockTimersActivity}" drawable="chess_clock"/> -->
 
@@ -1326,11 +1341,17 @@
   <!-- Collect -->
   <!-- <item component="ComponentInfo{com.wetransfer.app.live/com.wetransfer.app.live.ui.launcher.LauncherActivity}" drawable="collect"/> -->
 
+  <!-- CollectPlus -->
+  <!-- <item component="ComponentInfo{uk.co.collectplus.mobile/uk.co.collectplus.mobile.MainActivity}" drawable="collect__plus"/> -->
+
   <!-- Colour with Asian Paints -->
   <!-- <item component="ComponentInfo{com.asianpaints.dbu.digital.colourwithasianpaints/com.asianpaints.b2capp.app.core.ui.SplashScreen}" drawable="colour_with_asian_paints"/> -->
 
   <!-- Color Harmony -->
 	<!-- <item component="ComponentInfo{pl.powsty.colorharmony/pl.powsty.colorharmony.MainActivity}" drawable="color_harmony"/> -->
+
+  <!-- Color Palette -->
+	<item component="ComponentInfo{com.apps.offbeat.colorpalette/com.apps.offbeat.colorpalette.MainActivity}" drawable="color_palette"/>
 
   <!-- Color Picker -->
   <!-- <item component="ComponentInfo{com.nauj27.android.colorpicker/com.nauj27.android.colorpicker.ColorPickerActivity}" drawable="color_picker"/> -->
@@ -1573,6 +1594,9 @@
   <!-- Custom Themes Installer -->
   <!-- <item component="ComponentInfo{project.vivid.custom.themes.univ/project.vivid.custom.themes.CustomThemes}" drawable="custom_themes_installer"/> -->
 
+  <!-- CV Library -->
+  <!-- <item component="ComponentInfo{allthetopbananas.cvlibrary/allthetopbananas.cvlibrary.MainActivity}" drawable="___cv_library"/> -->
+
   <!-- CX File Explorer -->
   <!--<item component="ComponentInfo{com.cxinventor.file.explorer/com.alphainventor.filemanager.activity.MainActivity}" drawable="___cx_file_explorer"/>-->
 
@@ -1625,7 +1649,17 @@
   <item component="ComponentInfo{com.sonymobile.support/com.sonymobile.support.InAppSupportLauncher}" drawable="help" />
   <item component="ComponentInfo{com.htc.guide/com.htc.guide.MainActivity}" drawable="help"/>
 
-  <!-- Dictionary -->
+  <!-- Dictionary English -->
+  <!-- <item component="ComponentInfo{livio.pack.lang.en_US/livio.pack.lang.en_US.DictionaryView}" drawable="dictionary_english"/> -->
+
+  <!-- Dictionary German -->
+	<!-- <item component="ComponentInfo{livio.pack.lang.de_DE/livio.pack.lang.de_DE.DictionaryView}" drawable="german_dictionary"/> -->
+
+  <!-- Dictionary Greek -->
+  <!-- <item component="ComponentInfo{com.bravolang.dictionary.greek/com.bravolang.dictionary.greek.BravoDict}" drawable="dictionary_greek"/> -->
+  <!-- <item component="ComponentInfo{com.metalanguage.learngreekfree/com.metalanguage.learngreekfree.MainActivity}" drawable="dictionary_greek"/> -->
+
+  <!-- Dictionary.com -->
   <item component="ComponentInfo{com.dictionary/com.dictionary.Splash}" drawable="dictionary"/>
 
   <!-- DiDi -->
@@ -1903,6 +1937,12 @@
   <!-- Evie Launcher -->
   <item component="ComponentInfo{is.shortcut/com.voxel.launcher3.Launcher}" drawable="evie_launcher"/>
 
+  <!-- Evoland -->
+	<!-- <item component="ComponentInfo{air.com.shirogames.evoland12/air.com.shirogames.evoland12.AppEntry}" drawable="evoland"/> -->
+
+	<!-- Evoland 2 -->
+	<!-- <item component="ComponentInfo{com.playdigious.evoland2/com.playdigious.evoland2.Evoland2Loading}" drawable="evoland_2"/> -->
+
   <!-- EX Kernel Manager -->
   <!-- <item component="ComponentInfo{flar2.exkernelmanager/a.a}" drawable="___ex_kernel_manager"/> -->
 
@@ -1932,6 +1972,9 @@
 
   <!-- Facebook Messenger -->
   <item component="ComponentInfo{com.facebook.orca/com.facebook.orca.auth.StartScreenActivity}" drawable="facebook_messenger"/>
+
+  <!-- Facebook Messenger Lite -->
+	<!-- <item component="ComponentInfo{com.facebook.mlite/com.facebook.mlite.coreui.view.MainActivity}" drawable="facebook_messenger_lite"/> -->
 
   <!-- Facebook Pages Manager -->
   <!-- <item component="ComponentInfo{com.facebook.pages.app/com.facebook.pages.app.auth.PagesManagerLoginActivity}" drawable="facebook_pages_manager"/> -->
@@ -2006,6 +2049,7 @@
   <item component="ComponentInfo{com.lenovo.FileBrowser2/com.lenovo.FileBrowser.activities.FileBrowserMain}" drawable="file_manager"/>
   <item component="ComponentInfo{com.oneplus.filemanager/com.oneplus.filemanager.HomePageActivity}" drawable="file_manager"/>
   <item component="ComponentInfo{com.asus.filemanager/com.asus.filemanager.activity.FileManagerActivity}" drawable="file_manager"/>
+  <item component="ComponentInfo{com.alphainventor.filemanager/com.alphainventor.filemanager.activity.MainActivity}" drawable="file_manager"/>
 
   <!-- Firefox -->
   <item component="ComponentInfo{org.mozilla.firefox/org.mozilla.firefox.App}" drawable="firefox"/>
@@ -2592,6 +2636,9 @@
   <!-- GTA San Andreas -->
   <!-- <item component="ComponentInfo{com.rockstargames.gtasa/com.rockstargames.gtasa.GTASA}" drawable="___gta_san_andreas"/> -->
 
+  <!-- Guitar Pro -->
+  <!-- <item component="ComponentInfo{com.arobasmusic.guitarpro/com.arobasmusic.guitarpro.GuitarProActivity}" drawable="guitar_pro"/> -->
+
   <!-- GuitarTuna -->
   <!-- <item component="ComponentInfo{com.ovelin.guitartuna/com.facebook.unity.FBUnityPlayerActivity}" drawable="guitar__tuna" /> -->
   <!-- <item component="ComponentInfo{com.ovelin.guitartuna/com.unity3d.player.UnityPlayerActivity}" drawable="guitar__tuna" /> -->
@@ -2625,6 +2672,9 @@
 
   <!-- Hacker's Keyboard -->
   <!-- <item component="ComponentInfo{org.pocketworkstation.pckeyboard/org.pocketworkstation.pckeyboard.Main}" drawable="hackers_keyboard"/> -->
+
+  <!-- Halifax -->
+	<!-- <item component="ComponentInfo{com.grppl.android.shell.halifax/com.halifax.halifax.GrappleActivity}" drawable="halifax"/> -->
 
   <!-- Handshake -->
   <!-- <item component="ComponentInfo{com.joinhandshake.student/com.joinhandshake.student.main.SplashActivity}" drawable="handshake"/> -->
@@ -2669,6 +2719,9 @@
 
   <!-- Hearthstone -->
   <!-- <item component="ComponentInfo{com.blizzard.wtcg.hearthstone/com.blizzard.wtcg.hearthstone.HearthstoneActivity}" drawable="hearthstone"/> -->
+
+  <!-- Herbs and Use -->
+  <!-- <item component="ComponentInfo{doug.nasc.ervasen/doug.nasc.ervasen.MainActivity}" drawable="herbs_and_use"/> -->
 
   <!-- Here Comes the Bus -->
   <!-- <item component="ComponentInfo{com.synovia.herecomesthebus/com.synovia.herecomesthebus.MainActivity}" drawable="here_comes_the_bus"/> -->
@@ -2930,6 +2983,9 @@
   <!-- Injustice -->
   <!-- <item component="ComponentInfo{com.wb.goog.injustice/com.epicgames.virtuos.UnrealEngine3.UE3JavaApp}" drawable="injustice"/> -->
 
+  <!-- INKredible -->
+  <!-- <item component="ComponentInfo{com.viettran.INKredible/com.viettran.INKredible.ui.PPageMainActivity}" drawable="___in__kredible"/> -->
+
   <!-- Inkwire -->
   <!-- <item component="ComponentInfo{com.koushikdutta.inkwire/com.koushikdutta.inkwire.StartActivity}" drawable="inkwire"/> -->
 
@@ -3018,6 +3074,9 @@
 
   <!-- Jool -->
   <!--<item component="ComponentInfo{com.dreamon.jool/com.dreamon.jool.activities.SplashActivity}" drawable="jool" />-->
+
+  <!-- Journey -->
+	<!-- <item component="ComponentInfo{com.journey.app/com.journey.app.SplashActivity}" drawable="journey"/> -->
 
   <!-- JoyFC -->
   <!-- <item component="ComponentInfo{com.monkeyapp.nesgold/com.monkeyapp.nes.SplashActivity}" drawable="joy___fc"/> -->
@@ -3298,6 +3357,9 @@
   <!-- Linebit -->
   <item component="ComponentInfo{com.edzondm.linebit/com.edzondm.linebit.MainActivity}" drawable="linebit"/>
 
+  <!-- Linebit Purple -->
+  <item component="ComponentInfo{com.edzondm.linebitse/com.edzondm.linebitse.MainActivity}" drawable="linebit"/>
+
   <!-- Linebit Light -->
   <!-- <item component="ComponentInfo{com.edzondm.linebitlight/com.edzondm.linebitwhite.MainActivity}" drawable="linebit_light" /> -->
 
@@ -3336,6 +3398,9 @@
 
   <!-- LiveXLive -->
   <!-- <item component="ComponentInfo{com.slacker.radio/com.slacker.gui.pivot.activities.PreLaunchActivity}" drawable="live__x__live"/> -->
+
+  <!-- Lloyds Bank -->
+  <!-- <item component="ComponentInfo{com.grppl.android.shell.CMBlloydsTSB73/com.halifax.halifax.GrappleActivity}" drawable="lloyds_bank"/> -->
 
   <!-- Logo Quiz -->
   <!-- <item component="ComponentInfo{logos.quiz.companies.game/logos.quiz.companies.game.LogosQuizActivity}" drawable="logo_quiz"/> -->
@@ -3466,6 +3531,9 @@
 
   <!-- Memrise -->
   <!-- <item component="ComponentInfo{com.memrise.android.memrisecompanion/com.memrise.android.memrisecompanion.ui.activity.LauncherActivity}" drawable="memrise" /> -->
+
+  <!-- Mental Math Flashcards -->
+	<!-- <item component="ComponentInfo{com.magoosh.gre.flashcards.mental_math/com.magooshflashcards.MainActivity}" drawable="mental_math_flashcards"/> -->
 
   <!-- Merriam Webster Dictionary & Thesaurus -->
   <item component="ComponentInfo{com.merriamwebster.premium/com.merriamwebster.dictionary.activity.dictionary.DictionaryActivity}" drawable="merriam_webster_dictionary"/>
@@ -3723,6 +3791,12 @@
   <!-- Moonshine -->
   <!--<item component="ComponentInfo{nexbit.icons.moonshine/com.natewren.dashboard.SplashScreen}" drawable="moonshine" />-->
 
+  <!-- MortPlayer Audio Books -->
+  <!-- <item component="ComponentInfo{de.stohelit.audiobookplayer/de.stohelit.audiobookplayer.MainPlayer}" drawable="mort__player_audio_books"/> -->
+
+  <!-- MortPlayer Music -->
+  <!-- <item component="ComponentInfo{de.stohelit.folderplayer/de.stohelit.folderplayer.MainPlayer}" drawable="mort__player_music"/> -->
+
   <!-- Motorsport Manager Mobile 2 -->
   <!-- <item component="ComponentInfo{com.playsportgames.mmm2017/com.unity3d.player.UnityPlayerActivity}" drawable="motorsport_manager_mobile_2"/> -->
 
@@ -3741,6 +3815,9 @@
 
   <!-- MTweaks -->
   <!-- <item component="ComponentInfo{com.moro.mtweaks/com.moro.mtweaks.activities.StartActivity}" drawable="m__tweaks"/> -->
+
+  <!-- Multi Timer -->
+	<item component="ComponentInfo{com.jee.timer/com.jee.timer.ui.activity.IntroActivity}" drawable="timer"/>
 
   <!-- Murder Minute -->
   <!-- <item component="ComponentInfo{com.murderminute.murder/com.murder.MainActivity}" drawable="murder_minute"/> -->
@@ -3862,6 +3939,9 @@
   <!-- NBC Sports -->
   <item component="ComponentInfo{air.com.nbcuni.com.nbcsports.liveextra/com.nbc.nbcsports.activities.SplashActivity}" drawable="sports" />
 
+  <!-- Nebo -->
+	<item component="ComponentInfo{com.myscript.nebo/com.myscript.nebo.BootstrapActivity}" drawable="productivity"/>
+
   <!-- Neighbourly -->
   <!-- <item component="ComponentInfo{com.google.android.apps.nbu.society/com.google.android.apps.nbu.society.home.HomeActivity}" drawable="neighbourly"/> -->
 
@@ -3876,6 +3956,9 @@
 
   <!-- NEOLINE -->
   <!-- <item component="ComponentInfo{com.maxelus.livewallpaper.neoline/com.maxelus.livewallpaper.neoline.OpenApp}" drawable="___neoline"/> -->
+
+  <!-- Neos SmartHome -->
+	<!-- <item component="ComponentInfo{uk.co.neos.retail.android/com.andrew_lucas.homeinsurance.activities.start.SplashViewActivity}" drawable="neos_smart__home"/> -->
 
   <!-- Nest -->
   <!-- <item component="ComponentInfo{com.nest.android/com.obsidian.v4.activity.LoginActivity}" drawable="nest" /> -->
@@ -4106,6 +4189,9 @@
   <!-- OYO -->
   <!-- <item component="ComponentInfo{com.oyo.consumer/com.oyo.consumer.activity.LauncherActivity}" drawable="___oyo"/> -->
 
+  <!-- Paced Breathing -->
+  <!-- <item component="ComponentInfo{com.apps.paced.breathing.pro/com.apps.paced.breathing.pro.MainActivity}" drawable="paced_breathing"/> -->
+
   <!-- Pals -->
   <!-- <item component="ComponentInfo{com.jahirfiquitiva.pals/com.jahirfiquitiva.pals.activities.MainActivity}" drawable="pals"/> -->
 
@@ -4181,10 +4267,12 @@
   <!-- <item component="ComponentInfo{com.willsykes.perfectmoon/com.unity3d.player.UnityPlayerNativeActivity}" drawable="perfectmoon"/> -->
 
   <!-- Periodic Table -->
-  <!--<item component="ComponentInfo{mendeleev.redlime/mendeleev.redlime.MainActivity}" drawable="periodic_table" />-->
-  <!--<item component="ComponentInfo{mendeleev.redlime/redlime.pereodic.MainActivityGrid}" drawable="periodic_table" />-->
-  <!--<item component="ComponentInfo{mendeleev.redlime/redlime.pereodic.MainActivityGrid_new}" drawable="periodic_table" />-->
-  <!--<item component="ComponentInfo{august.mendeleev.pro/august.mendeleev.pro.MainActivity}" drawable="periodic_table" />-->
+  <!-- <item component="ComponentInfo{mendeleev.redlime/mendeleev.redlime.MainActivity}" drawable="periodic_table" /> -->
+  <!-- <item component="ComponentInfo{mendeleev.redlime/mendeleev.redlime.fragments.MainActivity}" drawable="periodic_table" /> -->
+  <!-- <item component="ComponentInfo{mendeleev.redlime/redlime.pereodic.MainActivityGrid}" drawable="periodic_table" /> -->
+  <!-- <item component="ComponentInfo{mendeleev.redlime/redlime.pereodic.MainActivityGrid_new}" drawable="periodic_table" /> -->
+  <!-- <item component="ComponentInfo{august.mendeleev.pro/august.mendeleev.pro.MainActivity}" drawable="periodic_table" /> -->
+  <!-- <item component="ComponentInfo{org.rsc.periodictable/md58de53ac9bfbcaef4d6118bfb02a0ae24.LoadingScreenActivity}" drawable="periodic_table" /> -->
 
   <!-- Phases of the Moon -->
   <!-- <item component="ComponentInfo{com.universetoday.moon.free/com.universetoday.moon.free.MoonPhases}" drawable="phases_of_the_moon"/> -->
@@ -4408,6 +4496,7 @@
   <item component="ComponentInfo{com.maxmpz.audioplayer/com.maxmpz.audioplayer.standard_adaptive}" drawable="poweramp"/>
   <item component="ComponentInfo{com.maxmpz.audioplayer.unlock/com.maxmpz.audioplayer.unlock.LauncherRedirectorActivity}" drawable="poweramp"/>
   <item component="ComponentInfo{com.maxmpz.audioplayer.unlock/com.maxmpz.audioplayer.unlock.RedirectorActivity}" drawable="poweramp"/>
+  <item component="ComponentInfo{com.maxmpz.audioplayer/com.maxmpz.audioplayer.black_round}" drawable="poweramp"/>
 
   <!-- PowerDirector -->
   <!-- <item component="ComponentInfo{com.cyberlink.powerdirector.DRA140225_01/com.cyberlink.powerdirector.splash.SplashActivity}" drawable="power__director"/> -->
@@ -4698,13 +4787,10 @@
   <!-- Salesforce -->
   <!--<item component="ComponentInfo{com.salesforce.chatter/com.salesforce.chatter.Chatter}" drawable="salesforce" />-->
 
-  <!-- Samsung Internet Browser -->
-  <item component="ComponentInfo{com.sec.android.app.sbrowser/com.sec.android.app.sbrowser.SBrowserMainActivity}" drawable="samsung_internet"/>
+  <!-- Samsung Flow -->
+	<!-- <item component="ComponentInfo{com.samsung.android.galaxycontinuity/com.samsung.android.galaxycontinuity.SplashActivity}" drawable="samsung_flow"/> -->
 
-  <!-- Samsung Internet Browser Beta -->
-  <item component="ComponentInfo{com.sec.android.app.sbrowser.beta/com.sec.android.app.sbrowser.SBrowserMainActivity}" drawable="samsung_internet"/>
-
-  <!-- Galaxy Store -->
+  <!-- Samsung Galaxy Store -->
   <item component="ComponentInfo{com.sec.android.app.samsungapps/com.sec.android.app.samsungapps.SamsungAppsMainActivity}" drawable="samsung_galaxy_store"/>
 
   <!-- Samsung Galaxy Themes -->
@@ -4725,6 +4811,15 @@
   <!-- Samsung Health -->
   <item component="ComponentInfo{com.sec.android.app.shealth/com.samsung.android.app.shealth.home.HomeMainActivity}" drawable="samsung_health"/>
 
+  <!-- Samsung Internet Browser -->
+  <item component="ComponentInfo{com.sec.android.app.sbrowser/com.sec.android.app.sbrowser.SBrowserMainActivity}" drawable="samsung_internet"/>
+
+  <!-- Samsung Internet Browser Beta -->
+  <item component="ComponentInfo{com.sec.android.app.sbrowser.beta/com.sec.android.app.sbrowser.SBrowserMainActivity}" drawable="samsung_internet"/>
+
+  <!-- Samsung Members -->
+  <!-- <item component="ComponentInfo{com.samsung.android.voc/com.samsung.android.voc.LauncherActivity}" drawable="samsung_members"/> -->
+
   <!-- Samsung Messages -->
   <item component="ComponentInfo{com.samsung.android.messaging/com.android.mms.ui.ConversationComposer}" drawable="samsung_messages"/>
 
@@ -4743,6 +4838,9 @@
 
   <!-- Samsung Pay -->
   <item component="ComponentInfo{com.samsung.android.spay/com.samsung.android.spay.ui.SpayMainActivity}" drawable="samsung_pay"/>
+
+  <!-- Samsung PENUP -->
+	<!-- <item component="ComponentInfo{com.sec.penup/com.sec.penup.ui.SplashActivity}" drawable="samsung_p___enup"/> -->
 
   <!-- Samsung Reminder -->
   <item component="ComponentInfo{com.samsung.android.app.reminder/com.samsung.android.app.reminder.ui.LaunchMainActivity}" drawable="samsung_reminder"/>
@@ -4773,6 +4871,9 @@
 
   <!-- Samsung Voice Recorder -->
   <item component="ComponentInfo{com.sec.android.app.voicenote/com.sec.android.app.voicenote.main.VNMainActivity}" drawable="audio"/>
+
+  <!-- Santander -->
+	<!-- <item component="ComponentInfo{uk.co.santander.santanderUK/uk.co.santander.santanderuk.logon.SplashActivity}" drawable="santander"/> -->
 
   <!-- SatFinder -->
   <!-- <item component="ComponentInfo{com.esys.satfinderpro/com.esys.satfinderpro.SatFinderProActivity}" drawable="sat__finder"/> -->
@@ -5957,8 +6058,9 @@
   <!-- Voice Audiobook Player -->
   <!-- <item component="ComponentInfo{de.ph1b.audiobook/de.ph1b.audiobook.features.MainActivity}" drawable="voice_audiobook_player"/> -->
 
-  <!-- Voice Record Pro -->
-  <item component="ComponentInfo{ca.bejbej.voicerecordpro/ca.bejbej.voicerecordpro.activities.FAMainActivity}" drawable="sound_recorder"/>
+  <!-- Voice Recorder -->
+  <item component="ComponentInfo{ca.bejbej.voicerecordpro/ca.bejbej.voicerecordpro.activities.FAMainActivity}" drawable="podcast"/>
+  <item component="ComponentInfo{com.hiqrecorder.full/yuku.perekammp3.RekamActivity}" drawable="podcast"/>
 
   <!-- Voice Pitch Analyzer -->
   <!--<item component="ComponentInfo{de.lilithwittmann.voicepitchanalyzer/de.lilithwittmann.voicepitchanalyzer.activities.RecordingListActivity}" drawable="voice_pitch_analyzer" />-->

@@ -2,17 +2,18 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
 
     <string-array name="icons_preview">
+        <item>_1_1_1_1</item>
         <item>abstruct</item>
-        <item>accubattery</item>
-        <item>accuweather</item>
+        <item>accu__battery</item>
+        <item>accu__weather</item>
         <item>acorns</item>
-        <item>actiondash</item>
+        <item>action__dash</item>
         <item>action_launcher</item>
         <item>adblock_alt</item>
         <item>ad_block_plus</item>
         <item>adblock</item>
         <item>adguard</item>
-        <item>adm</item>
+        <item>___adm</item>
         <item>adobe_acrobat</item>
         <item>adobe_fill_and_sign</item>
         <item>adobe_illustrator</item>
@@ -22,15 +23,15 @@
         <item>adobe_photoshop</item>
         <item>adobe_photoshop_sketch</item>
         <item>adobe_scan</item>
-        <item>adw_launcher</item>
+        <item>___adw_launcher</item>
         <item>afterglow</item>
         <item>afterlight</item>
         <item>airbnb</item>
-        <item>airdroid</item>
+        <item>air__droid</item>
         <item>airtable</item>
-        <item>ali_express</item>
+        <item>ali__express</item>
         <item>alipay</item>
-        <item>alltrails</item>
+        <item>all__trails</item>
         <item>alto_odyssey</item>
         <item>amaze_alt</item>
         <item>amaze</item>
@@ -43,23 +44,23 @@
         <item>amazon</item>
         <item>amazon_video</item>
         <item>ame_digital</item>
-        <item>amex</item>
-        <item>amoledwalls</item>
+        <item>am__ex</item>
+        <item>amoled__walls</item>
         <item>amtrak</item>
         <item>ancestry</item>
         <item>android_auto</item>
         <item>angry_birds</item>
-        <item>anydo</item>
+        <item>any___do</item>
         <item>apex_launcher</item>
-        <item>ap_news</item>
+        <item>___ap_news</item>
         <item>apple_music_alt</item>
         <item>apple_music</item>
-        <item>appsales</item>
+        <item>app__sales</item>
         <item>apps</item>
         <item>arrow_down</item>
         <item>arrow_up</item>
         <item>asana</item>
-        <item>att</item>
+        <item>___att</item>
         <item>audible</item>
         <item>audio</item>
         <item>aurora_droid</item>
@@ -75,13 +76,13 @@
         <item>bank_of_america</item>
         <item>barcode_scanner_alt</item>
         <item>barcode_scanner</item>
-        <item>bbc</item>
+        <item>___bbc</item>
         <item>behance</item>
-        <item>bitdefender</item>
+        <item>bit__defender</item>
         <item>bitmoji</item>
-        <item>bittorrent</item>
+        <item>bit__torrent</item>
         <item>bitwarden</item>
-        <item>blackplayer</item>
+        <item>black__player</item>
         <item>blizzard_authenticator</item>
         <item>blokada</item>
         <item>booking</item>
@@ -133,9 +134,9 @@
         <item>camera</item>
         <item>candy_crush</item>
         <item>capital_one</item>
-        <item>car2go</item>
+        <item>_car2go</item>
         <item>castbox</item>
-        <item>cbs</item>
+        <item>___cbs</item>
         <item>chase</item>
         <item>chat</item>
         <item>chewy</item>
@@ -152,24 +153,24 @@
         <item>compass</item>
         <item>contacts</item>
         <item>craigslist</item>
-        <item>creative</item>
+        <item>___creative</item>
         <item>credit_karma</item>
         <item>crunchyroll</item>
-        <item>curiositystream</item>
+        <item>curiosity__stream</item>
         <item>customization</item>
         <item>dating</item>
         <item>daylio</item>
         <item>delivery</item>
         <item>delta</item>
-        <item>deviantart_alt</item>
-        <item>deviantart</item>
+        <item>deviant__art_alt</item>
+        <item>deviant__art</item>
         <item>dice</item>
         <item>dictionary</item>
         <item>discord</item>
         <item>document_scan</item>
         <item>dominos</item>
         <item>doodle_jump</item>
-        <item>doordash</item>
+        <item>door__dash</item>
         <item>dots</item>
         <item>download_manager</item>
         <item>draw</item>
@@ -179,14 +180,14 @@
         <item>dropsync</item>
         <item>duolingo_alt</item>
         <item>duolingo</item>
-        <item>ebay</item>
+        <item>_e__bay</item>
         <item>education</item>
         <item>elsa_speak</item>
         <item>email_alt</item>
         <item>email</item>
         <item>emergency_alerts</item>
-        <item>espn_fantasy</item>
-        <item>espn</item>
+        <item>___espn_fantasy</item>
+        <item>___espn</item>
         <item>evernote</item>
         <item>evie_launcher</item>
         <item>facebook_alt</item>
@@ -277,13 +278,13 @@
         <item>google_voice</item>
         <item>google_wifi</item>
         <item>grammarly</item>
-        <item>groupme</item>
+        <item>group__me</item>
         <item>groupon</item>
         <item>grubhub</item>
         <item>hacker_news_alt</item>
         <item>hacker_news</item>
-        <item>hbo_go</item>
-        <item>hbo_now</item>
+        <item>___hbo_go</item>
+        <item>___hbo_now</item>
         <item>headspace_alt_2</item>
         <item>headspace_alt</item>
         <item>headspace</item>
@@ -293,8 +294,8 @@
         <item>holo_launcher</item>
         <item>home_agenda_calendar_widget</item>
         <item>hopper</item>
-        <item>hoteltonight_alt</item>
-        <item>hoteltonight</item>
+        <item>hotel__tonight_alt</item>
+        <item>hotel__tonight</item>
         <item>hue</item>
         <item>huji_cam</item>
         <item>hulu</item>
@@ -302,50 +303,50 @@
         <item>hydro_coach</item>
         <item>hype_machine</item>
         <item>hyperion</item>
-        <item>ia_writer</item>
+        <item>_i__a_writer</item>
         <item>iconzy</item>
-        <item>icq</item>
-        <item>idm_alt</item>
-        <item>idm</item>
-        <item>iflix</item>
-        <item>ifttt</item>
-        <item>iheartradio</item>
-        <item>imdb_alt</item>
-        <item>imdb</item>
+        <item>___icq</item>
+        <item>___idm_alt</item>
+        <item>___idm</item>
+        <item>_iflix</item>
+        <item>___ifttt</item>
+        <item>_i__heart__radio</item>
+        <item>___im__db_alt</item>
+        <item>___im__db</item>
         <item>imgur</item>
         <item>imo</item>
-        <item>inshot</item>
+        <item>in__shot</item>
         <item>instagram_alt</item>
         <item>instagram_layout</item>
         <item>instagram</item>
         <item>instapaper</item>
-        <item>instasave</item>
-        <item>jiotv</item>
+        <item>insta__save</item>
+        <item>jio___tv</item>
         <item>join</item>
         <item>kasa</item>
         <item>kayak</item>
-        <item>keepass</item>
+        <item>kee__pass</item>
         <item>kik</item>
-        <item>kustom_kapk</item>
-        <item>kustom_klck</item>
-        <item>kustom_klwp</item>
-        <item>kustom_kunread</item>
-        <item>kustom_kweather</item>
-        <item>kustom_kwgt</item>
+        <item>kustom_k___apk</item>
+        <item>kustom_k___lck</item>
+        <item>kustom_k___lwp</item>
+        <item>kustom_k___unr</item>
+        <item>kustom_k__weather</item>
+        <item>kustom_k___wgt</item>
         <item>kustom</item>
-        <item>lastpass</item>
+        <item>last__pass</item>
         <item>lawnchair_launcher</item>
         <item>life360</item>
-        <item>limeline</item>
+        <item>lime__line</item>
         <item>linebit</item>
-        <item>linkedin</item>
+        <item>linked__in</item>
         <item>lucid_launcher</item>
         <item>lyft</item>
         <item>magisk_manager</item>
         <item>medium</item>
-        <item>meetme</item>
+        <item>meet__me</item>
         <item>meetup</item>
-        <item>mega</item>
+        <item>___mega</item>
         <item>merriam_webster_dictionary</item>
         <item>messages_alt</item>
         <item>messages</item>
@@ -358,14 +359,14 @@
         <item>microsoft_excel_alt</item>
         <item>microsoft_excel</item>
         <item>microsoft_launcher</item>
-        <item>microsoft_onedrive</item>
-        <item>microsoft_onenote_alt</item>
-        <item>microsoft_onenote</item>
+        <item>microsoft_one__drive</item>
+        <item>microsoft_one__note_alt</item>
+        <item>microsoft_one__note</item>
         <item>microsoft_outlook_alt</item>
         <item>microsoft_outlook</item>
         <item>microsoft_powerpoint_alt</item>
         <item>microsoft_powerpoint</item>
-        <item>microsoft_sms_organizer</item>
+        <item>microsoft_s__m__s_organizer</item>
         <item>microsoft_word_alt</item>
         <item>microsoft_word</item>
         <item>microsoft_your_phone_companion</item>
@@ -378,41 +379,40 @@
         <item>mi_remote</item>
         <item>mi_security</item>
         <item>mi_store</item>
-        <item>miui_feedback</item>
-        <item>miui_forum</item>
-        <item>miui_themes</item>
+        <item>___miui_feedback</item>
+        <item>___miui_forum</item>
+        <item>___miui_themes</item>
         <item>mi_video</item>
-        <item>mixplorer</item>
+        <item>mi__xplorer</item>
         <item>m_launcher</item>
-        <item>mnml_screen_recorder</item>
+        <item>___mnml_screen_recorder</item>
         <item>monument_valley</item>
         <item>music</item>
         <item>musixmatch</item>
-        <item>mx_player</item>
-        <item>myjio</item>
+        <item>___mx_player</item>
+        <item>my__jio</item>
         <item>my_verizon</item>
         <item>navigation</item>
-        <item>nbc</item>
+        <item>___nbc</item>
         <item>netflix</item>
         <item>news_alt</item>
         <item>news</item>
         <item>niagara_launcher</item>
-        <item>nine_gag</item>
+        <item>_9__gag</item>
         <item>nintendo</item>
-        <item>nord_vpn</item>
+        <item>nord___vpn</item>
         <item>notes_alt</item>
         <item>notes</item>
         <item>notion</item>
         <item>nova_launcher</item>
         <item>nova_launcher_settings</item>
-        <item>nytimes_alt</item>
-        <item>nytimes</item>
+        <item>___ny__times_alt</item>
+        <item>___ny__times</item>
         <item>okcupid</item>
         <item>ola_cabs</item>
-        <item>one_dot_one</item>
-        <item>onepassword</item>
-        <item>oneplus_community</item>
-        <item>oneplus_switch</item>
+        <item>_1__password</item>
+        <item>one__plus_community</item>
+        <item>one__plus_switch</item>
         <item>opera</item>
         <item>outdoors</item>
         <item>overdrop</item>
@@ -420,19 +420,19 @@
         <item>parrot</item>
         <item>patreon_alt</item>
         <item>patreon</item>
-        <item>paypal</item>
+        <item>pay__pal</item>
         <item>paytm</item>
         <item>phone_alt</item>
-        <item>phonepe</item>
+        <item>phone__pe</item>
         <item>phone</item>
         <item>phosphor_carbon</item>
         <item>phosphor_helium</item>
         <item>phosphor_krypton</item>
         <item>phosphor</item>
-        <item>picsart</item>
+        <item>pics__art</item>
         <item>pinterest</item>
         <item>pixlr</item>
-        <item>player_fm</item>
+        <item>player_f__m</item>
         <item>plex_alt</item>
         <item>plex</item>
         <item>plus_messenger</item>
@@ -446,8 +446,8 @@
         <item>postmates</item>
         <item>poweramp</item>
         <item>productivity</item>
-        <item>proton_vpn</item>
-        <item>pubg</item>
+        <item>proton_v__p__n</item>
+        <item>___pubg</item>
         <item>pulse_messenger</item>
         <item>pushbullet</item>
         <item>quartz</item>
@@ -459,7 +459,7 @@
         <item>replaio_radio</item>
         <item>resplash</item>
         <item>retro_music</item>
-        <item>rgb_color_wallpaper</item>
+        <item>___rgb_color_wallpaper</item>
         <item>ring</item>
         <item>robinhood</item>
         <item>roblox</item>
@@ -474,7 +474,7 @@
         <item>samsung_reminder</item>
         <item>samsung_wear</item>
         <item>screener</item>
-        <item>sd_maid</item>
+        <item>___sd_maid</item>
         <item>seamless</item>
         <item>sesame</item>
         <item>settings_alt</item>
@@ -487,7 +487,7 @@
         <item>slack</item>
         <item>slide_for_reddit</item>
         <item>smart_launcher</item>
-        <item>sms_backup_and_restore</item>
+        <item>___sms_backup_and_restore</item>
         <item>snapchat</item>
         <item>snapmod</item>
         <item>snapseed</item>
@@ -517,17 +517,17 @@
         <item>substratum</item>
         <item>substratum_theme</item>
         <item>sudoku</item>
-        <item>swiftkey</item>
+        <item>swift__key</item>
         <item>sync_for_reddit</item>
-        <item>system_ui_tuner</item>
+        <item>system___ui_tuner</item>
         <item>system_updates</item>
         <item>talon</item>
         <item>tango</item>
         <item>target</item>
         <item>tasker</item>
-        <item>td_bank</item>
+        <item>___td_bank</item>
         <item>teardrop</item>
-        <item>ted</item>
+        <item>___ted</item>
         <item>telegram</item>
         <item>terminal_alt</item>
         <item>terminal</item>
@@ -536,18 +536,18 @@
         <item>tholotis</item>
         <item>ticketmaster</item>
         <item>tidal</item>
-        <item>tiktok</item>
+        <item>tik__tok</item>
         <item>timer_alt</item>
         <item>timer</item>
         <item>tinder</item>
         <item>t_mobile</item>
         <item>t_mobile_visual_voicemail</item>
         <item>todoist</item>
-        <item>torrse</item>
+        <item>torr___se</item>
         <item>transit</item>
         <item>travel</item>
         <item>trello</item>
-        <item>tumblr</item>
+        <item>_tumblr</item>
         <item>twitch</item>
         <item>twitter</item>
         <item>two_dots</item>
@@ -555,16 +555,16 @@
         <item>uber</item>
         <item>udacity</item>
         <item>universal_copy</item>
-        <item>usaa</item>
+        <item>___usaa</item>
         <item>venmo</item>
         <item>verizon_my_fios</item>
         <item>video</item>
         <item>vimeo</item>
         <item>virtual_wallet</item>
-        <item>vlc</item>
+        <item>___vlc</item>
         <item>voicemail</item>
-        <item>vsco</item>
-        <item>wallhub</item>
+        <item>___vsco</item>
+        <item>wall__hub</item>
         <item>walli_alt</item>
         <item>walli</item>
         <item>wallpaper</item>
@@ -576,15 +576,15 @@
         <item>web_alt_2</item>
         <item>web_alt</item>
         <item>web</item>
-        <item>wechat</item>
+        <item>we__chat</item>
         <item>wells_fargo</item>
-        <item>whatsapp</item>
+        <item>whats__app</item>
         <item>wikipedia</item>
-        <item>wolfram_alpha</item>
-        <item>wps_office</item>
+        <item>wolfram__alpha</item>
+        <item>___wps_office</item>
         <item>xbox</item>
-        <item>xda_feed_alt</item>
-        <item>xda_feed</item>
+        <item>___xda_feed_alt</item>
+        <item>___xda_feed</item>
         <item>yahoo_fantasy</item>
         <item>yahoo_finance</item>
         <item>yahoo_mail</item>
@@ -593,15 +593,15 @@
         <item>yahoo_sports</item>
         <item>yahoo_weather</item>
         <item>yelp</item>
-        <item>youcam_perfect</item>
+        <item>you__cam_perfect</item>
         <item>youku</item>
-        <item>youtube_music</item>
-        <item>youtube</item>
-        <item>youtube_studio</item>
-        <item>youtube_tv</item>
-        <item>youtube_vanced</item>
-        <item>zarchiver_alt</item>
-        <item>zarchiver</item>
+        <item>you__tube_music</item>
+        <item>you__tube</item>
+        <item>you__tube_studio</item>
+        <item>you__tube_t__v</item>
+        <item>you__tube_vanced</item>
+        <item>z__archiver_alt</item>
+        <item>z__archiver</item>
         <item>zelle</item>
         <item>zero_launcher</item>
     </string-array>
@@ -613,7 +613,7 @@
         <item>all</item>
         <item>recent</item>
         <item>banking</item>
-        <item>creative</item>
+        <item>___creative</item>
         <item>education</item>
         <item>food</item>
         <item>games</item>
@@ -635,17 +635,18 @@
     </string-array>
 
     <string-array name="all">
+        <item>_1_1_1_1</item>
         <item>abstruct</item>
-        <item>accubattery</item>
-        <item>accuweather</item>
+        <item>accu__battery</item>
+        <item>accu__weather</item>
         <item>acorns</item>
-        <item>actiondash</item>
+        <item>action__dash</item>
         <item>action_launcher</item>
         <item>adblock_alt</item>
         <item>ad_block_plus</item>
         <item>adblock</item>
         <item>adguard</item>
-        <item>adm</item>
+        <item>___adm</item>
         <item>adobe_acrobat</item>
         <item>adobe_fill_and_sign</item>
         <item>adobe_illustrator</item>
@@ -655,15 +656,15 @@
         <item>adobe_photoshop</item>
         <item>adobe_photoshop_sketch</item>
         <item>adobe_scan</item>
-        <item>adw_launcher</item>
+        <item>___adw_launcher</item>
         <item>afterglow</item>
         <item>afterlight</item>
         <item>airbnb</item>
-        <item>airdroid</item>
+        <item>air__droid</item>
         <item>airtable</item>
-        <item>ali_express</item>
+        <item>ali__express</item>
         <item>alipay</item>
-        <item>alltrails</item>
+        <item>all__trails</item>
         <item>alto_odyssey</item>
         <item>amaze_alt</item>
         <item>amaze</item>
@@ -676,23 +677,23 @@
         <item>amazon</item>
         <item>amazon_video</item>
         <item>ame_digital</item>
-        <item>amex</item>
-        <item>amoledwalls</item>
+        <item>am__ex</item>
+        <item>amoled__walls</item>
         <item>amtrak</item>
         <item>ancestry</item>
         <item>android_auto</item>
         <item>angry_birds</item>
-        <item>anydo</item>
+        <item>any___do</item>
         <item>apex_launcher</item>
-        <item>ap_news</item>
+        <item>___ap_news</item>
         <item>apple_music_alt</item>
         <item>apple_music</item>
-        <item>appsales</item>
+        <item>app__sales</item>
         <item>apps</item>
         <item>arrow_down</item>
         <item>arrow_up</item>
         <item>asana</item>
-        <item>att</item>
+        <item>___att</item>
         <item>audible</item>
         <item>audio</item>
         <item>aurora_droid</item>
@@ -708,13 +709,13 @@
         <item>bank_of_america</item>
         <item>barcode_scanner_alt</item>
         <item>barcode_scanner</item>
-        <item>bbc</item>
+        <item>___bbc</item>
         <item>behance</item>
-        <item>bitdefender</item>
+        <item>bit__defender</item>
         <item>bitmoji</item>
-        <item>bittorrent</item>
+        <item>bit__torrent</item>
         <item>bitwarden</item>
-        <item>blackplayer</item>
+        <item>black__player</item>
         <item>blizzard_authenticator</item>
         <item>blokada</item>
         <item>booking</item>
@@ -766,9 +767,9 @@
         <item>camera</item>
         <item>candy_crush</item>
         <item>capital_one</item>
-        <item>car2go</item>
+        <item>_car2go</item>
         <item>castbox</item>
-        <item>cbs</item>
+        <item>___cbs</item>
         <item>chase</item>
         <item>chat</item>
         <item>chewy</item>
@@ -785,24 +786,24 @@
         <item>compass</item>
         <item>contacts</item>
         <item>craigslist</item>
-        <item>creative</item>
+        <item>___creative</item>
         <item>credit_karma</item>
         <item>crunchyroll</item>
-        <item>curiositystream</item>
+        <item>curiosity__stream</item>
         <item>customization</item>
         <item>dating</item>
         <item>daylio</item>
         <item>delivery</item>
         <item>delta</item>
-        <item>deviantart_alt</item>
-        <item>deviantart</item>
+        <item>deviant__art_alt</item>
+        <item>deviant__art</item>
         <item>dice</item>
         <item>dictionary</item>
         <item>discord</item>
         <item>document_scan</item>
         <item>dominos</item>
         <item>doodle_jump</item>
-        <item>doordash</item>
+        <item>door__dash</item>
         <item>dots</item>
         <item>download_manager</item>
         <item>draw</item>
@@ -812,14 +813,14 @@
         <item>dropsync</item>
         <item>duolingo_alt</item>
         <item>duolingo</item>
-        <item>ebay</item>
+        <item>_e__bay</item>
         <item>education</item>
         <item>elsa_speak</item>
         <item>email_alt</item>
         <item>email</item>
         <item>emergency_alerts</item>
-        <item>espn_fantasy</item>
-        <item>espn</item>
+        <item>___espn_fantasy</item>
+        <item>___espn</item>
         <item>evernote</item>
         <item>evie_launcher</item>
         <item>facebook_alt</item>
@@ -910,13 +911,13 @@
         <item>google_voice</item>
         <item>google_wifi</item>
         <item>grammarly</item>
-        <item>groupme</item>
+        <item>group__me</item>
         <item>groupon</item>
         <item>grubhub</item>
         <item>hacker_news_alt</item>
         <item>hacker_news</item>
-        <item>hbo_go</item>
-        <item>hbo_now</item>
+        <item>___hbo_go</item>
+        <item>___hbo_now</item>
         <item>headspace_alt_2</item>
         <item>headspace_alt</item>
         <item>headspace</item>
@@ -926,8 +927,8 @@
         <item>holo_launcher</item>
         <item>home_agenda_calendar_widget</item>
         <item>hopper</item>
-        <item>hoteltonight_alt</item>
-        <item>hoteltonight</item>
+        <item>hotel__tonight_alt</item>
+        <item>hotel__tonight</item>
         <item>hue</item>
         <item>huji_cam</item>
         <item>hulu</item>
@@ -935,50 +936,50 @@
         <item>hydro_coach</item>
         <item>hype_machine</item>
         <item>hyperion</item>
-        <item>ia_writer</item>
+        <item>_i__a_writer</item>
         <item>iconzy</item>
-        <item>icq</item>
-        <item>idm_alt</item>
-        <item>idm</item>
-        <item>iflix</item>
-        <item>ifttt</item>
-        <item>iheartradio</item>
-        <item>imdb_alt</item>
-        <item>imdb</item>
+        <item>___icq</item>
+        <item>___idm_alt</item>
+        <item>___idm</item>
+        <item>_iflix</item>
+        <item>___ifttt</item>
+        <item>_i__heart__radio</item>
+        <item>___im__db_alt</item>
+        <item>___im__db</item>
         <item>imgur</item>
         <item>imo</item>
-        <item>inshot</item>
+        <item>in__shot</item>
         <item>instagram_alt</item>
         <item>instagram_layout</item>
         <item>instagram</item>
         <item>instapaper</item>
-        <item>instasave</item>
-        <item>jiotv</item>
+        <item>insta__save</item>
+        <item>jio___tv</item>
         <item>join</item>
         <item>kasa</item>
         <item>kayak</item>
-        <item>keepass</item>
+        <item>kee__pass</item>
         <item>kik</item>
-        <item>kustom_kapk</item>
-        <item>kustom_klck</item>
-        <item>kustom_klwp</item>
-        <item>kustom_kunread</item>
-        <item>kustom_kweather</item>
-        <item>kustom_kwgt</item>
+        <item>kustom_k___apk</item>
+        <item>kustom_k___lck</item>
+        <item>kustom_k___lwp</item>
+        <item>kustom_k___unr</item>
+        <item>kustom_k__weather</item>
+        <item>kustom_k___wgt</item>
         <item>kustom</item>
-        <item>lastpass</item>
+        <item>last__pass</item>
         <item>lawnchair_launcher</item>
         <item>life360</item>
-        <item>limeline</item>
+        <item>lime__line</item>
         <item>linebit</item>
-        <item>linkedin</item>
+        <item>linked__in</item>
         <item>lucid_launcher</item>
         <item>lyft</item>
         <item>magisk_manager</item>
         <item>medium</item>
-        <item>meetme</item>
+        <item>meet__me</item>
         <item>meetup</item>
-        <item>mega</item>
+        <item>___mega</item>
         <item>merriam_webster_dictionary</item>
         <item>messages_alt</item>
         <item>messages</item>
@@ -991,14 +992,14 @@
         <item>microsoft_excel_alt</item>
         <item>microsoft_excel</item>
         <item>microsoft_launcher</item>
-        <item>microsoft_onedrive</item>
-        <item>microsoft_onenote_alt</item>
-        <item>microsoft_onenote</item>
+        <item>microsoft_one__drive</item>
+        <item>microsoft_one__note_alt</item>
+        <item>microsoft_one__note</item>
         <item>microsoft_outlook_alt</item>
         <item>microsoft_outlook</item>
         <item>microsoft_powerpoint_alt</item>
         <item>microsoft_powerpoint</item>
-        <item>microsoft_sms_organizer</item>
+        <item>microsoft_s__m__s_organizer</item>
         <item>microsoft_word_alt</item>
         <item>microsoft_word</item>
         <item>microsoft_your_phone_companion</item>
@@ -1011,41 +1012,40 @@
         <item>mi_remote</item>
         <item>mi_security</item>
         <item>mi_store</item>
-        <item>miui_feedback</item>
-        <item>miui_forum</item>
-        <item>miui_themes</item>
+        <item>___miui_feedback</item>
+        <item>___miui_forum</item>
+        <item>___miui_themes</item>
         <item>mi_video</item>
-        <item>mixplorer</item>
+        <item>mi__xplorer</item>
         <item>m_launcher</item>
-        <item>mnml_screen_recorder</item>
+        <item>___mnml_screen_recorder</item>
         <item>monument_valley</item>
         <item>music</item>
         <item>musixmatch</item>
-        <item>mx_player</item>
-        <item>myjio</item>
+        <item>___mx_player</item>
+        <item>my__jio</item>
         <item>my_verizon</item>
         <item>navigation</item>
-        <item>nbc</item>
+        <item>___nbc</item>
         <item>netflix</item>
         <item>news_alt</item>
         <item>news</item>
         <item>niagara_launcher</item>
-        <item>nine_gag</item>
+        <item>_9__gag</item>
         <item>nintendo</item>
-        <item>nord_vpn</item>
+        <item>nord___vpn</item>
         <item>notes_alt</item>
         <item>notes</item>
         <item>notion</item>
         <item>nova_launcher</item>
         <item>nova_launcher_settings</item>
-        <item>nytimes_alt</item>
-        <item>nytimes</item>
+        <item>___ny__times_alt</item>
+        <item>___ny__times</item>
         <item>okcupid</item>
         <item>ola_cabs</item>
-        <item>one_dot_one</item>
-        <item>onepassword</item>
-        <item>oneplus_community</item>
-        <item>oneplus_switch</item>
+        <item>_1__password</item>
+        <item>one__plus_community</item>
+        <item>one__plus_switch</item>
         <item>opera</item>
         <item>outdoors</item>
         <item>overdrop</item>
@@ -1053,19 +1053,19 @@
         <item>parrot</item>
         <item>patreon_alt</item>
         <item>patreon</item>
-        <item>paypal</item>
+        <item>pay__pal</item>
         <item>paytm</item>
         <item>phone_alt</item>
-        <item>phonepe</item>
+        <item>phone__pe</item>
         <item>phone</item>
         <item>phosphor_carbon</item>
         <item>phosphor_helium</item>
         <item>phosphor_krypton</item>
         <item>phosphor</item>
-        <item>picsart</item>
+        <item>pics__art</item>
         <item>pinterest</item>
         <item>pixlr</item>
-        <item>player_fm</item>
+        <item>player_f__m</item>
         <item>plex_alt</item>
         <item>plex</item>
         <item>plus_messenger</item>
@@ -1079,8 +1079,8 @@
         <item>postmates</item>
         <item>poweramp</item>
         <item>productivity</item>
-        <item>proton_vpn</item>
-        <item>pubg</item>
+        <item>proton_v__p__n</item>
+        <item>___pubg</item>
         <item>pulse_messenger</item>
         <item>pushbullet</item>
         <item>quartz</item>
@@ -1092,7 +1092,7 @@
         <item>replaio_radio</item>
         <item>resplash</item>
         <item>retro_music</item>
-        <item>rgb_color_wallpaper</item>
+        <item>___rgb_color_wallpaper</item>
         <item>ring</item>
         <item>robinhood</item>
         <item>roblox</item>
@@ -1107,7 +1107,7 @@
         <item>samsung_reminder</item>
         <item>samsung_wear</item>
         <item>screener</item>
-        <item>sd_maid</item>
+        <item>___sd_maid</item>
         <item>seamless</item>
         <item>sesame</item>
         <item>settings_alt</item>
@@ -1120,7 +1120,7 @@
         <item>slack</item>
         <item>slide_for_reddit</item>
         <item>smart_launcher</item>
-        <item>sms_backup_and_restore</item>
+        <item>___sms_backup_and_restore</item>
         <item>snapchat</item>
         <item>snapmod</item>
         <item>snapseed</item>
@@ -1150,17 +1150,17 @@
         <item>substratum</item>
         <item>substratum_theme</item>
         <item>sudoku</item>
-        <item>swiftkey</item>
+        <item>swift__key</item>
         <item>sync_for_reddit</item>
-        <item>system_ui_tuner</item>
+        <item>system___ui_tuner</item>
         <item>system_updates</item>
         <item>talon</item>
         <item>tango</item>
         <item>target</item>
         <item>tasker</item>
-        <item>td_bank</item>
+        <item>___td_bank</item>
         <item>teardrop</item>
-        <item>ted</item>
+        <item>___ted</item>
         <item>telegram</item>
         <item>terminal_alt</item>
         <item>terminal</item>
@@ -1169,18 +1169,18 @@
         <item>tholotis</item>
         <item>ticketmaster</item>
         <item>tidal</item>
-        <item>tiktok</item>
+        <item>tik__tok</item>
         <item>timer_alt</item>
         <item>timer</item>
         <item>tinder</item>
         <item>t_mobile</item>
         <item>t_mobile_visual_voicemail</item>
         <item>todoist</item>
-        <item>torrse</item>
+        <item>torr___se</item>
         <item>transit</item>
         <item>travel</item>
         <item>trello</item>
-        <item>tumblr</item>
+        <item>_tumblr</item>
         <item>twitch</item>
         <item>twitter</item>
         <item>two_dots</item>
@@ -1188,16 +1188,16 @@
         <item>uber</item>
         <item>udacity</item>
         <item>universal_copy</item>
-        <item>usaa</item>
+        <item>___usaa</item>
         <item>venmo</item>
         <item>verizon_my_fios</item>
         <item>video</item>
         <item>vimeo</item>
         <item>virtual_wallet</item>
-        <item>vlc</item>
+        <item>___vlc</item>
         <item>voicemail</item>
-        <item>vsco</item>
-        <item>wallhub</item>
+        <item>___vsco</item>
+        <item>wall__hub</item>
         <item>walli_alt</item>
         <item>walli</item>
         <item>wallpaper</item>
@@ -1209,15 +1209,15 @@
         <item>web_alt_2</item>
         <item>web_alt</item>
         <item>web</item>
-        <item>wechat</item>
+        <item>we__chat</item>
         <item>wells_fargo</item>
-        <item>whatsapp</item>
+        <item>whats__app</item>
         <item>wikipedia</item>
-        <item>wolfram_alpha</item>
-        <item>wps_office</item>
+        <item>wolfram__alpha</item>
+        <item>___wps_office</item>
         <item>xbox</item>
-        <item>xda_feed_alt</item>
-        <item>xda_feed</item>
+        <item>___xda_feed_alt</item>
+        <item>___xda_feed</item>
         <item>yahoo_fantasy</item>
         <item>yahoo_finance</item>
         <item>yahoo_mail</item>
@@ -1226,23 +1226,23 @@
         <item>yahoo_sports</item>
         <item>yahoo_weather</item>
         <item>yelp</item>
-        <item>youcam_perfect</item>
+        <item>you__cam_perfect</item>
         <item>youku</item>
-        <item>youtube_music</item>
-        <item>youtube</item>
-        <item>youtube_studio</item>
-        <item>youtube_tv</item>
-        <item>youtube_vanced</item>
-        <item>zarchiver_alt</item>
-        <item>zarchiver</item>
+        <item>you__tube_music</item>
+        <item>you__tube</item>
+        <item>you__tube_studio</item>
+        <item>you__tube_t__v</item>
+        <item>you__tube_vanced</item>
+        <item>z__archiver_alt</item>
+        <item>z__archiver</item>
         <item>zelle</item>
         <item>zero_launcher</item>
     </string-array>
 
     <string-array name="recent">
-        <item>actiondash</item>
-        <item>creative</item>
-        <item>curiositystream</item>
+        <item>action__dash</item>
+        <item>___creative</item>
+        <item>curiosity__stream</item>
         <item>dropsync</item>
         <item>elsa_speak</item>
         <item>file_transfer</item>
@@ -1251,26 +1251,26 @@
         <item>hurry</item>
         <item>hydro_coach</item>
         <item>instapaper</item>
-        <item>instasave</item>
-        <item>limeline</item>
+        <item>insta__save</item>
+        <item>lime__line</item>
         <item>mi_remote</item>
-        <item>microsoft_sms_organizer</item>
+        <item>microsoft_s__m__s_organizer</item>
         <item>min</item>
         <item>min_alt</item>
         <item>podcast_republic</item>
         <item>quartz</item>
         <item>replaio_radio</item>
         <item>sudoku</item>
-        <item>torrse</item>
+        <item>torr___se</item>
         <item>trello</item>
-        <item>youcam_perfect</item>
+        <item>you__cam_perfect</item>
     </string-array>
 
     <string-array name="banking">
         <item>acorns</item>
         <item>alipay</item>
         <item>ame_digital</item>
-        <item>amex</item>
+        <item>am__ex</item>
         <item>bank_of_america</item>
         <item>banking</item>
         <item>banking_alt</item>
@@ -1282,15 +1282,15 @@
         <item>credit_karma</item>
         <item>finance</item>
         <item>google_pay</item>
-        <item>paypal</item>
+        <item>pay__pal</item>
         <item>paytm</item>
-        <item>phonepe</item>
+        <item>phone__pe</item>
         <item>robinhood</item>
         <item>samsung_pay</item>
         <item>square_cash</item>
         <item>stocard</item>
         <item>subscriptions</item>
-        <item>td_bank</item>
+        <item>___td_bank</item>
         <item>venmo</item>
         <item>virtual_wallet</item>
         <item>wells_fargo</item>
@@ -1309,8 +1309,8 @@
         <item>background_eraser</item>
         <item>behance</item>
         <item>camera</item>
-        <item>deviantart</item>
-        <item>deviantart_alt</item>
+        <item>deviant__art</item>
+        <item>deviant__art_alt</item>
         <item>draw</item>
         <item>dribbble</item>
         <item>figma_mirror</item>
@@ -1320,26 +1320,26 @@
         <item>google_photos</item>
         <item>huji_cam</item>
         <item>imgur</item>
-        <item>inshot</item>
+        <item>in__shot</item>
         <item>instagram</item>
         <item>instagram_alt</item>
         <item>instagram_layout</item>
         <item>patreon</item>
         <item>patreon_alt</item>
-        <item>picsart</item>
+        <item>pics__art</item>
         <item>pinterest</item>
         <item>pixlr</item>
         <item>snapseed</item>
         <item>vimeo</item>
-        <item>vsco</item>
-        <item>youcam_perfect</item>
-        <item>youtube_studio</item>
+        <item>___vsco</item>
+        <item>you__cam_perfect</item>
+        <item>you__tube_studio</item>
     </string-array>
 
     <string-array name="education">
         <item>ancestry</item>
         <item>brilliant</item>
-        <item>curiositystream</item>
+        <item>curiosity__stream</item>
         <item>drops</item>
         <item>duolingo</item>
         <item>duolingo_alt</item>
@@ -1349,16 +1349,16 @@
         <item>headspace_alt</item>
         <item>merriam_webster_dictionary</item>
         <item>stack_exchange</item>
-        <item>ted</item>
+        <item>___ted</item>
         <item>udacity</item>
         <item>wikipedia</item>
-        <item>wolfram_alpha</item>
+        <item>wolfram__alpha</item>
     </string-array>
 
     <string-array name="food">
         <item>delivery</item>
         <item>dominos</item>
-        <item>doordash</item>
+        <item>door__dash</item>
         <item>fork</item>
         <item>grubhub</item>
         <item>postmates</item>
@@ -1384,7 +1384,7 @@
         <item>monument_valley</item>
         <item>nintendo</item>
         <item>pokemon</item>
-        <item>pubg</item>
+        <item>___pubg</item>
         <item>roblox</item>
         <item>sony_playstation_app</item>
         <item>steam</item>
@@ -1449,8 +1449,8 @@
         <item>google_voice</item>
         <item>google_wifi</item>
         <item>wallpaper</item>
-        <item>youtube</item>
-        <item>youtube_music</item>
+        <item>you__tube</item>
+        <item>you__tube_music</item>
     </string-array>
 
     <string-array name="health">
@@ -1471,9 +1471,9 @@
         <item>kasa</item>
         <item>life360</item>
         <item>my_verizon</item>
-        <item>myjio</item>
+        <item>my__jio</item>
         <item>t_mobile</item>
-        <item>usaa</item>
+        <item>___usaa</item>
         <item>verizon_my_fios</item>
     </string-array>
 
@@ -1488,7 +1488,7 @@
         <item>audio</item>
         <item>bandcamp</item>
         <item>bandsintown</item>
-        <item>blackplayer</item>
+        <item>black__player</item>
         <item>castbox</item>
         <item>crunchyroll</item>
         <item>funimation</item>
@@ -1500,23 +1500,23 @@
         <item>google_play_music</item>
         <item>google_play_videos</item>
         <item>google_podcasts</item>
-        <item>hbo_go</item>
-        <item>hbo_now</item>
+        <item>___hbo_go</item>
+        <item>___hbo_now</item>
         <item>hulu</item>
         <item>hype_machine</item>
-        <item>iheartradio</item>
-        <item>iflix</item>
-        <item>imdb</item>
-        <item>imdb_alt</item>
-        <item>jiotv</item>
+        <item>_i__heart__radio</item>
+        <item>_iflix</item>
+        <item>___im__db</item>
+        <item>___im__db_alt</item>
+        <item>jio___tv</item>
         <item>mi_music</item>
         <item>mi_video</item>
         <item>music</item>
         <item>musixmatch</item>
-        <item>mx_player</item>
+        <item>___mx_player</item>
         <item>netflix</item>
         <item>pandora</item>
-        <item>player_fm</item>
+        <item>player_f__m</item>
         <item>plex</item>
         <item>plex_alt</item>
         <item>pocket_casts</item>
@@ -1540,16 +1540,17 @@
         <item>twitch</item>
         <item>video</item>
         <item>vimeo</item>
-        <item>vlc</item>
+        <item>___vlc</item>
         <item>youku</item>
-        <item>youtube</item>
-        <item>youtube_music</item>
-        <item>youtube_studio</item>
-        <item>youtube_vanced</item>
+        <item>you__tube</item>
+        <item>you__tube_music</item>
+        <item>you__tube_studio</item>
+        <item>you__tube_t__v</item>
+        <item>you__tube_vanced</item>
     </string-array>
 
     <string-array name="messaging">
-        <item>att</item>
+        <item>___att</item>
         <item>bitmoji</item>
         <item>chat</item>
         <item>email</item>
@@ -1560,11 +1561,11 @@
         <item>google_hangouts</item>
         <item>google_meet</item>
         <item>google_voice</item>
-        <item>groupme</item>
-        <item>icq</item>
+        <item>group__me</item>
+        <item>___icq</item>
         <item>imo</item>
         <item>kik</item>
-        <item>meetme</item>
+        <item>meet__me</item>
         <item>messages</item>
         <item>messages_alt</item>
         <item>microsoft_outlook</item>
@@ -1575,23 +1576,23 @@
         <item>samsung_messages</item>
         <item>signal</item>
         <item>skype</item>
-        <item>sms_backup_and_restore</item>
+        <item>___sms_backup_and_restore</item>
         <item>slack</item>
         <item>spark</item>
         <item>spark_alt</item>
         <item>tango</item>
         <item>telegram</item>
         <item>textra</item>
-        <item>wechat</item>
-        <item>whatsapp</item>
+        <item>we__chat</item>
+        <item>whats__app</item>
         <item>yahoo_mail</item>
     </string-array>
 
     <string-array name="news_and_weather">
-        <item>accuweather</item>
-        <item>ap_news</item>
-        <item>bbc</item>
-        <item>cbs</item>
+        <item>accu__weather</item>
+        <item>___ap_news</item>
+        <item>___bbc</item>
+        <item>___cbs</item>
         <item>cnn</item>
         <item>feedly</item>
         <item>flipboard</item>
@@ -1601,11 +1602,11 @@
         <item>hacker_news_alt</item>
         <item>instapaper</item>
         <item>medium</item>
-        <item>nbc</item>
+        <item>___nbc</item>
         <item>news</item>
         <item>news_alt</item>
-        <item>nytimes</item>
-        <item>nytimes_alt</item>
+        <item>___ny__times</item>
+        <item>___ny__times_alt</item>
         <item>quartz</item>
         <item>quora</item>
         <item>weather</item>
@@ -1618,15 +1619,15 @@
     <string-array name="personalization">
         <item>abstruct</item>
         <item>action_launcher</item>
-        <item>actiondash</item>
-        <item>adw_launcher</item>
+        <item>action__dash</item>
+        <item>___adw_launcher</item>
         <item>afterglow</item>
-        <item>amoledwalls</item>
+        <item>amoled__walls</item>
         <item>apex_launcher</item>
         <item>aurora_droid</item>
         <item>aurora_store</item>
         <item>backdrops</item>
-        <item>creative</item>
+        <item>___creative</item>
         <item>delta</item>
         <item>evie_launcher</item>
         <item>f_droid</item>
@@ -1636,14 +1637,14 @@
         <item>hyperion</item>
         <item>iconzy</item>
         <item>kustom</item>
-        <item>kustom_kapk</item>
-        <item>kustom_klck</item>
-        <item>kustom_klwp</item>
-        <item>kustom_kunread</item>
-        <item>kustom_kweather</item>
-        <item>kustom_kwgt</item>
+        <item>kustom_k___apk</item>
+        <item>kustom_k___lck</item>
+        <item>kustom_k___lwp</item>
+        <item>kustom_k___unr</item>
+        <item>kustom_k__weather</item>
+        <item>kustom_k___wgt</item>
         <item>lawnchair_launcher</item>
-        <item>limeline</item>
+        <item>lime__line</item>
         <item>linebit</item>
         <item>lucid_launcher</item>
         <item>m_launcher</item>
@@ -1652,8 +1653,8 @@
         <item>microsoft_launcher</item>
         <item>min</item>
         <item>min_alt</item>
-        <item>miui_forum</item>
-        <item>miui_themes</item>
+        <item>___miui_forum</item>
+        <item>___miui_themes</item>
         <item>niagara_launcher</item>
         <item>nova_launcher</item>
         <item>nova_launcher_settings</item>
@@ -1664,7 +1665,7 @@
         <item>phosphor_krypton</item>
         <item>poco_launcher</item>
         <item>resplash</item>
-        <item>rgb_color_wallpaper</item>
+        <item>___rgb_color_wallpaper</item>
         <item>samsung_galaxy_store</item>
         <item>screener</item>
         <item>sesame</item>
@@ -1673,26 +1674,26 @@
         <item>solo_launcher</item>
         <item>substratum</item>
         <item>substratum_theme</item>
-        <item>system_ui_tuner</item>
+        <item>system___ui_tuner</item>
         <item>tasker</item>
         <item>tholotis</item>
-        <item>wallhub</item>
+        <item>wall__hub</item>
         <item>walli</item>
         <item>walli_alt</item>
         <item>wallpaper</item>
-        <item>xda_feed</item>
-        <item>xda_feed_alt</item>
+        <item>___xda_feed</item>
+        <item>___xda_feed_alt</item>
         <item>zero_launcher</item>
     </string-array>
 
     <string-array name="productivity">
-        <item>adm</item>
+        <item>___adm</item>
         <item>adobe_acrobat</item>
         <item>adobe_fill_and_sign</item>
         <item>adobe_scan</item>
         <item>airtable</item>
         <item>amazon_alexa</item>
-        <item>anydo</item>
+        <item>any___do</item>
         <item>asana</item>
         <item>box</item>
         <item>calculator</item>
@@ -1726,29 +1727,29 @@
         <item>grammarly</item>
         <item>home_agenda_calendar_widget</item>
         <item>hurry</item>
-        <item>ia_writer</item>
-        <item>idm</item>
-        <item>idm_alt</item>
-        <item>ifttt</item>
+        <item>_i__a_writer</item>
+        <item>___idm</item>
+        <item>___idm_alt</item>
+        <item>___ifttt</item>
         <item>instapaper</item>
         <item>join</item>
-        <item>mega</item>
+        <item>___mega</item>
         <item>mi_drop</item>
         <item>microsoft_cortana</item>
         <item>microsoft_excel</item>
         <item>microsoft_excel_alt</item>
-        <item>microsoft_onedrive</item>
-        <item>microsoft_onenote</item>
-        <item>microsoft_onenote_alt</item>
+        <item>microsoft_one__drive</item>
+        <item>microsoft_one__note</item>
+        <item>microsoft_one__note_alt</item>
         <item>microsoft_outlook</item>
         <item>microsoft_outlook_alt</item>
         <item>microsoft_powerpoint</item>
         <item>microsoft_powerpoint_alt</item>
-        <item>microsoft_sms_organizer</item>
+        <item>microsoft_s__m__s_organizer</item>
         <item>microsoft_word</item>
         <item>microsoft_word_alt</item>
         <item>microsoft_your_phone_companion</item>
-        <item>mixplorer</item>
+        <item>mi__xplorer</item>
         <item>notes</item>
         <item>notes_alt</item>
         <item>notion</item>
@@ -1762,43 +1763,43 @@
         <item>snaptube</item>
         <item>solid_explorer</item>
         <item>subscriptions</item>
-        <item>swiftkey</item>
+        <item>swift__key</item>
         <item>todoist</item>
         <item>trello</item>
-        <item>wps_office</item>
+        <item>___wps_office</item>
         <item>yahoo</item>
     </string-array>
 
     <string-array name="security">
+        <item>_1_1_1_1</item>
         <item>adblock</item>
         <item>adblock_alt</item>
         <item>ad_block_plus</item>
         <item>adguard</item>
         <item>authy</item>
-        <item>bitdefender</item>
+        <item>bit__defender</item>
         <item>bitwarden</item>
         <item>blizzard_authenticator</item>
         <item>blokada</item>
         <item>bouncer</item>
-        <item>keepass</item>
-        <item>lastpass</item>
+        <item>kee__pass</item>
+        <item>last__pass</item>
         <item>mi_security</item>
         <item>microsoft_authenticator</item>
-        <item>nord_vpn</item>
-        <item>one_dot_one</item>
-        <item>onepassword</item>
-        <item>proton_vpn</item>
+        <item>nord___vpn</item>
+        <item>_1__password</item>
+        <item>proton_v__p__n</item>
         <item>ring</item>
     </string-array>
 
     <string-array name="shopping">
-        <item>ali_express</item>
+        <item>ali__express</item>
         <item>amazon</item>
         <item>amazon_now</item>
-        <item>appsales</item>
+        <item>app__sales</item>
         <item>chewy</item>
         <item>craigslist</item>
-        <item>ebay</item>
+        <item>_e__bay</item>
         <item>google_express</item>
         <item>groupon</item>
         <item>shopping</item>
@@ -1825,16 +1826,16 @@
         <item>imgur</item>
         <item>instagram</item>
         <item>instagram_alt</item>
-        <item>instasave</item>
-        <item>linkedin</item>
-        <item>meetme</item>
+        <item>insta__save</item>
+        <item>linked__in</item>
+        <item>meet__me</item>
         <item>meetup</item>
-        <item>mega</item>
-        <item>miui_feedback</item>
-        <item>miui_forum</item>
-        <item>nine_gag</item>
+        <item>___mega</item>
+        <item>___miui_feedback</item>
+        <item>___miui_forum</item>
+        <item>_9__gag</item>
         <item>okcupid</item>
-        <item>oneplus_community</item>
+        <item>one__plus_community</item>
         <item>pinterest</item>
         <item>quora</item>
         <item>reddit</item>
@@ -1848,16 +1849,16 @@
         <item>sync_for_reddit</item>
         <item>talon</item>
         <item>tango</item>
-        <item>tiktok</item>
+        <item>tik__tok</item>
         <item>tinder</item>
-        <item>tumblr</item>
+        <item>_tumblr</item>
         <item>twitch</item>
         <item>twitter</item>
     </string-array>
 
     <string-array name="sports">
-        <item>espn</item>
-        <item>espn_fantasy</item>
+        <item>___espn</item>
+        <item>___espn_fantasy</item>
         <item>sports</item>
         <item>yahoo_fantasy</item>
         <item>yahoo_sports</item>
@@ -1865,18 +1866,18 @@
 
     <string-array name="travel">
         <item>airbnb</item>
-        <item>alltrails</item>
+        <item>all__trails</item>
         <item>amtrak</item>
         <item>booking</item>
-        <item>car2go</item>
+        <item>_car2go</item>
         <item>flightradar24</item>
         <item>google_maps</item>
         <item>google_street_view</item>
         <item>google_translate</item>
         <item>google_trips</item>
         <item>hopper</item>
-        <item>hoteltonight</item>
-        <item>hoteltonight_alt</item>
+        <item>hotel__tonight</item>
+        <item>hotel__tonight_alt</item>
         <item>kayak</item>
         <item>lyft</item>
         <item>ola_cabs</item>
@@ -1888,10 +1889,10 @@
     </string-array>
 
     <string-array name="utilities">
-        <item>accubattery</item>
-        <item>adm</item>
+        <item>accu__battery</item>
+        <item>___adm</item>
         <item>adobe_scan</item>
-        <item>airdroid</item>
+        <item>air__droid</item>
         <item>amaze</item>
         <item>amaze_alt</item>
         <item>amazon_drive</item>
@@ -1901,7 +1902,7 @@
         <item>audio</item>
         <item>barcode_scanner</item>
         <item>barcode_scanner_alt</item>
-        <item>bittorrent</item>
+        <item>bit__torrent</item>
         <item>calculator</item>
         <item>calculator_alt</item>
         <item>calculator_alt_2</item>
@@ -1929,28 +1930,28 @@
         <item>google_chrome_remote_desktop</item>
         <item>google_photoscan</item>
         <item>help</item>
-        <item>idm_alt</item>
-        <item>idm</item>
-        <item>instasave</item>
+        <item>___idm_alt</item>
+        <item>___idm</item>
+        <item>insta__save</item>
         <item>mi_remote</item>
         <item>mic</item>
         <item>mic_alt</item>
-        <item>mnml_screen_recorder</item>
+        <item>___mnml_screen_recorder</item>
         <item>music</item>
         <item>news</item>
         <item>news_alt</item>
         <item>notes</item>
         <item>notes_alt</item>
-        <item>oneplus_switch</item>
+        <item>one__plus_switch</item>
         <item>phone</item>
         <item>phone_alt</item>
         <item>podcast</item>
         <item>productivity</item>
         <item>radio</item>
-        <item>sd_maid</item>
+        <item>___sd_maid</item>
         <item>settings</item>
         <item>settings_alt</item>
-        <item>sms_backup_and_restore</item>
+        <item>___sms_backup_and_restore</item>
         <item>solid_explorer</item>
         <item>sound_recorder</item>
         <item>speedtest</item>
@@ -1960,7 +1961,7 @@
         <item>terminal_alt</item>
         <item>timer</item>
         <item>timer_alt</item>
-        <item>torrse</item>
+        <item>torr___se</item>
         <item>video</item>
         <item>voicemail</item>
         <item>wearables</item>
@@ -1968,20 +1969,21 @@
         <item>web</item>
         <item>web_alt</item>
         <item>web_alt_2</item>
-        <item>wolfram_alpha</item>
+        <item>wolfram__alpha</item>
         <item>universal_copy</item>
         <item>verizon_my_fios</item>
-        <item>zarchiver</item>
-        <item>zarchiver_alt</item>
+        <item>z__archiver</item>
+        <item>z__archiver_alt</item>
     </string-array>
 
     <string-array name="web">
+        <item>_1_1_1_1</item>
         <item>ad_block_plus</item>
         <item>adblock</item>
         <item>adblock_alt</item>
         <item>adguard</item>
-        <item>adm</item>
-        <item>bitdefender</item>
+        <item>___adm</item>
+        <item>bit__defender</item>
         <item>bitwarden</item>
         <item>blokada</item>
         <item>brave</item>
@@ -1990,16 +1992,15 @@
         <item>firefox</item>
         <item>google_chrome</item>
         <item>google_datally</item>
-        <item>idm</item>
-        <item>idm_alt</item>
+        <item>___idm</item>
+        <item>___idm_alt</item>
         <item>microsoft_bing</item>
         <item>microsoft_edge</item>
-        <item>nord_vpn</item>
-        <item>one_dot_one</item>
+        <item>nord___vpn</item>
         <item>opera</item>
-        <item>proton_vpn</item>
+        <item>proton_v__p__n</item>
         <item>samsung_internet</item>
-        <item>torrse</item>
+        <item>torr___se</item>
         <item>web</item>
         <item>web_alt</item>
         <item>web_alt_2</item>
