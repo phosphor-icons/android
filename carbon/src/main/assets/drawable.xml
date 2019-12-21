@@ -698,6 +698,7 @@
     <item drawable="___sd_maid" />
     <item drawable="settings"/>
     <item drawable="settings_alt" />
+    <item drawable="___sim_card" />
     <item drawable="___sms_backup_and_restore" />
     <item drawable="solid_explorer" />
     <item drawable="sound_recorder"/>
@@ -1233,7 +1234,7 @@
     <item drawable="shazam" />
     <item drawable="shopping" />
     <item drawable="signal" />
-    <item drawable="sim_card" />
+    <item drawable="___sim_card" />
     <item drawable="skype" />
     <item drawable="slack" />
     <item drawable="slide_for_reddit" />

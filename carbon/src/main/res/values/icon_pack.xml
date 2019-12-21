@@ -482,7 +482,7 @@
         <item>shazam</item>
         <item>shopping</item>
         <item>signal</item>
-        <item>sim_card</item>
+        <item>___sim_card</item>
         <item>skype</item>
         <item>slack</item>
         <item>slide_for_reddit</item>
@@ -1115,7 +1115,7 @@
         <item>shazam</item>
         <item>shopping</item>
         <item>signal</item>
-        <item>sim_card</item>
+        <item>___sim_card</item>
         <item>skype</item>
         <item>slack</item>
         <item>slide_for_reddit</item>
@@ -1951,6 +1951,7 @@
         <item>___sd_maid</item>
         <item>settings</item>
         <item>settings_alt</item>
+        <item>___sim_card</item>
         <item>___sms_backup_and_restore</item>
         <item>solid_explorer</item>
         <item>sound_recorder</item>
