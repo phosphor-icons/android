@@ -55,6 +55,7 @@
 
   <!-- 9GAG -->
   <AppIcon name="com.ninegag.android.app/com.ninegag.android.app.ui.SplashScreenActivity" image="_9__gag"/>
+  <AppIcon name="com.ninegag.android.app/com.ninegag.android.app.ui.HomeActivity" image="_9__gag"/>
 
   <!-- Abstruct -->
   <AppIcon name="com.hampusolsson.abstruct/com.hampusolsson.abstruct.splash.SplashActivity" image="abstruct"/>
@@ -4131,10 +4132,12 @@
   <AppIcon name="com.nbcuni.nbc/com.nbcuni.nbc.NBCLaunchActivity" image="___nbc" />
   <AppIcon name="com.nbcuni.nbc/com.nbc.nbcapp.activity.SplashScreen" image="___nbc" />
   <AppIcon name="com.nbcuni.nbc/com.nbc.commonui.activity.SplashScreen" image="___nbc" />
+  <AppIcon name="com.nbcuni.nbc/com.nbc.commonui.activity.DeepLinkActivity" image="___nbc" />
 
   <!-- NBC News -->
   <AppIcon name="com.zumobi.msnbc/com.nbcnews.newsappcommon.activities.SplashActivity" image="___nbc_news" />
   <AppIcon name="com.zumobi.msnbc/com.nbcnews.newsappui.activities.SplashActivity" image="___nbc_news" />
+  <AppIcon name="com.zumobi.msnbc/com.nbc.activities.MainActivity" image="___nbc_news" />
 
   <!-- NBC Sports -->
   <AppIcon name="air.com.nbcuni.com.nbcsports.liveextra/com.nbc.nbcsports.activities.SplashActivity" image="___nbc_sports" />
@@ -5614,6 +5617,7 @@
 
   <!-- Starz -->
   <AppIcon name="com.bydeluxe.d3.android.program.starz/com.bydeluxe.d3.android.program.activities.SplashScreenActivity" image="starz" />
+  <AppIcon name="com.bydeluxe.d3.android.program.starz/com.starz.handheld.SplashActivity" image="starz" />
 
   <!-- State Farm -->
   <AppIcon name="com.statefarm.pocketagent/com.statefarm.pocketagent.ui.login.activity.SplashScreenActivity" image="state_farm"/>
@@ -5791,6 +5795,7 @@
 
   <!-- Taobao -->
   <AppIcon name="com.taobao.taobao/com.taobao.tao.welcome.Welcome" image="taobao"/>
+  <AppIcon name="com.taobao.litetao/com.taobao.splash.SplashActivity" image="taobao"/>
 
   <!-- Tapas -->
   <!-- <AppIcon name="com.tapastic/com.tapastic.ui.intro.SplashActivity" image="tapas"/> -->
@@ -6428,6 +6433,9 @@
 
   <!-- WallCraft -->
   <AppIcon name="com.hastamev.wallcraft/com.hastamev.wallcraft.ui.activities.SplashActivity" image="wall__craft"/>
+  <AppIcon name="com.wallpaperscraft.wallpaper/com.wallpaperscraft.wallpaper.feature.welcome.WelcomeActivity" image="wall__craft"/>
+  <AppIcon name="de.appbound.wallcraft/com.isatelco.wallcraft.splash.SplashActivity" image="wall__craft"/>
+  <AppIcon name="de.appbound.wallcraft/com.isatelco.wallcraft.daily.DailyActivity" image="wall__craft"/>
 
   <!-- Walldrobe -->
   <!-- <AppIcon name="walldrobe.coffecode.com/com.coffecode.walldrobe.walldrobe.SplashScreen" image="walldrobe"/> -->

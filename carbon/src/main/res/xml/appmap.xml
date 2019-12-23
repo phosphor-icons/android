@@ -47,6 +47,7 @@
 
   <!-- 9GAG -->
   <item class="com.ninegag.android.app.ui.SplashScreenActivity" name="_9__gag"/>
+  <item class="com.ninegag.android.app.ui.HomeActivity" name="_9__gag"/>
 
   <!-- Abstruct -->
   <item class="com.hampusolsson.abstruct.splash.SplashActivity" name="abstruct"/>
@@ -4123,10 +4124,12 @@
   <item class="com.nbcuni.nbc.NBCLaunchActivity" name="___nbc" />
   <item class="com.nbc.nbcapp.activity.SplashScreen" name="___nbc" />
   <item class="com.nbc.commonui.activity.SplashScreen" name="___nbc" />
+  <item class="com.nbc.commonui.activity.DeepLinkActivity" name="___nbc" />
 
   <!-- NBC News -->
   <item class="com.nbcnews.newsappcommon.activities.SplashActivity" name="___nbc_news" />
   <item class="com.nbcnews.newsappui.activities.SplashActivity" name="___nbc_news" />
+  <item class="com.nbc.activities.MainActivity" name="___nbc_news" />
 
   <!-- NBC Sports -->
   <item class="com.nbc.nbcsports.activities.SplashActivity" name="___nbc_sports" />
@@ -5606,6 +5609,7 @@
 
   <!-- Starz -->
   <item class="com.bydeluxe.d3.android.program.activities.SplashScreenActivity" name="starz" />
+  <item class="com.starz.handheld.SplashActivity" name="starz" />
 
   <!-- State Farm -->
   <item class="com.statefarm.pocketagent.ui.login.activity.SplashScreenActivity" name="state_farm"/>
@@ -5783,6 +5787,7 @@
 
   <!-- Taobao -->
   <item class="com.taobao.tao.welcome.Welcome" name="taobao"/>
+  <item class="com.taobao.splash.SplashActivity" name="taobao"/>
 
   <!-- Tapas -->
   <!-- <item class="com.tapastic.ui.intro.SplashActivity" name="tapas"/> -->
@@ -6420,6 +6425,9 @@
 
   <!-- WallCraft -->
   <item class="com.hastamev.wallcraft.ui.activities.SplashActivity" name="wall__craft"/>
+  <item class="com.wallpaperscraft.wallpaper.feature.welcome.WelcomeActivity" name="wall__craft"/>
+  <item class="com.isatelco.wallcraft.splash.SplashActivity" name="wall__craft"/>
+  <item class="com.isatelco.wallcraft.daily.DailyActivity" name="wall__craft"/>
 
   <!-- Walldrobe -->
   <!-- <item class="com.coffecode.walldrobe.walldrobe.SplashScreen" name="walldrobe"/> -->

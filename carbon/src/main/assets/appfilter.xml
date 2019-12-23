@@ -72,6 +72,7 @@
 
   <!-- 9GAG -->
   <item component="ComponentInfo{com.ninegag.android.app/com.ninegag.android.app.ui.SplashScreenActivity}" drawable="_9__gag"/>
+  <item component="ComponentInfo{com.ninegag.android.app/com.ninegag.android.app.ui.HomeActivity}" drawable="_9__gag"/>
 
   <!-- Abstruct -->
   <item component="ComponentInfo{com.hampusolsson.abstruct/com.hampusolsson.abstruct.splash.SplashActivity}" drawable="abstruct"/>
@@ -4148,10 +4149,12 @@
   <item component="ComponentInfo{com.nbcuni.nbc/com.nbcuni.nbc.NBCLaunchActivity}" drawable="___nbc" />
   <item component="ComponentInfo{com.nbcuni.nbc/com.nbc.nbcapp.activity.SplashScreen}" drawable="___nbc" />
   <item component="ComponentInfo{com.nbcuni.nbc/com.nbc.commonui.activity.SplashScreen}" drawable="___nbc" />
+  <item component="ComponentInfo{com.nbcuni.nbc/com.nbc.commonui.activity.DeepLinkActivity}" drawable="___nbc" />
 
   <!-- NBC News -->
   <item component="ComponentInfo{com.zumobi.msnbc/com.nbcnews.newsappcommon.activities.SplashActivity}" drawable="___nbc_news" />
   <item component="ComponentInfo{com.zumobi.msnbc/com.nbcnews.newsappui.activities.SplashActivity}" drawable="___nbc_news" />
+  <item component="ComponentInfo{com.zumobi.msnbc/com.nbc.activities.MainActivity}" drawable="___nbc_news" />
 
   <!-- NBC Sports -->
   <item component="ComponentInfo{air.com.nbcuni.com.nbcsports.liveextra/com.nbc.nbcsports.activities.SplashActivity}" drawable="___nbc_sports" />
@@ -5631,6 +5634,7 @@
 
   <!-- Starz -->
   <item component="ComponentInfo{com.bydeluxe.d3.android.program.starz/com.bydeluxe.d3.android.program.activities.SplashScreenActivity}" drawable="starz" />
+  <item component="ComponentInfo{com.bydeluxe.d3.android.program.starz/com.starz.handheld.SplashActivity}" drawable="starz" />
 
   <!-- State Farm -->
   <item component="ComponentInfo{com.statefarm.pocketagent/com.statefarm.pocketagent.ui.login.activity.SplashScreenActivity}" drawable="state_farm"/>
@@ -5808,6 +5812,7 @@
 
   <!-- Taobao -->
   <item component="ComponentInfo{com.taobao.taobao/com.taobao.tao.welcome.Welcome}" drawable="taobao"/>
+  <item component="ComponentInfo{com.taobao.litetao/com.taobao.splash.SplashActivity}" drawable="taobao"/>
 
   <!-- Tapas -->
   <!-- <item component="ComponentInfo{com.tapastic/com.tapastic.ui.intro.SplashActivity}" drawable="tapas"/> -->
@@ -6445,6 +6450,9 @@
 
   <!-- WallCraft -->
   <item component="ComponentInfo{com.hastamev.wallcraft/com.hastamev.wallcraft.ui.activities.SplashActivity}" drawable="wall__craft"/>
+  <item component="ComponentInfo{com.wallpaperscraft.wallpaper/com.wallpaperscraft.wallpaper.feature.welcome.WelcomeActivity}" drawable="wall__craft"/>
+  <item component="ComponentInfo{de.appbound.wallcraft/com.isatelco.wallcraft.splash.SplashActivity}" drawable="wall__craft"/>
+  <item component="ComponentInfo{de.appbound.wallcraft/com.isatelco.wallcraft.daily.DailyActivity}" drawable="wall__craft"/>
 
   <!-- Walldrobe -->
   <!-- <item component="ComponentInfo{walldrobe.coffecode.com/com.coffecode.walldrobe.walldrobe.SplashScreen}" drawable="walldrobe"/> -->
