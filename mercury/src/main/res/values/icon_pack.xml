@@ -3,6 +3,8 @@
 
     <string-array name="icons_preview">
         <item>_1_1_1_1</item>
+        <item>_1__password</item>
+        <item>_9__gag</item>
         <item>abstruct</item>
         <item>accu__battery</item>
         <item>accu__weather</item>
@@ -12,7 +14,7 @@
         <item>adblock_alt</item>
         <item>ad_block_plus</item>
         <item>adblock</item>
-        <item>adguard</item>
+        <item>ad__guard</item>
         <item>___adm</item>
         <item>adobe_acrobat</item>
         <item>adobe_fill_and_sign</item>
@@ -156,6 +158,7 @@
         <item>___creative</item>
         <item>credit_karma</item>
         <item>crunchyroll</item>
+        <item>curiosity</item>
         <item>curiosity__stream</item>
         <item>customization</item>
         <item>dating</item>
@@ -296,6 +299,7 @@
         <item>hopper</item>
         <item>hotel__tonight_alt</item>
         <item>hotel__tonight</item>
+        <item>huawei_game_suite</item>
         <item>hue</item>
         <item>huji_cam</item>
         <item>hulu</item>
@@ -314,7 +318,7 @@
         <item>___im__db_alt</item>
         <item>___im__db</item>
         <item>imgur</item>
-        <item>imo</item>
+        <item>_imo</item>
         <item>in__shot</item>
         <item>instagram_alt</item>
         <item>instagram_layout</item>
@@ -393,12 +397,13 @@
         <item>my__jio</item>
         <item>my_verizon</item>
         <item>navigation</item>
+        <item>___nbc_news</item>
         <item>___nbc</item>
+        <item>___nbc_sports</item>
         <item>netflix</item>
         <item>news_alt</item>
         <item>news</item>
         <item>niagara_launcher</item>
-        <item>_9__gag</item>
         <item>nintendo</item>
         <item>nord___vpn</item>
         <item>notes_alt</item>
@@ -408,11 +413,13 @@
         <item>nova_launcher_settings</item>
         <item>___ny__times_alt</item>
         <item>___ny__times</item>
+        <item>office__suite</item>
         <item>okcupid</item>
         <item>ola_cabs</item>
-        <item>_1__password</item>
+        <item>___olx</item>
         <item>one__plus_community</item>
         <item>one__plus_switch</item>
+        <item>open_camera</item>
         <item>opera</item>
         <item>outdoors</item>
         <item>overdrop</item>
@@ -429,9 +436,13 @@
         <item>phosphor_helium</item>
         <item>phosphor_krypton</item>
         <item>phosphor</item>
+        <item>photobucket</item>
+        <item>photo__grid</item>
         <item>pics__art</item>
         <item>pinterest</item>
         <item>pixlr</item>
+        <item>pizza_hut</item>
+        <item>plants_vs_zombies</item>
         <item>player_f__m</item>
         <item>plex_alt</item>
         <item>plex</item>
@@ -446,14 +457,19 @@
         <item>postmates</item>
         <item>poweramp</item>
         <item>productivity</item>
+        <item>proton__mail</item>
         <item>proton_v__p__n</item>
         <item>___pubg</item>
         <item>pulse_messenger</item>
         <item>pushbullet</item>
+        <item>___qq_mail</item>
+        <item>___qq</item>
         <item>quartz</item>
         <item>quora</item>
         <item>radio</item>
+        <item>___rar</item>
         <item>reddit_alt</item>
+        <item>reddit__is__fun</item>
         <item>reddit</item>
         <item>relay</item>
         <item>replaio_radio</item>
@@ -464,30 +480,47 @@
         <item>robinhood</item>
         <item>roblox</item>
         <item>roku</item>
+        <item>runkeeper</item>
+        <item>samsung_flow</item>
         <item>samsung_galaxy_store</item>
+        <item>samsung_galaxy_themes</item>
+        <item>samsung_game_launcher</item>
+        <item>samsung_good_lock</item>
         <item>samsung_health</item>
         <item>samsung_internet</item>
+        <item>samsung_members</item>
         <item>samsung_messages</item>
         <item>samsung_music</item>
         <item>samsung_notes</item>
+        <item>samsung_pass</item>
         <item>samsung_pay</item>
         <item>samsung_reminder</item>
+        <item>samsung_side__sync</item>
+        <item>samsung_smart__things</item>
+        <item>samsung_s_note</item>
+        <item>samsung_s_voice</item>
+        <item>samsung_video_library</item>
         <item>samsung_wear</item>
         <item>screener</item>
+        <item>___sd_card</item>
         <item>___sd_maid</item>
         <item>seamless</item>
         <item>sesame</item>
         <item>settings_alt</item>
         <item>settings</item>
+        <item>___shar__eit</item>
         <item>shazam</item>
         <item>shopping</item>
+        <item>showcaller</item>
         <item>signal</item>
-        <item>sim_card</item>
+        <item>___sim_card</item>
         <item>skype</item>
         <item>slack</item>
         <item>slide_for_reddit</item>
         <item>smart_launcher</item>
         <item>___sms_backup_and_restore</item>
+        <item>___sms_backup_plus</item>
+        <item>smug__mug</item>
         <item>snapchat</item>
         <item>snapmod</item>
         <item>snapseed</item>
@@ -508,6 +541,9 @@
         <item>square_cash</item>
         <item>stack_exchange</item>
         <item>starbucks</item>
+        <item>starz</item>
+        <item>state_farm_alt</item>
+        <item>state_farm</item>
         <item>steam</item>
         <item>stitcher</item>
         <item>stocard</item>
@@ -518,11 +554,13 @@
         <item>substratum_theme</item>
         <item>sudoku</item>
         <item>swift__key</item>
+        <item>swiggy</item>
         <item>sync_for_reddit</item>
         <item>system___ui_tuner</item>
         <item>system_updates</item>
         <item>talon</item>
         <item>tango</item>
+        <item>taobao</item>
         <item>target</item>
         <item>tasker</item>
         <item>___td_bank</item>
@@ -543,10 +581,13 @@
         <item>t_mobile</item>
         <item>t_mobile_visual_voicemail</item>
         <item>todoist</item>
+        <item>toon_blast_alt</item>
+        <item>toon_blast</item>
         <item>torr___se</item>
         <item>transit</item>
         <item>travel</item>
         <item>trello</item>
+        <item>truecaller</item>
         <item>_tumblr</item>
         <item>twitch</item>
         <item>twitter</item>
@@ -554,16 +595,25 @@
         <item>uber_eats</item>
         <item>uber</item>
         <item>udacity</item>
+        <item>udemy</item>
+        <item>unified_remote</item>
         <item>universal_copy</item>
+        <item>___ups_alt</item>
+        <item>___ups</item>
         <item>___usaa</item>
+        <item>___usa_today</item>
+        <item>___us_bank</item>
         <item>venmo</item>
         <item>verizon_my_fios</item>
         <item>video</item>
         <item>vimeo</item>
         <item>virtual_wallet</item>
+        <item>viva__video</item>
         <item>___vlc</item>
         <item>voicemail</item>
+        <item>___vrv</item>
         <item>___vsco</item>
+        <item>wall__craft</item>
         <item>wall__hub</item>
         <item>walli_alt</item>
         <item>walli</item>
@@ -582,9 +632,11 @@
         <item>wikipedia</item>
         <item>wolfram__alpha</item>
         <item>___wps_office</item>
+        <item>write_on_pdf</item>
         <item>xbox</item>
         <item>___xda_feed_alt</item>
         <item>___xda_feed</item>
+        <item>___xda_labs</item>
         <item>yahoo_fantasy</item>
         <item>yahoo_finance</item>
         <item>yahoo_mail</item>
@@ -595,15 +647,21 @@
         <item>yelp</item>
         <item>you__cam_perfect</item>
         <item>youku</item>
+        <item>you__tube_gaming</item>
         <item>you__tube_music</item>
         <item>you__tube</item>
         <item>you__tube_studio</item>
         <item>you__tube_t__v</item>
         <item>you__tube_vanced</item>
+        <item>yr</item>
         <item>z__archiver_alt</item>
         <item>z__archiver</item>
+        <item>zedge_alt</item>
+        <item>zedge</item>
         <item>zelle</item>
         <item>zero_launcher</item>
+        <item>zoom_cloud_meetings_alt</item>
+        <item>zoom_cloud_meetings</item>
     </string-array>
 
 
@@ -613,7 +671,7 @@
         <item>all</item>
         <item>recent</item>
         <item>banking</item>
-        <item>___creative</item>
+        <item>creative</item>
         <item>education</item>
         <item>food</item>
         <item>games</item>
@@ -636,6 +694,8 @@
 
     <string-array name="all">
         <item>_1_1_1_1</item>
+        <item>_1__password</item>
+        <item>_9__gag</item>
         <item>abstruct</item>
         <item>accu__battery</item>
         <item>accu__weather</item>
@@ -645,7 +705,7 @@
         <item>adblock_alt</item>
         <item>ad_block_plus</item>
         <item>adblock</item>
-        <item>adguard</item>
+        <item>ad__guard</item>
         <item>___adm</item>
         <item>adobe_acrobat</item>
         <item>adobe_fill_and_sign</item>
@@ -789,6 +849,7 @@
         <item>___creative</item>
         <item>credit_karma</item>
         <item>crunchyroll</item>
+        <item>curiosity</item>
         <item>curiosity__stream</item>
         <item>customization</item>
         <item>dating</item>
@@ -929,6 +990,7 @@
         <item>hopper</item>
         <item>hotel__tonight_alt</item>
         <item>hotel__tonight</item>
+        <item>huawei_game_suite</item>
         <item>hue</item>
         <item>huji_cam</item>
         <item>hulu</item>
@@ -947,7 +1009,7 @@
         <item>___im__db_alt</item>
         <item>___im__db</item>
         <item>imgur</item>
-        <item>imo</item>
+        <item>_imo</item>
         <item>in__shot</item>
         <item>instagram_alt</item>
         <item>instagram_layout</item>
@@ -1026,12 +1088,13 @@
         <item>my__jio</item>
         <item>my_verizon</item>
         <item>navigation</item>
+        <item>___nbc_news</item>
         <item>___nbc</item>
+        <item>___nbc_sports</item>
         <item>netflix</item>
         <item>news_alt</item>
         <item>news</item>
         <item>niagara_launcher</item>
-        <item>_9__gag</item>
         <item>nintendo</item>
         <item>nord___vpn</item>
         <item>notes_alt</item>
@@ -1041,11 +1104,13 @@
         <item>nova_launcher_settings</item>
         <item>___ny__times_alt</item>
         <item>___ny__times</item>
+        <item>office__suite</item>
         <item>okcupid</item>
         <item>ola_cabs</item>
-        <item>_1__password</item>
+        <item>___olx</item>
         <item>one__plus_community</item>
         <item>one__plus_switch</item>
+        <item>open_camera</item>
         <item>opera</item>
         <item>outdoors</item>
         <item>overdrop</item>
@@ -1062,9 +1127,13 @@
         <item>phosphor_helium</item>
         <item>phosphor_krypton</item>
         <item>phosphor</item>
+        <item>photobucket</item>
+        <item>photo__grid</item>
         <item>pics__art</item>
         <item>pinterest</item>
         <item>pixlr</item>
+        <item>pizza_hut</item>
+        <item>plants_vs_zombies</item>
         <item>player_f__m</item>
         <item>plex_alt</item>
         <item>plex</item>
@@ -1079,14 +1148,19 @@
         <item>postmates</item>
         <item>poweramp</item>
         <item>productivity</item>
+        <item>proton__mail</item>
         <item>proton_v__p__n</item>
         <item>___pubg</item>
         <item>pulse_messenger</item>
         <item>pushbullet</item>
+        <item>___qq_mail</item>
+        <item>___qq</item>
         <item>quartz</item>
         <item>quora</item>
         <item>radio</item>
+        <item>___rar</item>
         <item>reddit_alt</item>
+        <item>reddit__is__fun</item>
         <item>reddit</item>
         <item>relay</item>
         <item>replaio_radio</item>
@@ -1097,30 +1171,47 @@
         <item>robinhood</item>
         <item>roblox</item>
         <item>roku</item>
+        <item>runkeeper</item>
+        <item>samsung_flow</item>
         <item>samsung_galaxy_store</item>
+        <item>samsung_galaxy_themes</item>
+        <item>samsung_game_launcher</item>
+        <item>samsung_good_lock</item>
         <item>samsung_health</item>
         <item>samsung_internet</item>
+        <item>samsung_members</item>
         <item>samsung_messages</item>
         <item>samsung_music</item>
         <item>samsung_notes</item>
+        <item>samsung_pass</item>
         <item>samsung_pay</item>
         <item>samsung_reminder</item>
+        <item>samsung_side__sync</item>
+        <item>samsung_smart__things</item>
+        <item>samsung_s_note</item>
+        <item>samsung_s_voice</item>
+        <item>samsung_video_library</item>
         <item>samsung_wear</item>
         <item>screener</item>
+        <item>___sd_card</item>
         <item>___sd_maid</item>
         <item>seamless</item>
         <item>sesame</item>
         <item>settings_alt</item>
         <item>settings</item>
+        <item>___shar__eit</item>
         <item>shazam</item>
         <item>shopping</item>
+        <item>showcaller</item>
         <item>signal</item>
-        <item>sim_card</item>
+        <item>___sim_card</item>
         <item>skype</item>
         <item>slack</item>
         <item>slide_for_reddit</item>
         <item>smart_launcher</item>
         <item>___sms_backup_and_restore</item>
+        <item>___sms_backup_plus</item>
+        <item>smug__mug</item>
         <item>snapchat</item>
         <item>snapmod</item>
         <item>snapseed</item>
@@ -1141,6 +1232,9 @@
         <item>square_cash</item>
         <item>stack_exchange</item>
         <item>starbucks</item>
+        <item>starz</item>
+        <item>state_farm_alt</item>
+        <item>state_farm</item>
         <item>steam</item>
         <item>stitcher</item>
         <item>stocard</item>
@@ -1151,11 +1245,13 @@
         <item>substratum_theme</item>
         <item>sudoku</item>
         <item>swift__key</item>
+        <item>swiggy</item>
         <item>sync_for_reddit</item>
         <item>system___ui_tuner</item>
         <item>system_updates</item>
         <item>talon</item>
         <item>tango</item>
+        <item>taobao</item>
         <item>target</item>
         <item>tasker</item>
         <item>___td_bank</item>
@@ -1176,10 +1272,13 @@
         <item>t_mobile</item>
         <item>t_mobile_visual_voicemail</item>
         <item>todoist</item>
+        <item>toon_blast_alt</item>
+        <item>toon_blast</item>
         <item>torr___se</item>
         <item>transit</item>
         <item>travel</item>
         <item>trello</item>
+        <item>truecaller</item>
         <item>_tumblr</item>
         <item>twitch</item>
         <item>twitter</item>
@@ -1187,16 +1286,25 @@
         <item>uber_eats</item>
         <item>uber</item>
         <item>udacity</item>
+        <item>udemy</item>
+        <item>unified_remote</item>
         <item>universal_copy</item>
+        <item>___ups_alt</item>
+        <item>___ups</item>
         <item>___usaa</item>
+        <item>___usa_today</item>
+        <item>___us_bank</item>
         <item>venmo</item>
         <item>verizon_my_fios</item>
         <item>video</item>
         <item>vimeo</item>
         <item>virtual_wallet</item>
+        <item>viva__video</item>
         <item>___vlc</item>
         <item>voicemail</item>
+        <item>___vrv</item>
         <item>___vsco</item>
+        <item>wall__craft</item>
         <item>wall__hub</item>
         <item>walli_alt</item>
         <item>walli</item>
@@ -1215,9 +1323,11 @@
         <item>wikipedia</item>
         <item>wolfram__alpha</item>
         <item>___wps_office</item>
+        <item>write_on_pdf</item>
         <item>xbox</item>
         <item>___xda_feed_alt</item>
         <item>___xda_feed</item>
+        <item>___xda_labs</item>
         <item>yahoo_fantasy</item>
         <item>yahoo_finance</item>
         <item>yahoo_mail</item>
@@ -1228,42 +1338,82 @@
         <item>yelp</item>
         <item>you__cam_perfect</item>
         <item>youku</item>
+        <item>you__tube_gaming</item>
         <item>you__tube_music</item>
         <item>you__tube</item>
         <item>you__tube_studio</item>
         <item>you__tube_t__v</item>
         <item>you__tube_vanced</item>
+        <item>yr</item>
         <item>z__archiver_alt</item>
         <item>z__archiver</item>
+        <item>zedge_alt</item>
+        <item>zedge</item>
         <item>zelle</item>
         <item>zero_launcher</item>
+        <item>zoom_cloud_meetings_alt</item>
+        <item>zoom_cloud_meetings</item>
     </string-array>
 
     <string-array name="recent">
-        <item>action__dash</item>
-        <item>___creative</item>
-        <item>curiosity__stream</item>
-        <item>dropsync</item>
-        <item>elsa_speak</item>
-        <item>file_transfer</item>
-        <item>google_actions_services</item>
-        <item>google_allo</item>
-        <item>hurry</item>
-        <item>hydro_coach</item>
-        <item>instapaper</item>
-        <item>insta__save</item>
-        <item>lime__line</item>
-        <item>mi_remote</item>
-        <item>microsoft_s__m__s_organizer</item>
-        <item>min</item>
-        <item>min_alt</item>
-        <item>podcast_republic</item>
-        <item>quartz</item>
-        <item>replaio_radio</item>
-        <item>sudoku</item>
-        <item>torr___se</item>
-        <item>trello</item>
-        <item>you__cam_perfect</item>
+        <item>curiosity</item>
+        <item>huawei_game_suite</item>
+        <item>office__suite</item>
+        <item>open_camera</item>
+        <item>photobucket</item>
+        <item>photo__grid</item>
+        <item>pizza_hut</item>
+        <item>plants_vs_zombies</item>
+        <item>proton__mail</item>
+        <item>reddit__is__fun</item>
+        <item>runkeeper</item>
+        <item>samsung_flow</item>
+        <item>samsung_galaxy_themes</item>
+        <item>samsung_game_launcher</item>
+        <item>samsung_good_lock</item>
+        <item>samsung_members</item>
+        <item>samsung_pass</item>
+        <item>samsung_side__sync</item>
+        <item>samsung_smart__things</item>
+        <item>samsung_s_note</item>
+        <item>samsung_s_voice</item>
+        <item>samsung_video_library</item>
+        <item>showcaller</item>
+        <item>smug__mug</item>
+        <item>starz</item>
+        <item>state_farm</item>
+        <item>state_farm_alt</item>
+        <item>swiggy</item>
+        <item>taobao</item>
+        <item>toon_blast</item>
+        <item>toon_blast_alt</item>
+        <item>truecaller</item>
+        <item>udemy</item>
+        <item>unified_remote</item>
+        <item>viva__video</item>
+        <item>wall__craft</item>
+        <item>write_on_pdf</item>
+        <item>you__tube_gaming</item>
+        <item>yr</item>
+        <item>zedge</item>
+        <item>zedge_alt</item>
+        <item>zoom_cloud_meetings</item>
+        <item>zoom_cloud_meetings_alt</item>
+        <item>___nbc_news</item>
+        <item>___nbc_sports</item>
+        <item>___olx</item>
+        <item>___qq</item>
+        <item>___qq_mail</item>
+        <item>___rar</item>
+        <item>___sd_card</item>
+        <item>___shar__eit</item>
+        <item>___sms_backup_plus</item>
+        <item>___ups</item>
+        <item>___ups_alt</item>
+        <item>___usa_today</item>
+        <item>___us_bank</item>
+        <item>___vrv</item>
+        <item>___xda_labs</item>
     </string-array>
 
     <string-array name="banking">
@@ -1291,6 +1441,7 @@
         <item>stocard</item>
         <item>subscriptions</item>
         <item>___td_bank</item>
+        <item>___us_bank</item>
         <item>venmo</item>
         <item>virtual_wallet</item>
         <item>wells_fargo</item>
@@ -1324,13 +1475,18 @@
         <item>instagram</item>
         <item>instagram_alt</item>
         <item>instagram_layout</item>
+        <item>open_camera</item>
         <item>patreon</item>
         <item>patreon_alt</item>
+        <item>photo__grid</item>
         <item>pics__art</item>
         <item>pinterest</item>
         <item>pixlr</item>
+        <item>samsung_s_note</item>
+        <item>smug__mug</item>
         <item>snapseed</item>
         <item>vimeo</item>
+        <item>viva__video</item>
         <item>___vsco</item>
         <item>you__cam_perfect</item>
         <item>you__tube_studio</item>
@@ -1339,6 +1495,7 @@
     <string-array name="education">
         <item>ancestry</item>
         <item>brilliant</item>
+        <item>curiosity</item>
         <item>curiosity__stream</item>
         <item>drops</item>
         <item>duolingo</item>
@@ -1351,6 +1508,7 @@
         <item>stack_exchange</item>
         <item>___ted</item>
         <item>udacity</item>
+        <item>udemy</item>
         <item>wikipedia</item>
         <item>wolfram__alpha</item>
     </string-array>
@@ -1361,9 +1519,11 @@
         <item>door__dash</item>
         <item>fork</item>
         <item>grubhub</item>
+        <item>pizza_hut</item>
         <item>postmates</item>
         <item>seamless</item>
         <item>starbucks</item>
+        <item>swiggy</item>
         <item>yelp</item>
     </string-array>
 
@@ -1380,18 +1540,24 @@
         <item>dots</item>
         <item>games</item>
         <item>games_alt</item>
+        <item>huawei_game_suite</item>
         <item>minecraft</item>
         <item>monument_valley</item>
         <item>nintendo</item>
+        <item>plants_vs_zombies</item>
         <item>pokemon</item>
         <item>___pubg</item>
         <item>roblox</item>
+        <item>samsung_game_launcher</item>
         <item>sony_playstation_app</item>
         <item>steam</item>
         <item>sudoku</item>
+        <item>toon_blast</item>
+        <item>toon_blast_alt</item>
         <item>twitch</item>
         <item>two_dots</item>
         <item>xbox</item>
+        <item>you__tube_gaming</item>
     </string-array>
 
     <string-array name="google">
@@ -1461,6 +1627,7 @@
         <item>google_fit</item>
         <item>mi_fit</item>
         <item>outdoors</item>
+        <item>runkeeper</item>
         <item>samsung_health</item>
         <item>strava</item>
     </string-array>
@@ -1472,6 +1639,9 @@
         <item>life360</item>
         <item>my_verizon</item>
         <item>my__jio</item>
+        <item>samsung_members</item>
+        <item>state_farm</item>
+        <item>state_farm_alt</item>
         <item>t_mobile</item>
         <item>___usaa</item>
         <item>verizon_my_fios</item>
@@ -1516,6 +1686,7 @@
         <item>___mx_player</item>
         <item>netflix</item>
         <item>pandora</item>
+        <item>photobucket</item>
         <item>player_f__m</item>
         <item>plex</item>
         <item>plex_alt</item>
@@ -1528,12 +1699,15 @@
         <item>retro_music</item>
         <item>roku</item>
         <item>samsung_music</item>
+        <item>samsung_video_library</item>
         <item>shazam</item>
+        <item>smug__mug</item>
         <item>snaptube</item>
         <item>sony_headphones</item>
         <item>soundcloud</item>
         <item>soundhound</item>
         <item>spotify</item>
+        <item>starz</item>
         <item>stitcher</item>
         <item>ticketmaster</item>
         <item>tidal</item>
@@ -1541,8 +1715,10 @@
         <item>video</item>
         <item>vimeo</item>
         <item>___vlc</item>
+        <item>___vrv</item>
         <item>youku</item>
         <item>you__tube</item>
+        <item>you__tube_gaming</item>
         <item>you__tube_music</item>
         <item>you__tube_studio</item>
         <item>you__tube_t__v</item>
@@ -1571,12 +1747,16 @@
         <item>microsoft_outlook</item>
         <item>microsoft_outlook_alt</item>
         <item>plus_messenger</item>
+        <item>proton__mail</item>
         <item>pulse_messenger</item>
         <item>pushbullet</item>
+        <item>___qq</item>
+        <item>___qq_mail</item>
         <item>samsung_messages</item>
         <item>signal</item>
         <item>skype</item>
         <item>___sms_backup_and_restore</item>
+        <item>___sms_backup_plus</item>
         <item>slack</item>
         <item>spark</item>
         <item>spark_alt</item>
@@ -1603,6 +1783,8 @@
         <item>instapaper</item>
         <item>medium</item>
         <item>___nbc</item>
+        <item>___nbc_news</item>
+        <item>___nbc_sports</item>
         <item>news</item>
         <item>news_alt</item>
         <item>___ny__times</item>
@@ -1611,9 +1793,11 @@
         <item>quora</item>
         <item>weather</item>
         <item>the_weather_channel</item>
+        <item>___usa_today</item>
         <item>weather_underground</item>
         <item>yahoo_news</item>
         <item>yahoo_weather</item>
+        <item>yr</item>
     </string-array>
 
     <string-array name="personalization">
@@ -1667,6 +1851,8 @@
         <item>resplash</item>
         <item>___rgb_color_wallpaper</item>
         <item>samsung_galaxy_store</item>
+        <item>samsung_galaxy_themes</item>
+        <item>samsung_good_lock</item>
         <item>screener</item>
         <item>sesame</item>
         <item>smart_launcher</item>
@@ -1677,12 +1863,16 @@
         <item>system___ui_tuner</item>
         <item>tasker</item>
         <item>tholotis</item>
+        <item>wall__craft</item>
         <item>wall__hub</item>
         <item>walli</item>
         <item>walli_alt</item>
         <item>wallpaper</item>
         <item>___xda_feed</item>
         <item>___xda_feed_alt</item>
+        <item>___xda_labs</item>
+        <item>zedge</item>
+        <item>zedge_alt</item>
         <item>zero_launcher</item>
     </string-array>
 
@@ -1753,21 +1943,34 @@
         <item>notes</item>
         <item>notes_alt</item>
         <item>notion</item>
+        <item>office__suite</item>
         <item>parrot</item>
         <item>pinterest</item>
         <item>pocket</item>
+        <item>proton__mail</item>
         <item>productivity</item>
         <item>pushbullet</item>
+        <item>___qq</item>
+        <item>___qq_mail</item>
+        <item>samsung_flow</item>
         <item>samsung_notes</item>
         <item>samsung_reminder</item>
+        <item>samsung_s_note</item>
+        <item>samsung_s_voice</item>
+        <item>___shar__eit</item>
         <item>snaptube</item>
         <item>solid_explorer</item>
         <item>subscriptions</item>
         <item>swift__key</item>
         <item>todoist</item>
         <item>trello</item>
+        <item>___ups</item>
+        <item>___ups_alt</item>
         <item>___wps_office</item>
+        <item>write_on_pdf</item>
         <item>yahoo</item>
+        <item>zoom_cloud_meetings</item>
+        <item>zoom_cloud_meetings_alt</item>
     </string-array>
 
     <string-array name="security">
@@ -1790,6 +1993,8 @@
         <item>_1__password</item>
         <item>proton_v__p__n</item>
         <item>ring</item>
+        <item>samsung_good_lock</item>
+        <item>samsung_pass</item>
     </string-array>
 
     <string-array name="shopping">
@@ -1802,7 +2007,9 @@
         <item>_e__bay</item>
         <item>google_express</item>
         <item>groupon</item>
+        <item>___olx</item>
         <item>shopping</item>
+        <item>taobao</item>
         <item>target</item>
         <item>ticketmaster</item>
         <item>walmart</item>
@@ -1840,7 +2047,9 @@
         <item>quora</item>
         <item>reddit</item>
         <item>reddit_alt</item>
+        <item>reddit__is__fun</item>
         <item>relay</item>
+        <item>samsung_members</item>
         <item>slide_for_reddit</item>
         <item>snapchat</item>
         <item>social</item>
@@ -1859,6 +2068,8 @@
     <string-array name="sports">
         <item>___espn</item>
         <item>___espn_fantasy</item>
+        <item>___nbc_sports</item>
+        <item>runkeeper</item>
         <item>sports</item>
         <item>yahoo_fantasy</item>
         <item>yahoo_sports</item>
@@ -1948,10 +2159,19 @@
         <item>podcast</item>
         <item>productivity</item>
         <item>radio</item>
+        <item>___rar</item>
+        <item>samsung_side__sync</item>
+        <item>samsung_smart__things</item>
+        <item>samsung_video_library</item>
+        <item>___sd_card</item>
         <item>___sd_maid</item>
         <item>settings</item>
         <item>settings_alt</item>
+        <item>___shar__eit</item>
+        <item>showcaller</item>
+        <item>___sim_card</item>
         <item>___sms_backup_and_restore</item>
+        <item>___sms_backup_plus</item>
         <item>solid_explorer</item>
         <item>sound_recorder</item>
         <item>speedtest</item>
@@ -1962,6 +2182,8 @@
         <item>timer</item>
         <item>timer_alt</item>
         <item>torr___se</item>
+        <item>truecaller</item>
+        <item>unified_remote</item>
         <item>video</item>
         <item>voicemail</item>
         <item>wearables</item>
@@ -1970,6 +2192,7 @@
         <item>web_alt</item>
         <item>web_alt_2</item>
         <item>wolfram__alpha</item>
+        <item>write_on_pdf</item>
         <item>universal_copy</item>
         <item>verizon_my_fios</item>
         <item>z__archiver</item>
