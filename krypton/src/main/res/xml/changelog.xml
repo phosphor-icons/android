@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <version title="v1.5.9" />
+    <item text="Added 40 new icons" />
+    <item text="New color coming soon!" />
     <version title="v1.5.8" />
     <item text="Added 58 new icons" />
     <version title="v1.5.7" />
