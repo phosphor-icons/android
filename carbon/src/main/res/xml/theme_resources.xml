@@ -1020,6 +1020,7 @@
 
   <!-- Calculator++ -->
   <AppIcon name="org.solovyev.android.calculator/org.solovyev.android.calculator.CalculatorActivity" image="calculator_plus_plus"/>
+  <AppIcon name="org.solovyev.android.calculator/org.solovyev.android.calculator.floating.FloatingCalculatorActivity" image="calculator_plus_plus_windowed"/>
   <AppIcon name="org.solovyev.android.calculator.floating/org.solovyev.android.calculator.floating.FloatingCalculatorActivity" image="calculator_plus_plus_windowed"/>
 
   <!-- Calendar -->
@@ -2546,6 +2547,7 @@
 
   <!-- Google Cloud Console -->
   <AppIcon name="com.google.android.apps.cloudconsole/com.google.android.apps.cloudconsole.MainContainerActivity" image="google_console"/>
+  <AppIcon name="com.google.android.apps.cloudconsole/com.google.android.apps.cloudconsole.common.MainContainerActivity" image="google_console"/>
 
   <!-- Google Datally -->
   <AppIcon name="com.google.android.apps.freighter/com.google.android.apps.nbu.freighter.splash.SplashActivity" image="google_datally"/>
@@ -3509,8 +3511,8 @@
   <!-- <AppIcon name="com.sikebo.letitbeO.icons.minimal/com.sikebo.letitbeO.icons.minimal.activities.SplashActivity" image="let__it__be_o"/> -->
 
   <!-- LibriVox -->
-  <!--<AppIcon name="app.librivox.android/biz.bookdesign.librivox.LibriVoxActivity" image="libri__vox" />-->
-  <!--<AppIcon name="biz.bookdesign.librivox.pro/biz.bookdesign.librivox.LibriVoxActivity" image="libri__vox" />-->
+  <AppIcon name="app.librivox.android/biz.bookdesign.librivox.LibriVoxActivity" image="audiobook" />
+  <AppIcon name="biz.bookdesign.librivox.pro/biz.bookdesign.librivox.LibriVoxActivity" image="audiobook" />
 
   <!-- LIFE Fasting Tracker -->
   <!--<AppIcon name="com.lifeomic.lifefasting/com.lifeomic.lifefasting.SplashActivity" image="___life_fasting" />-->

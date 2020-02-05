@@ -1037,6 +1037,7 @@
 
   <!-- Calculator++ -->
   <item component="ComponentInfo{org.solovyev.android.calculator/org.solovyev.android.calculator.CalculatorActivity}" drawable="calculator_plus_plus"/>
+  <item component="ComponentInfo{org.solovyev.android.calculator/org.solovyev.android.calculator.floating.FloatingCalculatorActivity}" drawable="calculator_plus_plus_windowed"/>
   <item component="ComponentInfo{org.solovyev.android.calculator.floating/org.solovyev.android.calculator.floating.FloatingCalculatorActivity}" drawable="calculator_plus_plus_windowed"/>
 
   <!-- Calendar -->
@@ -2563,6 +2564,7 @@
 
   <!-- Google Cloud Console -->
   <item component="ComponentInfo{com.google.android.apps.cloudconsole/com.google.android.apps.cloudconsole.MainContainerActivity}" drawable="google_console"/>
+  <item component="ComponentInfo{com.google.android.apps.cloudconsole/com.google.android.apps.cloudconsole.common.MainContainerActivity}" drawable="google_console"/>
 
   <!-- Google Datally -->
   <item component="ComponentInfo{com.google.android.apps.freighter/com.google.android.apps.nbu.freighter.splash.SplashActivity}" drawable="google_datally"/>
@@ -3526,8 +3528,8 @@
   <!-- <item component="ComponentInfo{com.sikebo.letitbeO.icons.minimal/com.sikebo.letitbeO.icons.minimal.activities.SplashActivity}" drawable="let__it__be_o"/> -->
 
   <!-- LibriVox -->
-  <!--<item component="ComponentInfo{app.librivox.android/biz.bookdesign.librivox.LibriVoxActivity}" drawable="libri__vox" />-->
-  <!--<item component="ComponentInfo{biz.bookdesign.librivox.pro/biz.bookdesign.librivox.LibriVoxActivity}" drawable="libri__vox" />-->
+  <item component="ComponentInfo{app.librivox.android/biz.bookdesign.librivox.LibriVoxActivity}" drawable="audiobook" />
+  <item component="ComponentInfo{biz.bookdesign.librivox.pro/biz.bookdesign.librivox.LibriVoxActivity}" drawable="audiobook" />
 
   <!-- LIFE Fasting Tracker -->
   <!--<item component="ComponentInfo{com.lifeomic.lifefasting/com.lifeomic.lifefasting.SplashActivity}" drawable="___life_fasting" />-->

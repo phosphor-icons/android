@@ -2538,6 +2538,7 @@
 
   <!-- Google Cloud Console -->
   <item class="com.google.android.apps.cloudconsole.MainContainerActivity" name="google_console"/>
+  <item class="com.google.android.apps.cloudconsole.common.MainContainerActivity" name="google_console"/>
 
   <!-- Google Datally -->
   <item class="com.google.android.apps.nbu.freighter.splash.SplashActivity" name="google_datally"/>
@@ -3501,8 +3502,8 @@
   <!-- <item class="com.sikebo.letitbeO.icons.minimal.activities.SplashActivity" name="let__it__be_o"/> -->
 
   <!-- LibriVox -->
-  <!--<item class="biz.bookdesign.librivox.LibriVoxActivity" name="libri__vox" />-->
-  <!--<item class="biz.bookdesign.librivox.LibriVoxActivity" name="libri__vox" />-->
+  <item class="biz.bookdesign.librivox.LibriVoxActivity" name="audiobook" />
+  <item class="biz.bookdesign.librivox.LibriVoxActivity" name="audiobook" />
 
   <!-- LIFE Fasting Tracker -->
   <!--<item class="com.lifeomic.lifefasting.SplashActivity" name="___life_fasting" />-->
