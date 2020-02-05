@@ -2630,7 +2630,7 @@
   <AppIcon name="com.google.android.apps.mapslite/org.chromium.webapk.shell_apk.MainActivity" image="google_maps_go"/>
 
   <!-- Google Meet -->
-  <AppIcon name="com.google.android.apps.meetings/com.google.android.apps.meetings.splash.SplashActivity" image="meet"/>
+  <AppIcon name="com.google.android.apps.meetings/com.google.android.apps.meetings.splash.SplashActivity" image="google_meet"/>
 
   <!-- Google News -->
   <AppIcon name="com.google.android.apps.magazines/com.google.apps.dots.android.app.activity.CurrentsStartActivity" image="google_news"/>
@@ -6566,6 +6566,7 @@
   <!-- WeatherUnderground-->
   <AppIcon name="com.wunderground.android.weather/com.wunderground.android.weather.ui.WeatherHomeActivity" image="weather_underground"/>
   <AppIcon name="com.wunderground.android.weather/com.wunderground.android.weather.ui.launcher.WeatherHomeActivity" image="weather_underground"/>
+  <AppIcon name="com.wunderground.android.weather/com.wunderground.android.weather.ui.splash.WeatherHomeActivity" image="weather_underground"/>
 
   <!-- WEBTOON -->
   <!-- <AppIcon name="com.naver.linewebtoon/com.naver.linewebtoon.splash.SplashActivity" image="___webtoon"/> -->

@@ -2622,7 +2622,7 @@
   <item class="org.chromium.webapk.shell_apk.MainActivity" name="google_maps_go"/>
 
   <!-- Google Meet -->
-  <item class="com.google.android.apps.meetings.splash.SplashActivity" name="meet"/>
+  <item class="com.google.android.apps.meetings.splash.SplashActivity" name="google_meet"/>
 
   <!-- Google News -->
   <item class="com.google.apps.dots.android.app.activity.CurrentsStartActivity" name="google_news"/>
@@ -6558,6 +6558,7 @@
   <!-- WeatherUnderground-->
   <item class="com.wunderground.android.weather.ui.WeatherHomeActivity" name="weather_underground"/>
   <item class="com.wunderground.android.weather.ui.launcher.WeatherHomeActivity" name="weather_underground"/>
+  <item class="com.wunderground.android.weather.ui.splash.WeatherHomeActivity" name="weather_underground"/>
 
   <!-- WEBTOON -->
   <!-- <item class="com.naver.linewebtoon.splash.SplashActivity" name="___webtoon"/> -->
