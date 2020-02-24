@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="launchers">
+        <item>action</item>
+        <item>adw</item>
+        <item>adwex</item>
+        <item>apex</item>
+        <item>atom</item>
+        <item>aviate</item>
+        <item>go</item>
+        <item>googlenow</item>
+        <item>holo</item>
+        <item>holoics</item>
+        <item>kk</item>
+        <item>lg</item>
+        <item>l</item>
+        <item>lawnchair</item>
+        <item>lineageos</item>
+        <item>lucid</item>
+        <item>mini</item>
+        <item>next</item>
+        <item>nova</item>
+        <item>pixel</item>
+        <item>s</item>
+        <item>smart</item>
+        <item>smartpro</item>
+        <item>solo</item>
+        <item>tsf</item>
+        <item>unicon</item>
+    </string-array>
+</resources>

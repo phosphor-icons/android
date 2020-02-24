@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string-array name="credits_photos" formatted="false" tools:ignore="TypographyDashes">
+        <item>https://i.imgur.com/sEmEMhx.jpg</item>
+        <item>https://i.imgur.com/yLiuJMJ.jpg</item>
+    </string-array>
+
+    <string-array name="credits_titles">
+        <item>Tobias Fried</item>
+        <item>Helena Zhang</item>
+    </string-array>
+
+    <string-array name="credits_descriptions">
+        <item>Mobile developer, command-line noodler, and kombucha brewer in Brooklyn. </item>
+        <item>Designer, writer, and artist based in Brooklyn, New York. She enjoys making more with less.</item>
+    </string-array>
+
+    <string-array name="credits_buttons">
+        <item>Github|Website</item>
+        <item>Website|Dribbble</item>
+    </string-array>
+
+    <string-array name="credits_links">
+        <item>https://github.com/rektdeckard|http://tobiasfried.com</item>
+        <item>http://abodywithoutorgans.com|https://dribbble.com/abodywithout</item>
+    </string-array>
+</resources>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Color for Notifications -->
+    <color name="notification_color">@color/light_theme_accent</color>
+
+    <!-- Color for Muzei -->
+    <color name="muzei_color">@color/light_theme_accent</color>
+
+    <!-- Light Theme -->
+    <color name="light_theme_primary_dark">#e0e0e0</color>
+    <color name="light_theme_primary">#f5f5f5</color>
+    <color name="light_theme_accent">#FF000000</color>
+    <color name="light_theme_background">#fafafa</color>
+    <color name="light_theme_card_background">#ffffff</color>
+    <color name="light_theme_snackbar">@color/light_theme_card_background</color>
+    <color name="light_theme_dialogs_button_color">@color/light_theme_accent</color>
+    <color name="splash_light_status_bar">@color/light_theme_primary_dark</color>
+
+    <!-- Dark Theme -->
+    <color name="dark_theme_primary_dark">#000000</color>
+    <color name="dark_theme_primary">#212121</color>
+    <color name="dark_theme_accent">#FF4B31</color>
+    <color name="dark_theme_background">#0B1137</color>
+    <color name="dark_theme_card_background">#303030</color>
+    <color name="dark_theme_snackbar">@color/dark_theme_card_background</color>
+    <color name="dark_theme_dialogs_button_color">@color/dark_theme_accent</color>
+    <color name="splash_dark_status_bar">@color/dark_theme_primary_dark</color>
+
+    <!-- FILTERS COLORS -->
+    <!-- Used Material Design 100 shade values -->
+    <string-array name="filters_colors">
+        <item>#F44336</item>
+        <item>#E91E63</item>
+        <item>#9C27B0</item>
+        <item>#673AB7</item>
+        <item>#3F51B5</item>
+        <item>#2196F3</item>
+        <item>#03A9F4</item>
+        <item>#00BCD4</item>
+        <item>#009688</item>
+        <item>#4CAF50</item>
+        <item>#8BC34A</item>
+        <item>#CDDC39</item>
+        <item>#FFEB3B</item>
+        <item>#FFC107</item>
+        <item>#FF9800</item>
+        <item>#FF5722</item>
+    </string-array>
+
+</resources>
+

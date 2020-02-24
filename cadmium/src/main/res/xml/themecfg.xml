@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theme>
+    <version>1.5.9</version>
+    <themeName>Phosphor Cadmium</themeName>
+    <themeInfo>Phosphor Cadmium is a minimal line-icon theme build on the Blueprint Dashboard.
+    </themeInfo>
+    <preview img1="preview1" />
+    <preview img2="preview2" />
+</theme>

@@ -13,5 +13,22 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-include ':mercury', ':carbon', ':common', ':krypton', ':helium', ':krypton'
-include ':cadmium'
+package com.tobiasfried.phosphor.cadmium
+
+import jahirfiquitiva.libs.blueprint.ui.BlueprintApp
+
+// TODO: Remove comment marks to enable
+// import com.onesignal.OneSignal
+
+class MyApplication : BlueprintApp() {
+    override fun onCreate() {
+        super.onCreate()
+        // TODO: Remove comment marks to enable
+        /*
+        OneSignal.startInit(this)
+                .inFocusDisplaying(OneSignal.OSInFocusDisplayOption.Notification)
+                .unsubscribeWhenNotificationsAreDisabled(true)
+                .init()
+                */
+    }
+}

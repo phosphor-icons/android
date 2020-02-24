@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/icons_preview_container"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_centerInParent="true"
+    android:layout_centerHorizontal="true"
+    android:layout_centerVertical="true"
+    android:layout_gravity="center"
+    android:clickable="false"
+    android:focusable="false"
+    android:descendantFocusability="blocksDescendants">
+
+    <jahirfiquitiva.libs.blueprint.ui.widgets.NonClickableRecyclerView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/icons_preview_grid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        android:padding="0dp"
+        android:layout_gravity="center"
+        android:clipChildren="false"
+        android:clipToPadding="false"
+        android:clickable="false"
+        android:focusable="false"
+        android:descendantFocusability="blocksDescendants" />
+
+</LinearLayout>

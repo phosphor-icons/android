@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="LightTheme.SplashScreen">
+        <item name="android:windowBackground">@drawable/splash_screen</item>
+        <item name="colorPrimaryDark">@color/splash_dark_status_bar</item>
+        <item name="colorAccent">@color/dark_theme_accent</item>
+        <item name="android:navigationBarColor">@color/splash_dark_status_bar</item>
+    </style>
+</resources>

@@ -13,5 +13,15 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-include ':mercury', ':carbon', ':common', ':krypton', ':helium', ':krypton'
-include ':cadmium'
+package com.tobiasfried.phosphor.cadmium
+
+/* TODO: Remove comment marks to enable
+import com.onesignal.NotificationExtenderService
+import com.onesignal.OSNotificationReceivedResult
+import jahirfiquitiva.libs.blueprint.helpers.utils.BPKonfigs
+
+class NotificationService : NotificationExtenderService() {
+    override fun onNotificationProcessing(notification: OSNotificationReceivedResult?): Boolean =
+            !BPKonfigs(this).notificationsEnabled
+}
+*/

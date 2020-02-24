@@ -13,5 +13,8 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-include ':mercury', ':carbon', ':common', ':krypton', ':helium', ':krypton'
-include ':cadmium'
+package com.tobiasfried.phosphor.cadmium
+
+import jahirfiquitiva.libs.frames.data.services.FramesArtProvider
+
+class MuzeiService : FramesArtProvider()
