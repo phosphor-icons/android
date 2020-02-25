@@ -12,13 +12,15 @@
     <string-array name="home_list_titles">
         <item>Phosphor</item>
         <item>Phosphor Carbon</item>
+        <item>Phosphor Cadmium</item>
         <item>Tobias Fried</item>
         <item>Promo Video</item>
         <item>r/AndroidThemes</item>
     </string-array>
     <string-array name="home_list_descriptions">
-        <item>Paint it white.</item>
+        <item>Show those pearly whites.</item>
         <item>Paint it black.</item>
+        <item>Put on the red light.</item>
         <item>Play Store developer page</item>
         <item>See Phosphor in action</item>
         <item>Android theming subreddit</item>
@@ -26,6 +28,7 @@
     <string-array name="home_list_icons">
         <item>phosphor</item>
         <item>phosphor_carbon</item>
+        <item>phosphor_cadmium</item>
         <item>google_play</item>
         <item>you__tube</item>
         <item>reddit</item>
@@ -33,6 +36,7 @@
     <string-array name="home_list_links">
         <item>https://play.google.com/store/apps/details?id=com.tobiasfried.phosphor.mercury</item>
         <item>https://play.google.com/store/apps/details?id=com.tobiasfried.phosphor</item>
+        <item>https://play.google.com/store/apps/details?id=com.tobiasfried.phosphor.cadmium</item>
         <item>https://play.google.com/store/apps/developer?id=Tobias+Fried</item>
         <item>https://youtu.be/r5dJblUfWHs</item>
         <item>https://www.reddit.com/r/androidthemes/</item>

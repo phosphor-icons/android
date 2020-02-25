@@ -51,6 +51,7 @@
         <item>amtrak</item>
         <item>ancestry</item>
         <item>android_auto</item>
+        <item>android_beta_feedback</item>
         <item>angry_birds</item>
         <item>anki__droid</item>
         <item>any___do</item>
@@ -72,6 +73,7 @@
         <item>aurora_droid</item>
         <item>aurora_store</item>
         <item>authy</item>
+        <item>autodesk_sketch__book</item>
         <item>autosync</item>
         <item>backdrops</item>
         <item>background_eraser</item>
@@ -183,6 +185,7 @@
         <item>dominos</item>
         <item>doodle_jump</item>
         <item>door__dash</item>
+        <item>dope__walls</item>
         <item>dots</item>
         <item>download_manager</item>
         <item>draw</item>
@@ -201,6 +204,7 @@
         <item>emergency_alerts</item>
         <item>___espn_fantasy</item>
         <item>___espn</item>
+        <item>etsy</item>
         <item>evernote</item>
         <item>evie_launcher</item>
         <item>facebook_alt</item>
@@ -222,11 +226,15 @@
         <item>fitbit</item>
         <item>flashlight_alt</item>
         <item>flashlight</item>
+        <item>fleksy_alt</item>
+        <item>fleksy</item>
         <item>flickr</item>
+        <item>flight</item>
         <item>flightradar24</item>
         <item>flipboard</item>
         <item>flipkart</item>
         <item>flo</item>
+        <item>flud</item>
         <item>fork</item>
         <item>foursquare</item>
         <item>fox_news</item>
@@ -303,6 +311,7 @@
         <item>guitar__tuna</item>
         <item>hacker_news_alt</item>
         <item>hacker_news</item>
+        <item>h_and_m</item>
         <item>___hbo_go</item>
         <item>___hbo_now</item>
         <item>headspace_alt_2</item>
@@ -319,7 +328,12 @@
         <item>hotel__tonight_alt</item>
         <item>hotel__tonight</item>
         <item>hotstar</item>
+        <item>huawei_backup</item>
         <item>huawei_game_suite</item>
+        <item>huawei_hi__care</item>
+        <item>huawei_notepad</item>
+        <item>huawei_optimizer</item>
+        <item>huawei_video</item>
         <item>hue</item>
         <item>huji_cam</item>
         <item>hulu</item>
@@ -356,6 +370,7 @@
         <item>kee__pass</item>
         <item>kickstarter</item>
         <item>kik</item>
+        <item>kiwi_browser</item>
         <item>kustom_k___apk</item>
         <item>kustom_k___lck</item>
         <item>kustom_k___lwp</item>
@@ -363,12 +378,14 @@
         <item>kustom_k__weather</item>
         <item>kustom_k___wgt</item>
         <item>kustom</item>
+        <item>last__pass_authenticator</item>
         <item>last__pass</item>
         <item>lawnchair_launcher</item>
         <item>life360</item>
         <item>lime__line</item>
         <item>linebit</item>
         <item>linked__in</item>
+        <item>lookout</item>
         <item>lucid_launcher</item>
         <item>lyft</item>
         <item>magisk_manager</item>
@@ -376,10 +393,13 @@
         <item>meet__me</item>
         <item>meetup</item>
         <item>___mega</item>
+        <item>memoria</item>
         <item>merriam_webster_dictionary</item>
         <item>messages_alt</item>
         <item>messages</item>
+        <item>me__we</item>
         <item>mic_alt</item>
+        <item>mi_community</item>
         <item>mic</item>
         <item>microsoft_authenticator</item>
         <item>microsoft_bing</item>
@@ -463,9 +483,13 @@
         <item>patreon</item>
         <item>pay__pal</item>
         <item>paytm</item>
+        <item>periodic_table</item>
         <item>phone_alt</item>
+        <item>phone_clone</item>
         <item>phone__pe</item>
         <item>phone</item>
+        <item>phonograph</item>
+        <item>phosphor_cadmium</item>
         <item>phosphor_carbon</item>
         <item>phosphor_helium</item>
         <item>phosphor_krypton</item>
@@ -501,6 +525,7 @@
         <item>___qq_mail</item>
         <item>___qq</item>
         <item>quartz</item>
+        <item>quick__pic</item>
         <item>quora</item>
         <item>radio</item>
         <item>___rar</item>
@@ -530,12 +555,16 @@
         <item>samsung_notes</item>
         <item>samsung_pass</item>
         <item>samsung_pay</item>
+        <item>samsung_p___enup</item>
         <item>samsung_reminder</item>
+        <item>samsung_secure_folder</item>
         <item>samsung_side__sync</item>
+        <item>samsung_smart_switch</item>
         <item>samsung_smart__things</item>
         <item>samsung_s_note</item>
         <item>samsung_s_voice</item>
         <item>samsung_video_library</item>
+        <item>samsung_voice_recorder</item>
         <item>samsung_wear</item>
         <item>screener</item>
         <item>___sd_card</item>
@@ -568,6 +597,7 @@
         <item>solo_launcher</item>
         <item>sony_headphones</item>
         <item>sony_playstation_app</item>
+        <item>sony_playstation_messages</item>
         <item>soundcloud</item>
         <item>soundhound</item>
         <item>sound_recorder</item>
@@ -582,6 +612,7 @@
         <item>starz</item>
         <item>state_farm_alt</item>
         <item>state_farm</item>
+        <item>steam_chat</item>
         <item>steam</item>
         <item>stitcher</item>
         <item>stocard</item>
@@ -596,12 +627,14 @@
         <item>sync_for_reddit</item>
         <item>system___ui_tuner</item>
         <item>system_updates</item>
+        <item>tachiyomi</item>
         <item>talon</item>
         <item>tango</item>
         <item>taobao</item>
         <item>target</item>
         <item>tasker</item>
         <item>___td_bank</item>
+        <item>team__viewer</item>
         <item>teardrop</item>
         <item>___ted</item>
         <item>telegram</item>
@@ -624,11 +657,13 @@
         <item>toon_blast_alt</item>
         <item>toon_blast</item>
         <item>torr___se</item>
+        <item>transfer</item>
         <item>transit</item>
         <item>travel</item>
         <item>trello</item>
         <item>truecaller</item>
         <item>_tumblr</item>
+        <item>tune__in_radio</item>
         <item>twitch</item>
         <item>twitter</item>
         <item>two_dots</item>
@@ -636,6 +671,8 @@
         <item>uber</item>
         <item>udacity</item>
         <item>udemy</item>
+        <item>ultimate_guitar_tabs</item>
+        <item>under_armour</item>
         <item>unified_remote</item>
         <item>universal_copy</item>
         <item>___ups_alt</item>
@@ -647,6 +684,7 @@
         <item>verizon_my_fios</item>
         <item>video</item>
         <item>vimeo</item>
+        <item>viral</item>
         <item>virtual_wallet</item>
         <item>viva__video</item>
         <item>___vlc</item>
@@ -668,6 +706,8 @@
         <item>web</item>
         <item>we__chat</item>
         <item>wells_fargo</item>
+        <item>_what3words_alt</item>
+        <item>_what3words</item>
         <item>whats__app</item>
         <item>wikipedia</item>
         <item>wolfram__alpha</item>
@@ -685,6 +725,7 @@
         <item>yahoo_sports</item>
         <item>yahoo_weather</item>
         <item>yelp</item>
+        <item>y__music</item>
         <item>you__cam_perfect</item>
         <item>youku</item>
         <item>you__tube_gaming</item>
@@ -782,6 +823,7 @@
         <item>amtrak</item>
         <item>ancestry</item>
         <item>android_auto</item>
+        <item>android_beta_feedback</item>
         <item>angry_birds</item>
         <item>anki__droid</item>
         <item>any___do</item>
@@ -803,6 +845,7 @@
         <item>aurora_droid</item>
         <item>aurora_store</item>
         <item>authy</item>
+        <item>autodesk_sketch__book</item>
         <item>autosync</item>
         <item>backdrops</item>
         <item>background_eraser</item>
@@ -914,6 +957,7 @@
         <item>dominos</item>
         <item>doodle_jump</item>
         <item>door__dash</item>
+        <item>dope__walls</item>
         <item>dots</item>
         <item>download_manager</item>
         <item>draw</item>
@@ -932,6 +976,7 @@
         <item>emergency_alerts</item>
         <item>___espn_fantasy</item>
         <item>___espn</item>
+        <item>etsy</item>
         <item>evernote</item>
         <item>evie_launcher</item>
         <item>facebook_alt</item>
@@ -953,11 +998,15 @@
         <item>fitbit</item>
         <item>flashlight_alt</item>
         <item>flashlight</item>
+        <item>fleksy_alt</item>
+        <item>fleksy</item>
         <item>flickr</item>
+        <item>flight</item>
         <item>flightradar24</item>
         <item>flipboard</item>
         <item>flipkart</item>
         <item>flo</item>
+        <item>flud</item>
         <item>fork</item>
         <item>foursquare</item>
         <item>fox_news</item>
@@ -1034,6 +1083,7 @@
         <item>guitar__tuna</item>
         <item>hacker_news_alt</item>
         <item>hacker_news</item>
+        <item>h_and_m</item>
         <item>___hbo_go</item>
         <item>___hbo_now</item>
         <item>headspace_alt_2</item>
@@ -1050,7 +1100,12 @@
         <item>hotel__tonight_alt</item>
         <item>hotel__tonight</item>
         <item>hotstar</item>
+        <item>huawei_backup</item>
         <item>huawei_game_suite</item>
+        <item>huawei_hi__care</item>
+        <item>huawei_notepad</item>
+        <item>huawei_optimizer</item>
+        <item>huawei_video</item>
         <item>hue</item>
         <item>huji_cam</item>
         <item>hulu</item>
@@ -1087,6 +1142,7 @@
         <item>kee__pass</item>
         <item>kickstarter</item>
         <item>kik</item>
+        <item>kiwi_browser</item>
         <item>kustom_k___apk</item>
         <item>kustom_k___lck</item>
         <item>kustom_k___lwp</item>
@@ -1094,12 +1150,14 @@
         <item>kustom_k__weather</item>
         <item>kustom_k___wgt</item>
         <item>kustom</item>
+        <item>last__pass_authenticator</item>
         <item>last__pass</item>
         <item>lawnchair_launcher</item>
         <item>life360</item>
         <item>lime__line</item>
         <item>linebit</item>
         <item>linked__in</item>
+        <item>lookout</item>
         <item>lucid_launcher</item>
         <item>lyft</item>
         <item>magisk_manager</item>
@@ -1107,10 +1165,13 @@
         <item>meet__me</item>
         <item>meetup</item>
         <item>___mega</item>
+        <item>memoria</item>
         <item>merriam_webster_dictionary</item>
         <item>messages_alt</item>
         <item>messages</item>
+        <item>me__we</item>
         <item>mic_alt</item>
+        <item>mi_community</item>
         <item>mic</item>
         <item>microsoft_authenticator</item>
         <item>microsoft_bing</item>
@@ -1194,9 +1255,13 @@
         <item>patreon</item>
         <item>pay__pal</item>
         <item>paytm</item>
+        <item>periodic_table</item>
         <item>phone_alt</item>
+        <item>phone_clone</item>
         <item>phone__pe</item>
         <item>phone</item>
+        <item>phonograph</item>
+        <item>phosphor_cadmium</item>
         <item>phosphor_carbon</item>
         <item>phosphor_helium</item>
         <item>phosphor_krypton</item>
@@ -1232,6 +1297,7 @@
         <item>___qq_mail</item>
         <item>___qq</item>
         <item>quartz</item>
+        <item>quick__pic</item>
         <item>quora</item>
         <item>radio</item>
         <item>___rar</item>
@@ -1261,12 +1327,16 @@
         <item>samsung_notes</item>
         <item>samsung_pass</item>
         <item>samsung_pay</item>
+        <item>samsung_p___enup</item>
         <item>samsung_reminder</item>
+        <item>samsung_secure_folder</item>
         <item>samsung_side__sync</item>
+        <item>samsung_smart_switch</item>
         <item>samsung_smart__things</item>
         <item>samsung_s_note</item>
         <item>samsung_s_voice</item>
         <item>samsung_video_library</item>
+        <item>samsung_voice_recorder</item>
         <item>samsung_wear</item>
         <item>screener</item>
         <item>___sd_card</item>
@@ -1299,6 +1369,7 @@
         <item>solo_launcher</item>
         <item>sony_headphones</item>
         <item>sony_playstation_app</item>
+        <item>sony_playstation_messages</item>
         <item>soundcloud</item>
         <item>soundhound</item>
         <item>sound_recorder</item>
@@ -1313,6 +1384,7 @@
         <item>starz</item>
         <item>state_farm_alt</item>
         <item>state_farm</item>
+        <item>steam_chat</item>
         <item>steam</item>
         <item>stitcher</item>
         <item>stocard</item>
@@ -1327,12 +1399,14 @@
         <item>sync_for_reddit</item>
         <item>system___ui_tuner</item>
         <item>system_updates</item>
+        <item>tachiyomi</item>
         <item>talon</item>
         <item>tango</item>
         <item>taobao</item>
         <item>target</item>
         <item>tasker</item>
         <item>___td_bank</item>
+        <item>team__viewer</item>
         <item>teardrop</item>
         <item>___ted</item>
         <item>telegram</item>
@@ -1355,11 +1429,13 @@
         <item>toon_blast_alt</item>
         <item>toon_blast</item>
         <item>torr___se</item>
+        <item>transfer</item>
         <item>transit</item>
         <item>travel</item>
         <item>trello</item>
         <item>truecaller</item>
         <item>_tumblr</item>
+        <item>tune__in_radio</item>
         <item>twitch</item>
         <item>twitter</item>
         <item>two_dots</item>
@@ -1367,6 +1443,8 @@
         <item>uber</item>
         <item>udacity</item>
         <item>udemy</item>
+        <item>ultimate_guitar_tabs</item>
+        <item>under_armour</item>
         <item>unified_remote</item>
         <item>universal_copy</item>
         <item>___ups_alt</item>
@@ -1378,6 +1456,7 @@
         <item>verizon_my_fios</item>
         <item>video</item>
         <item>vimeo</item>
+        <item>viral</item>
         <item>virtual_wallet</item>
         <item>viva__video</item>
         <item>___vlc</item>
@@ -1399,6 +1478,8 @@
         <item>web</item>
         <item>we__chat</item>
         <item>wells_fargo</item>
+        <item>_what3words_alt</item>
+        <item>_what3words</item>
         <item>whats__app</item>
         <item>wikipedia</item>
         <item>wolfram__alpha</item>
@@ -1416,6 +1497,7 @@
         <item>yahoo_sports</item>
         <item>yahoo_weather</item>
         <item>yelp</item>
+        <item>y__music</item>
         <item>you__cam_perfect</item>
         <item>youku</item>
         <item>you__tube_gaming</item>
@@ -1436,43 +1518,49 @@
     </string-array>
 
     <string-array name="recent">
-        <item>___oyo</item>
-        <item>___ppsspp</item>
-        <item>___snow</item>
-        <item>___snow_alt</item>
-        <item>anki__droid</item>
-        <item>audiobook</item>
-        <item>audiobook_alt</item>
-        <item>autosync</item>
-        <item>canvas_student</item>
-        <item>collect</item>
-        <item>color_palette</item>
-        <item>education_alt</item>
-        <item>facebook_messenger_lite</item>
+        <item>android_beta_feedback</item>
+        <item>autodesk_sketch__book</item>
+        <item>dope__walls</item>
+        <item>etsy</item>
         <item>fingerprint</item>
-        <item>first_aid</item>
-        <item>first_aid_alt</item>
-        <item>globe</item>
-        <item>guitar__tuna</item>
-        <item>health</item>
-        <item>hooq</item>
-        <item>hotstar</item>
-        <item>icon_pack_studio</item>
-        <item>inoreader</item>
-        <item>journey</item>
-        <item>kamijara</item>
-        <item>kickstarter</item>
-        <item>minima__list</item>
-        <item>minimal_o</item>
-        <item>moon_reader</item>
-        <item>moon_reader_alt</item>
-        <item>moon_reader_alt_2</item>
-        <item>muviz</item>
-        <item>new__pipe</item>
-        <item>nova_launcher_unread</item>
-        <item>printer</item>
-        <item>t_mobile_unlock</item>
-        <item>tick__tick</item>
+        <item>fleksy_alt</item>
+        <item>fleksy</item>
+        <item>flight</item>
+        <item>flud</item>
+        <item>h_and_m</item>
+        <item>huawei_backup</item>
+        <item>huawei_hi__care</item>
+        <item>huawei_notepad</item>
+        <item>huawei_optimizer</item>
+        <item>huawei_video</item>
+        <item>kiwi_browser</item>
+        <item>last__pass_authenticator</item>
+        <item>lookout</item>
+        <item>memoria</item>
+        <item>me__we</item>
+        <item>mi_community</item>
+        <item>periodic_table</item>
+        <item>phone_clone</item>
+        <item>phonograph</item>
+        <item>phosphor_cadmium</item>
+        <item>quick__pic</item>
+        <item>samsung_p___enup</item>
+        <item>samsung_secure_folder</item>
+        <item>samsung_smart_switch</item>
+        <item>samsung_s_note</item>
+        <item>samsung_voice_recorder</item>
+        <item>sony_playstation_messages</item>
+        <item>steam_chat</item>
+        <item>tachiyomi</item>
+        <item>team__viewer</item>
+        <item>transfer</item>
+        <item>tune__in_radio</item>
+        <item>ultimate_guitar_tabs</item>
+        <item>under_armour</item>
+        <item>viral</item>
+        <item>_what3words_alt</item>
+        <item>_what3words</item>
+        <item>y__music</item>
     </string-array>
 
     <string-array name="banking">
@@ -1551,6 +1639,9 @@
         <item>you__tube_studio</item>
         <item>___snow</item>
         <item>___snow_alt</item>
+        <item>autodesk_sketch__book</item>
+        <item>samsung_p___enup</item>
+        <item>ultimate_guitar_tabs</item>
     </string-array>
 
     <string-array name="education">
@@ -1575,6 +1666,7 @@
         <item>anki__droid</item>
         <item>canvas_student</item>
         <item>education_alt</item>
+        <item>periodic_table</item>
     </string-array>
 
     <string-array name="food">
@@ -1623,6 +1715,8 @@
         <item>xbox</item>
         <item>you__tube_gaming</item>
         <item>___ppsspp</item>
+        <item>sony_playstation_messages</item>
+        <item>steam_chat</item>
     </string-array>
 
     <string-array name="google">
@@ -1698,6 +1792,7 @@
         <item>first_aid</item>
         <item>first_aid_alt</item>
         <item>health</item>
+        <item>under_armour</item>
     </string-array>
 
     <string-array name="lifestyle">
@@ -1800,6 +1895,13 @@
         <item>moon_reader_alt</item>
         <item>moon_reader_alt_2</item>
         <item>new__pipe</item>
+        <item>huawei_video</item>
+        <item>memoria</item>
+        <item>phonograph</item>
+        <item>quick__pic</item>
+        <item>tachiyomi</item>
+        <item>tune__in_radio</item>
+        <item>y__music</item>
     </string-array>
 
     <string-array name="messaging">
@@ -1845,6 +1947,8 @@
         <item>we__chat</item>
         <item>whats__app</item>
         <item>yahoo_mail</item>
+        <item>sony_playstation_messages</item>
+        <item>steam_chat</item>
     </string-array>
 
     <string-array name="news_and_weather">
@@ -1959,6 +2063,10 @@
         <item>minimal_o</item>
         <item>muviz</item>
         <item>nova_launcher_unread</item>
+        <item>dope__walls</item>
+        <item>flight</item>
+        <item>phosphor_cadmium</item>
+        <item>viral</item>
     </string-array>
 
     <string-array name="productivity">
@@ -2060,6 +2168,10 @@
         <item>collect</item>
         <item>minima__list</item>
         <item>tick__tick</item>
+        <item>huawei_notepad</item>
+        <item>samsung_s_note</item>
+        <item>team__viewer</item>
+
     </string-array>
 
     <string-array name="security">
@@ -2086,6 +2198,10 @@
         <item>samsung_pass</item>
         <item>fingerprint</item>
         <item>t_mobile_unlock</item>
+        <item>fingerprint</item>
+        <item>last__pass_authenticator</item>
+        <item>lookout</item>
+        <item>samsung_secure_folder</item>
     </string-array>
 
     <string-array name="shopping">
@@ -2104,6 +2220,9 @@
         <item>target</item>
         <item>ticketmaster</item>
         <item>walmart</item>
+        <item>etsy</item>
+        <item>h_and_m</item>
+        <item>under_armour</item>
     </string-array>
 
     <string-array name="social">
@@ -2157,6 +2276,9 @@
         <item>twitter</item>
         <item>collect</item>
         <item>kickstarter</item>
+        <item>me__we</item>
+        <item>mi_community</item>
+        <item>samsung_p___enup</item>
     </string-array>
 
     <string-array name="sports">
@@ -2193,6 +2315,9 @@
         <item>waze</item>
         <item>globe</item>
         <item>___oyo</item>
+        <item>globe</item>
+        <item>_what3words</item>
+        <item>_what3words_alt</item>
     </string-array>
 
     <string-array name="utilities">
@@ -2299,6 +2424,20 @@
         <item>guitar__tuna</item>
         <item>new__pipe</item>
         <item>printer</item>
+        <item>android_beta_feedback</item>
+        <item>fleksy</item>
+        <item>fleksy_alt</item>
+        <item>flud</item>
+        <item>huawei_backup</item>
+        <item>huawei_hi__care</item>
+        <item>huawei_optimizer</item>
+        <item>phone_clone</item>
+        <item>samsung_secure_folder</item>
+        <item>samsung_smart_switch</item>
+        <item>samsung_voice_recorder</item>
+        <item>transfer</item>
+        <item>_what3words</item>
+        <item>_what3words_alt</item>
     </string-array>
 
     <string-array name="web">
@@ -2330,6 +2469,8 @@
         <item>web_alt</item>
         <item>web_alt_2</item>
         <item>yahoo</item>
+        <item>flud</item>
+        <item>kiwi_browser</item>
     </string-array>
 
 </resources>

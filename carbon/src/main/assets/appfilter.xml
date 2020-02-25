@@ -4592,7 +4592,7 @@
 
   <!-- Phosphor -->
   <item component="ComponentInfo{com.tobiasfried.phosphor.mercury/com.tobiasfried.phosphor.mercury.MainActivity}" drawable="phosphor"/>
-  <item component="ComponentInfo{com.tobiasfried.phosphor/com.tobiasfried.phosphor.cadmium.MainActivity}" drawable="phosphor_cadmium"/>
+  <item component="ComponentInfo{com.tobiasfried.phosphor.cadmium/com.tobiasfried.phosphor.cadmium.MainActivity}" drawable="phosphor_cadmium"/>
   <item component="ComponentInfo{com.tobiasfried.phosphor/com.tobiasfried.phosphor.MainActivity}" drawable="phosphor_carbon"/>
   <item component="ComponentInfo{com.tobiasfried.phosphor/com.tobiasfried.phosphor.activities.SplashActivity}" drawable="phosphor_carbon"/>
   <item component="ComponentInfo{com.tobiasfried.phosphor.helium/com.tobiasfried.phosphor.helium.MainActivity}" drawable="phosphor_helium"/>
@@ -6302,7 +6302,7 @@
 
   <!-- Under Armour MyFitnessPal -->
   <item component="ComponentInfo{com.myfitnesspal.android/com.myfitnesspal.android.login.Welcome}" drawable="under_armour" />
-  
+
   <!-- Underlords -->
   <!-- <item component="ComponentInfo{com.valvesoftware.underlords/com.valvesoftware.underlords.applauncher}" drawable="underlords"/> -->
 
