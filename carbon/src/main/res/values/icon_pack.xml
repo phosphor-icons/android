@@ -1920,7 +1920,7 @@
         <item>google_voice</item>
         <item>group__me</item>
         <item>___icq</item>
-        <item>imo</item>
+        <item>_imo</item>
         <item>kik</item>
         <item>meet__me</item>
         <item>messages</item>
@@ -2179,7 +2179,7 @@
         <item>adblock</item>
         <item>adblock_alt</item>
         <item>ad_block_plus</item>
-        <item>adguard</item>
+        <item>ad__guard</item>
         <item>authy</item>
         <item>bit__defender</item>
         <item>bitwarden</item>
@@ -2445,7 +2445,7 @@
         <item>ad_block_plus</item>
         <item>adblock</item>
         <item>adblock_alt</item>
-        <item>adguard</item>
+        <item>ad__guard</item>
         <item>___adm</item>
         <item>bit__defender</item>
         <item>bitwarden</item>
