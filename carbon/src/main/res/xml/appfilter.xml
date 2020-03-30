@@ -30,7 +30,7 @@
   <item component=":LAUNCHER_ACTION_APP_DRAWER" drawable="apps"/>
 
   <!-- VERSION NUMBER CORRESPONDS TO APP versionCode -->
-  <version>21</version>
+  <version>22</version>
 
   <!-- 1.1.1.1 -->
   <item component="ComponentInfo{com.cloudflare.onedotonedotonedotone/com.cloudflare.app.presentation.main.MainActivity}" drawable="_1_1_1_1"/>

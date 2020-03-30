@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <version>21</version>
+    <version>22</version>
 
     <category title="Recent" />
     <item drawable="android_beta_feedback" />
@@ -397,7 +397,7 @@
     <item drawable="google_voice"/>
     <item drawable="group__me" />
     <item drawable="___icq" />
-    <item drawable="imo"/>
+    <item drawable="_imo"/>
     <item drawable="kik" />
     <item drawable="meet__me" />
     <item drawable="___mega" />
@@ -653,7 +653,7 @@
     <item drawable="adblock"/>
     <item drawable="adblock_alt"/>
     <item drawable="ad_block_plus"/>
-    <item drawable="adguard" />
+    <item drawable="ad__guard" />
     <item drawable="authy"/>
     <item drawable="bit__defender" />
     <item drawable="bitwarden" />
@@ -911,7 +911,7 @@
     <item drawable="ad_block_plus"/>
     <item drawable="adblock_alt"/>
     <item drawable="adblock"/>
-    <item drawable="adguard" />
+    <item drawable="ad__guard" />
     <item drawable="___adm" />
     <item drawable="bit__defender" />
     <item drawable="bitwarden" />

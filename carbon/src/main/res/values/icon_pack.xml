@@ -158,7 +158,7 @@
       <item>clock</item>
       <item>cloud_alt</item>
       <item>cloud</item>
-      <item>cnn</item>
+      <item>___cnn</item>
       <item>coinbase_alt</item>
       <item>coinbase</item>
       <item>collect</item>
@@ -930,7 +930,7 @@
       <item>clock</item>
       <item>cloud_alt</item>
       <item>cloud</item>
-      <item>cnn</item>
+      <item>___cnn</item>
       <item>coinbase_alt</item>
       <item>coinbase</item>
       <item>collect</item>
@@ -1607,6 +1607,7 @@
         <item>background_eraser</item>
         <item>behance</item>
         <item>camera</item>
+        <item>camera_alt</item>
         <item>deviant__art</item>
         <item>deviant__art_alt</item>
         <item>draw</item>
@@ -1656,6 +1657,7 @@
         <item>elsa_speak</item>
         <item>headspace</item>
         <item>headspace_alt</item>
+        <item>headspace_alt_2</item>
         <item>merriam_webster_dictionary</item>
         <item>stack_exchange</item>
         <item>___ted</item>
@@ -1956,7 +1958,7 @@
         <item>___ap_news</item>
         <item>___bbc</item>
         <item>___cbs</item>
-        <item>cnn</item>
+        <item>___cnn</item>
         <item>feedly</item>
         <item>flipboard</item>
         <item>fox_news</item>

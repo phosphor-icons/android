@@ -30,7 +30,7 @@
   <item component=":LAUNCHER_ACTION_APP_DRAWER" drawable="apps"/>
 
   <!-- VERSION NUMBER CORRESPONDS TO APP versionCode -->
-  <version>21</version>
+  <version>22</version>
 
   <!-- 1.1.1.1 -->
   <item component="ComponentInfo{com.cloudflare.onedotonedotonedotone/com.cloudflare.app.presentation.main.MainActivity}" drawable="_1_1_1_1"/>
@@ -744,7 +744,7 @@
 	<item component="ComponentInfo{com.bank.on.mobile/com.bank.on.mobile.MainActivity}" drawable="banking_alt"/>
 
   <!-- Bankwest -->
-  <!-- <item component="ComponentInfo{au.com.bankwest.mobile/au.com.bankwest.mobile.activity.AppStartActivity}" drawable="bankwest"/> -->
+  <item component="ComponentInfo{au.com.bankwest.mobile/au.com.bankwest.mobile.activity.AppStartActivity}" drawable="bankwest"/>
 
   <!-- Barcode Scanner -->
   <item component="ComponentInfo{com.google.zxing.client.android/com.google.zxing.client.android.CaptureActivity}" drawable="barcode_scanner"/>
@@ -1347,7 +1347,7 @@
   <!--<item component="ComponentInfo{com.citibikenyc.citibike/com.citibikenyc.citibike.ui.main.SplashActivity}" drawable="citi_bike"/>-->
 
   <!-- Citizen -->
-  <!-- <item component="ComponentInfo{sp0n.citizen/sp0n.citizen.splash.SplashActivity}" drawable="citizen"/> -->
+  <item component="ComponentInfo{sp0n.citizen/sp0n.citizen.splash.SplashActivity}" drawable="citizen"/>
 
   <!-- Citizens Bank -->
 	<!-- <item component="ComponentInfo{com.citizensbank.androidapp/com.citizensbank.androidapp.activities.Load_Screen}" drawable="citizens_bank"/> -->
@@ -1997,7 +1997,7 @@
   <!-- <item component="ComponentInfo{com.lknninex.enix/com.lknninex.enix.MainActivity}" drawable="enix"/> -->
 
   <!-- Enki -->
-  <!--<item component="ComponentInfo{com.enki.insights/com.enki.insights.MainActivity}" drawable="enki" />-->
+  <item component="ComponentInfo{com.enki.insights/com.enki.insights.MainActivity}" drawable="enki" />
 
   <!-- Enpass -->
   <!-- <item component="ComponentInfo{io.enpass.app/io.enpass.app.SplashScreenActivity}" drawable="enpass"/> -->
@@ -3146,7 +3146,7 @@
   <!-- <item component="ComponentInfo{com.sikebo.ijuk.icons.simple/com.sikebo.ijuk.icons.simple.activities.SplashActivity}" drawable="_i__juk"/> -->
 
   <!-- IKEA -->
-	<!-- <item component="ComponentInfo{com.ingka.ikea.app/com.ingka.ikea.app.SplashActivity}" drawable="___ikea"/> -->
+	<item component="ComponentInfo{com.ingka.ikea.app/com.ingka.ikea.app.SplashActivity}" drawable="___ikea"/>
 
   <!-- IMDb -->
   <item component="ComponentInfo{com.imdb.mobile/com.imdb.mobile.HomeActivity}" drawable="___im__db"/>
@@ -4295,7 +4295,7 @@
   <item component="ComponentInfo{com.nytimes.android/com.nytimes.android.MainActivity}" drawable="___ny__times"/>
 
   <!-- New York Times Crossword -->
-  <!--<item component="ComponentInfo{com.nytimes.crossword/com.nytimes.crosswordlib.activity.MainActivity}" drawable="___ny__times_crossword" />-->
+  <item component="ComponentInfo{com.nytimes.crossword/com.nytimes.crosswordlib.activity.MainActivity}" drawable="___ny__times_crossword" />
 
   <!-- Newegg -->
   <!--<item component="ComponentInfo{com.newegg.app/com.newegg.app.MainActivity}" drawable="newegg" />-->
@@ -6286,14 +6286,16 @@
   <!-- TripAdvisor -->
   <item component="ComponentInfo{com.tripadvisor.tripadvisor.amazon/com.tripadvisor.tripadvisor.amazon.TripAdvisorAmazonActivity}" drawable="trip__advisor" />
   <item component="ComponentInfo{com.tripadvisor.tripadvisor.daodao/com.tripadvisor.tripadvisor.daodao.TripAdvisorDaoDaoActivity}" drawable="trip__advisor" />
+  <item component="ComponentInfo{com.tripadvisor.tripadvisor.daodao.launch.TripAdvisorDaoDaoActivity}" drawable="trip__advisor" />
   <item component="ComponentInfo{com.tripadvisor.tripadvisor.samsung/com.tripadvisor.tripadvisor.samsung.TripAdvisorSamsungActivity}" drawable="trip__advisor" />
   <item component="ComponentInfo{com.tripadvisor.tripadvisor.vodafonesmart/com.tripadvisor.tripadvisor.vodafonesmart.TripAdvisorVodafoneSmartActivity}" drawable="trip__advisor" />
   <item component="ComponentInfo{com.tripadvisor.tripadvisor/com.tripadvisor.android.lib.tamobile.activities.SplashScreenActivity}" drawable="trip__advisor" />
   <item component="ComponentInfo{com.tripadvisor.tripadvisor/com.tripadvisor.tripadvisor.TripAdvisorTripAdvisorActivity}" drawable="trip__advisor" />
   <item component="ComponentInfo{com.tripadvisor.tripadvisor/com.tripadvisor.tripadvisor.TripAdvisor}" drawable="trip__advisor" />
+  <item component="ComponentInfo{com.tripadvisor.android.lib.tamobile.activities.HomeActivity}" drawable="trip__advisor" />
 
   <!-- triple j -->
-	<!-- <item component="ComponentInfo{au.net.abc.triplej/au.net.abc.triplej.mainscreen.MainActivity}" drawable="triple_j"/> -->
+  <!-- <item component="ComponentInfo{au.net.abc.triplej/au.net.abc.triplej.mainscreen.MainActivity}" drawable="triple_j"/> -->
 
   <!-- Tripoto -->
   <!-- <item component="ComponentInfo{com.tripoto/com.tripoto.splash.Splash}" drawable="tripoto"/> -->
@@ -6336,7 +6338,7 @@
   <!-- <item component="ComponentInfo{dk.tv2.tv2play/dk.tv2.tv2play.ui.splash.SplashActivity}" drawable="___tv_2_play"/> -->
 
   <!-- TV Time -->
-  <!-- <item component="ComponentInfo{com.tozelabs.tvshowtime/com.tozelabs.tvshowtime.activity.KMainActivity_}" drawable="___tv_time"/> -->
+  <item component="ComponentInfo{com.tozelabs.tvshowtime/com.tozelabs.tvshowtime.activity.KMainActivity_}" drawable="___tv_time"/>
 
   <!-- Twidere -->
   <!-- <item component="ComponentInfo{org.mariotaku.twidere/org.mariotaku.twidere.activity.MainActivity}" drawable="twidere"/> -->
@@ -6495,7 +6497,7 @@
   <!-- <item component="ComponentInfo{com.vice.viceforandroid/com.vice.sharedcode.UI.LaunchActivity}" drawable="___vice"/> -->
 
   <!-- Video MP3 Converter -->
-  <!-- <item component="ComponentInfo{com.fundevs.app.mediaconverter/com.fundevs.app.mediaconverter.SplashActivity}" drawable="video_m__p3_converter"/> -->
+  <item component="ComponentInfo{com.fundevs.app.mediaconverter/com.fundevs.app.mediaconverter.SplashActivity}" drawable="video_m__p3_converter"/>
 
   <!-- Video TV Slideshow -->
   <!-- <item component="ComponentInfo{com.sony.tvsideview.phone/com.sony.tvsideview.MainActivity}" drawable="video_t__v_sideview"/> -->
@@ -6834,7 +6836,7 @@
   <!--<item component="ComponentInfo{com.compscieddy.writeaday/com.compscieddy.writeaday.activities.LandingActivity}" drawable="_writeaday" />-->
 
   <!-- Wunderlist -->
-	<!-- <item component="ComponentInfo{com.wunderkinder.wunderlistandroid/com.wunderkinder.wunderlistandroid.activity.WLMainFragmentActivity}" drawable="wunderlist"/> -->
+	<item component="ComponentInfo{com.wunderkinder.wunderlistandroid/com.wunderkinder.wunderlistandroid.activity.WLMainFragmentActivity}" drawable="wunderlist"/>
 
   <!-- Wynk Music -->
   <item component="ComponentInfo{com.bsbportal.music/com.bsbportal.music.activities.LauncherScreenActivity}" drawable="music"/>
@@ -6981,7 +6983,7 @@
   <item component="ComponentInfo{net.zedge.android/net.zedge.android.Main}" drawable="zedge" />
 
   <!-- ZEE5 -->
-  <!-- <item component="ComponentInfo{com.graymatrix.did/com.graymatrix.did.splash.SplashActivity}" drawable="___zee5"/> -->
+  <item component="ComponentInfo{com.graymatrix.did/com.graymatrix.did.splash.SplashActivity}" drawable="___zee5"/>
 
   <!-- Zelle -->
   <item component="ComponentInfo{com.zellepay.zelle/com.earlywarning.zelle.ui.splash.SplashActivity}" drawable="zelle"/>
