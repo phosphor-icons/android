@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <version title="v1.6.0" />
+    <item text="Added 43 new icons" />
+    <item text="New icon request flow, which means we'll be more capable of fielding requests by popularity and getting them out to you!" />
     <version title="v1.5.10" />
     <item text="New color pack!" />
     <item text="Added 41 new icons" />
