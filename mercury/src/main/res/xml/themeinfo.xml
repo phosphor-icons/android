@@ -2,8 +2,8 @@
 <!-- This is for Atom Launcher -->
 <themeInfo>
     <packageName>com.tobiasfried.phosphor.mercury</packageName>
-    <versionName>1.6.0</versionName>
-    <versionCode>22</versionCode>
+    <versionName>1.6.1</versionName>
+    <versionCode>23</versionCode>
     <themeName>Phosphor</themeName>
     <!-- Default Component Color -->
     <themePointColor>#00b0ff</themePointColor>
