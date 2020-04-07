@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <version title="v1.6.2" />
+    <item text="Added Privacy Policy to assuage the gods of the Play Store" />
     <version title="v1.6.1" />
     <item text="Fixed automatic theming for 90+ icons" />
     <version title="v1.6.0" />
@@ -7,8 +9,5 @@
     <item text="New icon request flow, which means we'll be more capable of fielding requests by popularity and getting them out to you!" />
     <version title="v1.5.10" />
     <item text="Added 41 new icons" />
-    <item text="New FREE color available! Check out Phosphor Cadmium in the Play Store" />
-    <version title="v1.5.9" />
-    <item text="Added 40 new icons" />
-    <item text="New color coming soon!" />
+    <item text="New FREE colorway!" />
 </resources>
