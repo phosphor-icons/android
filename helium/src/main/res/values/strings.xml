@@ -34,7 +34,7 @@
     <string name="default_download_folder">%1$s/Phosphor/Wallpapers</string>
 
     <!-- Privacy Policy link or url -->
-    <string name="privacy_policy_link">""</string>
+    <string name="privacy_policy_link">"https://tobiasfried.com/phosphor-privacy-policy.html"</string>
 
     <!-- Terms and Conditions link or url -->
     <string name="terms_conditions_link">""</string>
