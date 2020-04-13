@@ -32,6 +32,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/MySplashScreen"
+        android:requestLegacyExternalStorage="true"
         tools:ignore="UnusedAttribute">
 
         <!-- TODO: Remove comment marks to enable Zooper

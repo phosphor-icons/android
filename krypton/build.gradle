@@ -62,7 +62,7 @@ android {
         proguardFiles 'proguard-android-optimize.txt', 'proguard-rules.pro'
         consumerProguardFiles 'proguard-android-optimize.txt', 'proguard-rules.pro'
         multiDexEnabled true
-        resConfigs "ar", "bn", "cs", "da", "de", "en", "es", "fi", "fr", "hi", "hr", "hu", "in", "it", "ja", "ka", "ko", "nl", "no", "pl", "pt", "ro", "ru", "sv", "tr", "vi", "zh"
+//        resConfigs "ar", "bn", "cs", "da", "de", "en", "es", "fi", "fr", "hi", "hr", "hu", "in", "it", "ja", "ka", "ko", "nl", "no", "pl", "pt", "ro", "ru", "sv", "tr", "vi", "zh"
     }
 
     buildTypes {
@@ -104,7 +104,7 @@ android {
 
 dependencies {
     // Blueprint
-    implementation('com.jahirfiquitiva:Blueprint:1.4.5@aar') {
+    implementation('com.jahirfiquitiva:Blueprint:1.5.2@aar') {
         transitive = true
     }
     // TODO: Remove comment marks to enable
