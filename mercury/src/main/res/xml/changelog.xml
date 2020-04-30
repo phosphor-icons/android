@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <version title="v1.6.3" />
+    <item text="Added 41 new icons" />
     <item text="Updated to support Niagara Launcher" />
     <item text="Fixed automatic theming for 100+ icons" />
     <version title="v1.6.2" />
