@@ -2,8 +2,8 @@
 <!-- This is for Atom Launcher -->
 <themeInfo>
     <packageName>com.tobiasfried.phosphor.cadmium</packageName>
-    <versionName>1.6.3</versionName>
-    <versionCode>25</versionCode>
+    <versionName>1.6.4</versionName>
+    <versionCode>26</versionCode>
     <themeName>Phosphor Cadmium</themeName>
     <!-- Default Component Color -->
     <themePointColor>#00b0ff</themePointColor>

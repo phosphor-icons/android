@@ -13,7 +13,7 @@
     <DockMenuAppIcon selector="apps" />
 
   <!-- VERSION NUMBER CORRESPONDS TO APP versionCode -->
-  <version>25</version>
+  <version>26</version>
 
   <!-- 1.1.1.1 -->
   <AppIcon name="com.cloudflare.onedotonedotonedotone/com.cloudflare.app.presentation.main.MainActivity" image="_1_1_1_1"/>
@@ -45,7 +45,7 @@
   <!-- <AppIcon name="com.vinwap.parallaxwallpaper/com.vinwap.parallaxwallpaper.OpenActivity" image="___3d_parallax_background"/> -->
 
   <!-- 7 Cups -->
-  <AppIcon name="com.sevencupsoftea.app/io.trigger.forge.android.core.ForgeActivity" image="_7_cups" />
+  <AppIcon name="com.sevencupsoftea.app/io.trigger.forge.android.core.ForgeActivity" image="_7_cups"/>
 
   <!-- 7-Eleven -->
   <!-- <AppIcon name="com.sei.android/com.sei.android.controllers.activity.SplashActivity" image="_7__eleven"/> -->
@@ -57,7 +57,7 @@
   <!-- <AppIcon name="org.joa.zipperplus7/org.test.flashtest.StartPageActivity" image="_7__zipper"/> -->
 
   <!-- 8 Ball Pool -->
-<AppIcon name="com.miniclip.eightballpool/com.miniclip.eightballpool.EightBallPoolActivity" image="_8_ball_pool" />
+  <AppIcon name="com.miniclip.eightballpool/com.miniclip.eightballpool.EightBallPoolActivity" image="_8_ball_pool"/>
 
   <!-- 9NOW -->
   <!-- <AppIcon name="au.com.mi9.jumpin.app/com.ninenow.MainActivity" image="_9___now"/> -->
@@ -72,6 +72,12 @@
 
   <!-- 10 play -->
   <!-- <AppIcon name="au.com.tenplay/au.com.tenplay.LoadingActivity" image="_10_play"/> -->
+
+  <!-- 99 -->
+  <AppIcon name="com.taxis99/com.didi.sdk.app.DidiLoadDexActivity" image="_99"/>
+
+  <!-- Aarogya Setu -->
+  <AppIcon name="nic.goi.aarogyasetu/nic.goi.aarogyasetu.views.SplashActivity" image="aarogya_setu"/>
 
   <!-- ABC iview -->
   <!-- <AppIcon name="au.net.abc.iview/au.net.abc.iview.ui.splash.LaunchActivity" image="___abc_iview"/> -->
@@ -249,7 +255,7 @@
   <!--<AppIcon name="com.quadrimind.bRendimentoAgil/com.quadrimind.bRendimentoAgil.activity.SplashScreenActivity" image="agillitas" />-->
 
   <!-- AIB Mobile -->
-  <AppIcon name="aib.ibank.android/aib.ibank.android.entrypoint.InitialActivity" image="banking" />
+  <AppIcon name="aib.ibank.android/aib.ibank.android.entrypoint.InitialActivity" image="banking"/>
 
   <!-- AIDA64 -->
   <!-- <AppIcon name="com.finalwire.aida64/com.finalwire.aida64.HHMainActivity" image="___aida64"/> -->
@@ -277,10 +283,10 @@
   <!-- Airtel -->
   <AppIcon name="com.myairtelapp/com.myairtelapp.activity.OnboardingActivity" image="airtel"/>
   <AppIcon name="com.myairtelapp/com.myairtelapp.activity.HomeActivity" image="airtel"/>
-  <AppIcon name="com.myairtelapp/com.myairtelapp.activity.SplashScreenActivity" image="airtel" />
+  <AppIcon name="com.myairtelapp/com.myairtelapp.activity.SplashScreenActivity" image="airtel"/>
 
   <!-- Airtel Xstream -->
-  <!-- <AppIcon name="tv.accedo.airtel.wynk/tv.accedo.airtel.wynk.presentation.view.activity.SplashActivity" image="airtel_xstream"/> -->
+  <AppIcon name="tv.accedo.airtel.wynk/tv.accedo.airtel.wynk.presentation.view.activity.SplashActivity" image="airtel_xstream"/>
 
   <!-- Aivy -->
   <!-- <AppIcon name="com.maxpatchs.aivy/com.maxpatchs.aivy.MainActivity" image="aivy"/> -->
@@ -352,7 +358,7 @@
   <!--<AppIcon name="com.beesquare.almostahero/com.unity3d.player.UnityPlayerActivity" image="almost_a_hero" />-->
 
   <!-- Amaze File Manager -->
-  <AppIcon name="com.amaze.filemanager/com.amaze.filemanager.activities.MainActivity" image="amaze" />
+  <AppIcon name="com.amaze.filemanager/com.amaze.filemanager.activities.MainActivity" image="amaze"/>
 
   <!-- Amazon -->
   <AppIcon name="com.amazon.mShop.android/com.amazon.mShop.home.HomeActivity" image="amazon"/>
@@ -377,14 +383,14 @@
   <!--<AppIcon name="com.amazon.venezia/com.amazon.venezia.Venezia" image="amazon_appstore"/>-->
 
   <!-- Amazon Drive -->
-  <AppIcon name="com.amazon.drive/com.amazon.drive.activity.MainActivity" image="amazon_drive" />
+  <AppIcon name="com.amazon.drive/com.amazon.drive.activity.MainActivity" image="amazon_drive"/>
 
   <!-- Amazon Drive Photos -->
-  <AppIcon name="com.amazon.clouddrive.photos/com.amazon.clouddrive.photos.display.LauncherActivity" image="amazon_photos" />
+  <AppIcon name="com.amazon.clouddrive.photos/com.amazon.clouddrive.photos.display.LauncherActivity" image="amazon_photos"/>
 
   <!-- Amazon Fire TV -->
-  <AppIcon name="com.amazon.storm.lightning.client.aosp/com.amazon.bison.SplashScreen" image="amazon_fire_t__v" />
-  <AppIcon name="com.amazon.storm.lightning.client.aosp/com.amazon.storm.lightning.client.main.MainActivity" image="amazon_fire_t__v" />
+  <AppIcon name="com.amazon.storm.lightning.client.aosp/com.amazon.bison.SplashScreen" image="amazon_fire_t__v"/>
+  <AppIcon name="com.amazon.storm.lightning.client.aosp/com.amazon.storm.lightning.client.main.MainActivity" image="amazon_fire_t__v"/>
 
   <!-- Amazon Kindle -->
   <AppIcon name="com.amazon.kindle/com.amazon.kindle.NewsstandStartActivity" image="amazon_kindle"/>
@@ -431,6 +437,9 @@
 
   <!-- Amil Clientes -->
   <!--<AppIcon name="br.com.amil.beneficiarios/md55500efea1d286f4ec7e7560cbf9d3eba.SplashActivity" image="amil_clientes" />-->
+
+  <!-- Amoledpapers -->
+  <AppIcon name="pl.mhcharlee.amoledpapers/pl.mhcharlee.amoledpapers.MainActivity" image="amoledpapers"/>
 
   <!-- AmoledWalls -->
   <AppIcon name="com.Hastamev.AmoledWallsFree/jahirfiquitiva.apps.frames.sample.MainActivity" image="amoled__walls"/>
@@ -557,6 +566,12 @@
 
   <!-- App Backup Share -->
   <!-- <AppIcon name="com.ruet_cse_1503050.ragib.appbackup.pro/com.ruet_cse_1503050.ragib.appbackup.pro.MainActivity" image="app_backup_share"/> -->
+
+  <!-- App Box -->
+  <AppIcon name="com.motorola.brapps/com.motorola.brapps.ui.BrAppsActivityImpl" image="app_box"/>
+
+  <!-- App Market -->
+  <AppIcon name="com.heytap.market/com.heytap.market.activity.MainActivity" image="app_market"/>
 
   <!-- App Ops -->
   <!-- <AppIcon name="rikka.appops/rikka.appops.SplashActivity" image="app_ops"/> -->
@@ -689,7 +704,7 @@
   <!--<AppIcon name="com.smartandroidapps.audiowidgetpro/com.smartandroidapps.audiowidgetpro.MainActivity" image="audiomanager"/>-->
 
   <!-- Autosync for Google Drive -->
-  <AppIcon name="com.ttxapps.drivesync/com.ttxapps.sync.app.MainActivity" image="autosync" />
+  <AppIcon name="com.ttxapps.drivesync/com.ttxapps.sync.app.MainActivity" image="autosync"/>
 
   <!-- Avast -->
   <!-- <AppIcon name="com.avast.android.mobilesecurity/com.avast.android.mobilesecurity.app.main.MainActivity" image="avast"/> -->
@@ -907,7 +922,7 @@
   <!-- <AppIcon name="jp.ne.hardyinfinity.bluelightfilter.free/jp.ne.hardyinfinity.bluelightfilter.free.ui.activity.FilterSettingLiteActivity" image="bluelight_filter"/> -->
 
   <!-- BlueMail -->
-  <AppIcon name="me.bluemail.mail/com.trtf.blue.activity.Accounts" image="blue__mail" />
+  <AppIcon name="me.bluemail.mail/com.trtf.blue.activity.Accounts" image="blue__mail"/>
 
   <!-- Bluetooth Volume Control -->
   <!-- <AppIcon name="eu.darken.bluemusic/eu.darken.bluemusic.main.ui.MainActivity" image="bluetooth_volume_control"/> -->
@@ -930,7 +945,8 @@
   <AppIcon name="com.booking/com.booking.startup.HomeActivity" image="booking"/>
 
   <!-- BookMyShow -->
-  <!-- <AppIcon name="com.bt.bms/com.movie.bms.splash.views.activities.SplashScreenActivity" image="book__my__show"/> -->
+  <AppIcon name="com.bt.bms/com.movie.bms.splash.views.activities.SplashScreenActivity" image="book__my__show"/>
+  <AppIcon name="com.bt.bms/com.movie.bms.splashscreen.SplashScreenActivity" image="book__my__show"/>
 
   <!-- Boom -->
   <!-- <AppIcon name="com.globaldelight.boom/com.globaldelight.boom.app.activities.SplashScreenActivity" image="boom"/> -->
@@ -987,7 +1003,7 @@
   <!-- <AppIcon name="sg.gumi.bravefrontier/sg.gumi.bravefrontier.BraveFrontier" image="brave_frontier"/> -->
 
   <!-- Brawl Stars -->
-  <AppIcon name="com.supercell.brawlstars/com.supercell.brawlstars.GameApp" image="brawl_stars" />
+  <AppIcon name="com.supercell.brawlstars/com.supercell.brawlstars.GameApp" image="brawl_stars"/>
 
   <!-- Brevent -->
   <!-- <AppIcon name="me.piebridge.brevent/me.piebridge.brevent.ui.BreventActivity" image="brevent"/> -->
@@ -1057,6 +1073,15 @@
   <!-- Business Insider -->
   <!-- <AppIcon name="com.freerange360.mpp.businessinsider/com.aebelskiver.MainActivity" image="business_insider"/> -->
 
+  <!-- CAIXA -->
+  <AppIcon name="br.com.gabba.Caixa/br.com.gabba.Caixa.SplashActivity" image="___caixa"/>
+
+  <!-- CAIXA Auxílio Emergencial -->
+  <AppIcon name="br.gov.caixa.auxilio/br.gov.caixa.auxilio.SplashScreenActivity" image="___caixa_auxilio_emergencial"/>
+
+  <!-- CAIXA Tem -->
+  <AppIcon name="br.gov.caixa.tem/br.gov.caixa.tem.view.activities.SplashScreenAnimation" image="___caixa_tem"/>
+
   <!-- Calculator -->
   <AppIcon name="com.android.calculator2/com.android.calculator2.Calculator" image="calculator"/>
   <AppIcon name="com.android.calculator2/com.android.calculator2.AsxCalculator" image="calculator"/>
@@ -1078,11 +1103,11 @@
 
   <!-- Calculator Alts -->
   <AppIcon name="uk.co.nickfines.RealCalc/uk.co.nickfines.RealCalc.Calculator" image="calculator_alt_2"/>
-  <AppIcon name="com.myboyfriendisageek.aircalc/com.myboyfriendisageek.aircalc.CalculatorActivity" image="calculator_alt_2" />
-  <AppIcon name="com.team.greenfire.calculator_materialdesign/com.team.greenfire.calculator_materialdesign.MainActivity" image="calculator_alt_2" />
-  <AppIcon name="com.fredericmrozinski.jadecalculator/com.fredericmrozinski.jadecalculator.gui.CalculatorActivity" image="calculator_alt_2" />
-  <AppIcon name="thanhletranngoc.calculator.pro/thanhletranngoc.calculator.pro.activities.MainActivity" image="calculator_alt_2" />
-  <AppIcon name="com.prime.calculator/com.prime.calculator.Calculator" image="calculator_alt_2" />
+  <AppIcon name="com.myboyfriendisageek.aircalc/com.myboyfriendisageek.aircalc.CalculatorActivity" image="calculator_alt_2"/>
+  <AppIcon name="com.team.greenfire.calculator_materialdesign/com.team.greenfire.calculator_materialdesign.MainActivity" image="calculator_alt_2"/>
+  <AppIcon name="com.fredericmrozinski.jadecalculator/com.fredericmrozinski.jadecalculator.gui.CalculatorActivity" image="calculator_alt_2"/>
+  <AppIcon name="thanhletranngoc.calculator.pro/thanhletranngoc.calculator.pro.activities.MainActivity" image="calculator_alt_2"/>
+  <AppIcon name="com.prime.calculator/com.prime.calculator.Calculator" image="calculator_alt_2"/>
 
   <!-- Calculator++ -->
   <AppIcon name="org.solovyev.android.calculator/org.solovyev.android.calculator.CalculatorActivity" image="calculator_plus_plus"/>
@@ -1151,7 +1176,7 @@
   <calendar component="ComponentInfo{com.bbk.calendar/com.bbk.calendar.MainActivity" image="calendar_"/>
 
   <!-- Call of Duty -->
-  <AppIcon name="com.activision.callofduty.shooter/com.tencent.tmgp.cod.PermissionGrantActivity" image="call_of_duty" />
+  <AppIcon name="com.activision.callofduty.shooter/com.tencent.tmgp.cod.PermissionGrantActivity" image="call_of_duty"/>
 
   <!-- Caller ID -->
   <!-- <AppIcon name="com.cequint.ecid/com.cequint.hs.client.frontend.WebShell" image="caller_i__d"/> -->
@@ -1250,7 +1275,7 @@
   <!-- <AppIcon name="com.careem.acma/com.careem.acma.splash.SplashActivity" image="careem"/> -->
 
   <!-- Carousell -->
-  <AppIcon name="com.thecarousell.Carousell/com.thecarousell.Carousell.activities.EntryActivity" image="carousell" />
+  <AppIcon name="com.thecarousell.Carousell/com.thecarousell.Carousell.activities.EntryActivity" image="carousell"/>
 
   <!-- CARROT -->
   <!--<AppIcon name="com.grailr.carrotweather/com.grailr.carrotweather.view.MainActivity" image="carrot" />-->
@@ -1414,7 +1439,7 @@
   <!--<AppIcon name="com.tung91.clix/com.tung91.clix.activities.SplashActivity" image="clix" />-->
 
   <!-- Cloud -->
-  <AppIcon name="com.heytap.cloud/com.heytap.cloud.activity.CloudSettingsActivity" image="cloud" />
+  <AppIcon name="com.heytap.cloud/com.heytap.cloud.activity.CloudSettingsActivity" image="cloud"/>
 
   <!-- Clover -->
   <!--<AppIcon name="org.floens.chan/org.floens.chan.ui.activity.BoardActivity" image="clover" />-->
@@ -1504,7 +1529,7 @@
   <!-- <AppIcon name="com.nauj27.android.colorpicker/com.nauj27.android.colorpicker.ColorPickerActivity" image="color_picker"/> -->
 
   <!-- ColorNote -->
-  <!--<AppIcon name="com.socialnmobile.dictapps.notepad.color.note/com.socialnmobile.colornote.activity.Main" image="color__note" />-->
+  <AppIcon name="com.socialnmobile.dictapps.notepad.color.note/com.socialnmobile.colornote.activity.Main" image="color__note" />
 
   <!-- ColorX Icon Pack -->
   <!-- <AppIcon name="com.geapinart.colorx/com.geapinart.colorx.MainActivity" image="color__x"/> -->
@@ -1513,7 +1538,7 @@
   <!--<AppIcon name="com.ifs.banking.fiid3658/com.banking.activities.SplashActivity" image="columbia_credit_union" />-->
 
   <!-- Comic Trim -->
-  <AppIcon name="com.comic.trim/com.android.comictrim.intro.SplashActivity" image="comic_trim" />
+  <AppIcon name="com.comic.trim/com.android.comictrim.intro.SplashActivity" image="comic_trim"/>
 
   <!-- ComiCat -->
   <!-- <AppIcon name="meanlabs.comicat/meanlabs.comicreader.Catalog" image="comi__cat"/> -->
@@ -1668,7 +1693,7 @@
   <!--<AppIcon name="crabhands.android/md537162667e7aea2b1761201ce21879eaf.SplashActivity" image="_crabhands" />-->
 
   <!-- Crayon Icon Pack -->
-  <AppIcon name="com.jndapp.cartoon.crayon.iconpack/com.jndapp.cartoon.crayon.iconpack.MainActivity" image="crayon_icon_pack" />
+  <AppIcon name="com.jndapp.cartoon.crayon.iconpack/com.jndapp.cartoon.crayon.iconpack.MainActivity" image="crayon_icon_pack"/>
 
   <!-- Creative -->
   <AppIcon name="com.kubix.creative/com.kubix.creative.activity.IntroActivity" image="___creative"/>
@@ -1711,7 +1736,7 @@
   <AppIcon name="com.curiosity.dailycuriosity/com.curiosity.dailycuriosity.MainActivity" image="curiosity"/>
 
   <!-- CuriosityStream -->
-  <AppIcon name="com.curiosity.curiositystream/com.curiosity.activities.OnboardingActivity" image="curiosity__stream" />
+  <AppIcon name="com.curiosity.curiositystream/com.curiosity.activities.OnboardingActivity" image="curiosity__stream"/>
 
   <!-- Current Affairs -->
   <!-- <AppIcon name="com.testbook.caapp/com.testbook.caapp.RouterActivity" image="current_affairs"/> -->
@@ -1741,7 +1766,7 @@
   <!-- <AppIcon name="com.techtify.dallevalle/com.techtify.dallevalle.activity.LoginActivity" image="dalle_valle"/> -->
 
   <!-- Dark Mode -->
-  <AppIcon name="systems.maju.darkmode/systems.maju.darkmode.MainActivity" image="dark_mode" />
+  <AppIcon name="systems.maju.darkmode/systems.maju.darkmode.MainActivity" image="dark_mode"/>
 
   <!-- Dark Sky -->
   <!-- <AppIcon name="net.darksky.darksky/net.darksky.darksky.DarkSky" image="dark_sky"/> -->
@@ -1761,6 +1786,9 @@
 
   <!-- Deepstash -->
   <!-- <AppIcon name="com.deepstash/com.deepstash.MainActivity" image="deepstash"/> -->
+
+  <!-- Deezer -->
+  <AppIcon name="deezer.android.app/com.deezer.android.ui.activity.LauncherActivity" image="deezer" />
 
   <!-- Degoo -->
   <AppIcon name="com.degoo.android/com.degoo.android.ui.splash.view.SplashActivity" image="cloud"/>
@@ -1793,10 +1821,10 @@
   <AppIcon name="com.webviewer.deviantart/com.webviewer.deviantart.SplashScreen" image="deviant__art"/>
 
   <!-- Device Help-->
-  <AppIcon name="com.motorola.genie/com.motorola.genie.app.DashboardActivity" image="help" />
-  <AppIcon name="com.motorola.genie/com.motorola.genie.main.start.LaunchActivity" image="help" />
+  <AppIcon name="com.motorola.genie/com.motorola.genie.app.DashboardActivity" image="help"/>
+  <AppIcon name="com.motorola.genie/com.motorola.genie.main.start.LaunchActivity" image="help"/>
   <AppIcon name="com.sec.android.devicehelp/com.sec.android.devicehelp.DeviceHelp" image="help"/>
-  <AppIcon name="com.sonymobile.support/com.sonymobile.support.InAppSupportLauncher" image="help" />
+  <AppIcon name="com.sonymobile.support/com.sonymobile.support.InAppSupportLauncher" image="help"/>
   <AppIcon name="com.htc.guide/com.htc.guide.MainActivity" image="help"/>
   <AppIcon name="com.rlk.feedback/com.rlk.feedback.MainActivity" image="help"/>
 
@@ -1806,7 +1834,7 @@
   <AppIcon name="com.sec.knox.switcher/com.sec.knox.switcher.SecureFolderShortcutActivity" image="mi_security"/>
 
   <!-- Device Services feedback -->
-<AppIcon name="com.miui.miservice/com.miui.miservice.main.MainActivity" image="services_feedback" />
+  <AppIcon name="com.miui.miservice/com.miui.miservice.main.MainActivity" image="services_feedback"/>
 
   <!-- Device Themes -->
   <AppIcon name="com.nearme.themestore/com.nearme.themespace.activities.ThemeActivity" image="samsung_galaxy_themes"/>
@@ -1855,7 +1883,7 @@
   <!-- <AppIcon name="dnsfilter.android/dnsfilter.android.DNSProxyActivity" image="___dns__filter"/> -->
 
   <!-- Document Scanner -->
-  <AppIcon name="com.easy4u.scannerpro/com.easy4u.scannerpro.control.ui.splash.SplashActivity" image="document_scanner" />
+  <AppIcon name="com.easy4u.scannerpro/com.easy4u.scannerpro.control.ui.splash.SplashActivity" image="document_scan"/>
 
   <!-- Dolphin Browser -->
   <!--<AppIcon name="mobi.mgeek.TunnyBrowser/mobi.mgeek.TunnyBrowser.BrowserActivity" image="dolphin"/>-->
@@ -1890,7 +1918,7 @@
   <AppIcon name="com.androholic.dopewalls/com.androholic.dopewalls.ui.activities.SplashActivity" image="dope__walls"/>
 
   <!-- Dots -->
-  <AppIcon name="com.nerdyoctopus.gamedots/com.weplaydots.dotsclassic.DotsClassicActivity" image="dots" />
+  <AppIcon name="com.nerdyoctopus.gamedots/com.weplaydots.dotsclassic.DotsClassicActivity" image="dots"/>
 
   <!-- Downloads -->
   <AppIcon name="com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadList" image="files"/>
@@ -1900,8 +1928,8 @@
   <AppIcon name="com.cellmania.android.storefront.webview.vmu/com.cellmania.android.storefront.webview.vmu.CM_WebView_StorefrontActivity" image="files"/>
 
   <!-- Download Manager -->
-  <AppIcon name="com.moviestime.downloader/com.moviestime.downloader.ui.main.MainActivity" image="download_manager" />
-  <AppIcon name="com.meepo.instasave/com.meepo.supersave.activity.SplashActivity" image="download_manager" />
+  <AppIcon name="com.moviestime.downloader/com.moviestime.downloader.ui.main.MainActivity" image="download_manager"/>
+  <AppIcon name="com.meepo.instasave/com.meepo.supersave.activity.SplashActivity" image="download_manager"/>
 
   <!-- Dragalia -->
   <!--<AppIcon name="com.nintendo.zaga/jp.co.cygames.nostatusbar.UnityPlayerActivityStatusBar" image="dragalia" />-->
@@ -1943,9 +1971,9 @@
   <!-- <AppIcon name="com.aiocen.iconpack.drops/com.aiocen.iconpack.drops.activities.SplashActivity" image="drops_icons"/> -->
 
   <!-- Dropsync -->
-  <AppIcon name="com.ttxapps.dropsync/com.ttxapps.sync.app.MainActivity" image="dropsync" />
-  <AppIcon name="com.ttxapps.dropsync/com.ttxapps.dropsync.MainActivity" image="dropsync" />
-  <AppIcon name="com.ttxapps.dropsync.pro/com.ttxapps.dropsync.pro.MainActivity" image="dropsync" />
+  <AppIcon name="com.ttxapps.dropsync/com.ttxapps.sync.app.MainActivity" image="dropsync"/>
+  <AppIcon name="com.ttxapps.dropsync/com.ttxapps.dropsync.MainActivity" image="dropsync"/>
+  <AppIcon name="com.ttxapps.dropsync.pro/com.ttxapps.dropsync.pro.MainActivity" image="dropsync"/>
 
   <!-- Drum Pads 24 -->
   <!-- <AppIcon name="com.paullipnyagov.drumpads24/com.paullipnyagov.drumpads24.CustomSplashScreenActivity" image="drum_pads_24"/> -->
@@ -1967,7 +1995,6 @@
 
   <!-- Duet -->
   <!-- <AppIcon name="com.kumobius.android.duet/com.kumobius.android.KumoAppActivity" image="duet"/> -->
-
 
   <!-- Dunzo -->
   <!-- <AppIcon name="com.dunzo.user/com.dunzo.activities.SplashActivity" image="dunzo"/> -->
@@ -2080,7 +2107,7 @@
   <AppIcon name="com.lknninex.enix/com.lknninex.enix.MainActivity" image="enix"/>
 
   <!-- Enki -->
-  <AppIcon name="com.enki.insights/com.enki.insights.MainActivity" image="enki" />
+  <AppIcon name="com.enki.insights/com.enki.insights.MainActivity" image="enki"/>
 
   <!-- Enpass -->
   <!-- <AppIcon name="io.enpass.app/io.enpass.app.SplashScreenActivity" image="enpass"/> -->
@@ -2098,10 +2125,10 @@
   <!-- <AppIcon name="com.erza.vishal/com.erza.vishal.MainActivity" image="erza"/> -->
 
   <!-- ES File Explorer -->
-  <AppIcon name="com.estrongs.android.pop.pro/com.estrongs.android.pop.view.FileExplorerActivity" image="___es_file_explorer" />
-  <AppIcon name="com.estrongs.android.pop/com.estrongs.android.pop.app.openscreenad.NewSplashActivity" image="___es_file_explorer" />
-  <AppIcon name="com.estrongs.android.pop/com.estrongs.android.pop.resmanager.view.FileExplorerActivity" image="___es_file_explorer" />
-  <AppIcon name="com.estrongs.android.pop/com.estrongs.android.pop.view.FileExplorerActivity" image="___es_file_explorer" />
+  <AppIcon name="com.estrongs.android.pop.pro/com.estrongs.android.pop.view.FileExplorerActivity" image="___es_file_explorer"/>
+  <AppIcon name="com.estrongs.android.pop/com.estrongs.android.pop.app.openscreenad.NewSplashActivity" image="___es_file_explorer"/>
+  <AppIcon name="com.estrongs.android.pop/com.estrongs.android.pop.resmanager.view.FileExplorerActivity" image="___es_file_explorer"/>
+  <AppIcon name="com.estrongs.android.pop/com.estrongs.android.pop.view.FileExplorerActivity" image="___es_file_explorer"/>
 
   <!-- ESPN -->
   <AppIcon name="air.WatchESPN/com.espn.watchespn.main.Main" image="___espn"/>
@@ -2240,7 +2267,7 @@
   <!-- <AppIcon name="com.wondershare.filmorago/com.wondershare.filmorago.activity.WelcomeActivity" image="filmora__go"/> -->
 
   <!-- Fingerprint Scanner Tools -->
-  <AppIcon name="com.flextrick.fringerprintscannertools/com.flextrick.fringerprintscannertools.activity.MainActivity" image="fingerprint" />
+  <AppIcon name="com.flextrick.fringerprintscannertools/com.flextrick.fringerprintscannertools.activity.MainActivity" image="fingerprint"/>
 
   <!-- Fire Emblem Heroes -->
   <!-- <AppIcon name="com.nintendo.zaba/org.cocos2dx.cpp.AppActivity" image="fire_emblem_heroes"/> -->
@@ -2256,10 +2283,10 @@
   <AppIcon name="com.coloros.filemanager/com.coloros.filemanager.Main" image="files"/>
   <AppIcon name="zte.com.cn.filer/zte.com.cn.filer.FileMgrActivity" image="files"/>
   <AppIcon name="com.lenovo.FileBrowser/com.lenovo.FileBrowser.activities.FileBrowserMain" image="files"/>
-  <AppIcon name="com.File.Manager.Filemanager/com.File.Manager.Filemanager.DocumentsActivity" image="files" />
-  <AppIcon name="com.android.filemanager/com.android.filemanager.activities.NavigationActivity" image="files" />
-  <AppIcon name="org.file.manager/org.file.manager.DocumentsActivity" image="files" />
-  <AppIcon name="me.zhanghai.android.files/me.zhanghai.android.files.filelist.FileListActivity" image="files" />
+  <AppIcon name="com.File.Manager.Filemanager/com.File.Manager.Filemanager.DocumentsActivity" image="files"/>
+  <AppIcon name="com.android.filemanager/com.android.filemanager.activities.NavigationActivity" image="files"/>
+  <AppIcon name="org.file.manager/org.file.manager.DocumentsActivity" image="files"/>
+  <AppIcon name="me.zhanghai.android.files/me.zhanghai.android.files.filelist.FileListActivity" image="files"/>
 
   <!-- File Manager -->
   <AppIcon name="com.lenovo.FileBrowser2/com.lenovo.FileBrowser.activities.FileBrowserMain" image="file_manager"/>
@@ -2352,7 +2379,7 @@
   <!--<AppIcon name="com.aschwartz.flatwhite/com.afollestad.polar.ui.MainActivity" image="flat_white" />-->
 
   <!-- Fleksy -->
-  <AppIcon name="com.syntellia.fleksy.keyboard/com.syntellia.fleksy.settings.activities.SplashActivity" image="fleksy" />
+  <AppIcon name="com.syntellia.fleksy.keyboard/com.syntellia.fleksy.settings.activities.SplashActivity" image="fleksy"/>
 
   <!-- Flick Launcher -->
   <!--<AppIcon name="com.universallauncher.universallauncher/com.android.launcher3.Launcher" image="flick_launcher" />-->
@@ -2374,8 +2401,8 @@
   <AppIcon name="com.samruston.twitter/com.samruston.twitter.MainActivity" image="twitter"/>
 
   <!-- Flight -->
-  <AppIcon name="com.natewren.flight/com.natewren.dashboard.SplashScreen" image="flight" />
-  <AppIcon name="com.natewren.flightlite/com.natewren.dashboard.SplashScreen" image="flight" />
+  <AppIcon name="com.natewren.flight/com.natewren.dashboard.SplashScreen" image="flight"/>
+  <AppIcon name="com.natewren.flightlite/com.natewren.dashboard.SplashScreen" image="flight"/>
 
   <!-- Flightradar24 -->
   <AppIcon name="com.flightradar24free/com.flightradar24free.SplashActivity" image="flightradar24"/>
@@ -2403,8 +2430,8 @@
   <!-- <AppIcon name="com.buneme.fluctuate/com.buneme.fluctuate.OnboardActivity" image="fluctuate"/> -->
 
   <!-- Flud -->
-  <AppIcon name="com.delphicoder.flud/com.delphicoder.flud.MainActivity" image="flud" />
-  <AppIcon name="com.delphicoder.flud.paid/com.delphicoder.flud.MainActivity" image="flud" />
+  <AppIcon name="com.delphicoder.flud/com.delphicoder.flud.MainActivity" image="flud"/>
+  <AppIcon name="com.delphicoder.flud.paid/com.delphicoder.flud.MainActivity" image="flud"/>
 
   <!-- Fluid Navigation Gestures -->
   <!--<AppIcon name="com.fb.fluid/com.fb.fluid.ActivityMain" image="fluid_navigation" />-->
@@ -2437,8 +2464,8 @@
   <!-- <AppIcon name="com.foodforall.foodforallapp/com.foodforall.foodforallapp.SplashActivity" image="food_for_all"/> -->
 
   <!-- foodpanda -->
-  <!-- <AppIcon name="com.global.foodpanda.android/de.foodora.android.ui.launcher.LauncherActivity" image="_foodpanda"/>
-  <AppIcon name="com.india.foodpanda.android/com.india.foodpanda.android.welcome.activities.SplashScreenActivity" image="_foodpanda"/> -->
+  <AppIcon name="com.global.foodpanda.android/de.foodora.android.ui.launcher.LauncherActivity" image="_foodpanda"/>
+  <AppIcon name="com.india.foodpanda.android/com.india.foodpanda.android.welcome.activities.SplashScreenActivity" image="_foodpanda"/>
 
   <!-- Formula 1 -->
   <!-- <AppIcon name="com.softpauer.f1timingapp2014.basic/com.formula1.base.MainActivity" image="formula_1"/> -->
@@ -2491,7 +2518,7 @@
   <AppIcon name="com.framerjs.android/com.framer.viewer.MainActivity" image="framer"/>
 
   <!-- Free Fire -->
-  <!-- <AppIcon name="com.dts.freefireth/com.dts.freefireth.FFMainActivity" image="free_fire"/> -->
+  <AppIcon name="com.dts.freefireth/com.dts.freefireth.FFMainActivity" image="free_fire"/>
 
   <!-- FreeCharge -->
   <!-- <AppIcon name="com.freecharge.android/com.freecharge.activities.splash.SplashActivity" image="free__charge"/> -->
@@ -2507,6 +2534,9 @@
 
   <!-- Friendly for Instagram -->
   <!-- <AppIcon name="io.friendly.instagram/io.friendly.client.view.activity.SplashActivity" image="friendly_for_instagram"/> -->
+
+  <!-- Frost -->
+  <AppIcon name="com.pitchedapps.frost/com.pitchedapps.frost.StartActivity" image="frost" />
 
   <!-- Frozy -->
   <!-- <AppIcon name="com.Fraom.Frozy/com.Fraom.Frozy.activities.SplashActivity" image="frozy"/> -->
@@ -2531,7 +2561,7 @@
   <AppIcon name="nextapp.fx/nextapp.fx.ui.textedit.TextEditorActivity" image="files"/>
 
   <!-- Gaana -->
-  <!-- <AppIcon name="com.gaana/com.gaana.SplashScreenActivity" image="gaana"/> -->
+  <AppIcon name="com.gaana/com.gaana.SplashScreenActivity" image="gaana"/>
 
   <!-- Gallery -->
   <AppIcon name="com.sec.android.gallery3d/com.samsung.android.gallery.app.activity.GalleryActivity" image="gallery"/>
@@ -2593,13 +2623,16 @@
   <!-- <AppIcon name="yacreates.generica/yacreates.generica.MainActivity" image="generica"/> -->
 
   <!-- Genius -->
-  <AppIcon name="com.genius.android/com.genius.android.MainActivity" image="genius" />
+  <AppIcon name="com.genius.android/com.genius.android.MainActivity" image="genius"/>
 
   <!-- Geometry Dash -->
   <!-- <AppIcon name="com.robtopx.geometryjump/com.aiming.mdt.VdAd" image="geometry_dash"/> -->
 
   <!-- GetAPK Market -->
   <!-- <AppIcon name="com.repodroid.app/com.repodroid.app.activity.MainActivity" image="get___apk_market"/> -->
+
+  <!-- GetApps -->
+  <AppIcon name="com.xiaomi.mipicks/com.xiaomi.mipicks.DefaultAlias" image="get__apps" />
 
   <!-- GFX Tool for PUBG -->
   <!-- <AppIcon name="eu.tsoml.graphicssettings/eu.tsoml.graphicssettings.MainActivity" image="___gfx_tool"/> -->
@@ -2632,7 +2665,7 @@
   <!-- <AppIcon name="com.paloaltonetworks.globalprotect/com.paloaltonetworks.globalprotect.view.SplashActivity" image="global__protect"/> -->
 
   <!-- GLOBE World Clock -->
-  <AppIcon name="com.candl.atlas/com.candl.atlas.activity.MainActivity" image="globe" />
+  <AppIcon name="com.candl.atlas/com.candl.atlas.activity.MainActivity" image="globe"/>
 
   <!-- GO Launcher -->
   <AppIcon name="com.gau.go.launcherex/com.jiubang.golauncher.GOLauncherFacade" image="go_launcher"/>
@@ -2641,7 +2674,7 @@
   <!-- <AppIcon name="com.airgoat.goat/com.airgoat.goat.splash.ui.SplashActivity" image="___goat"/> -->
 
   <!-- Gojek -->
-  <AppIcon name="com.gojek.app/com.gojek.home.GojekSplash" image="gojek" />
+  <AppIcon name="com.gojek.app/com.gojek.home.GojekSplash" image="gojek"/>
 
   <!-- Golf Peaks -->
   <!-- <AppIcon name="com.Afterburn.GolfPeaks/com.unity3d.player.UnityPlayerActivity" image="golf_peaks"/> -->
@@ -2697,7 +2730,7 @@
   <AppIcon name="com.google.chromeremotedesktop/org.chromium.chromoting.Chromoting" image="google_chrome_remote_desktop"/>
 
   <!-- Google Classroom -->
-  <AppIcon name="com.google.android.apps.classroom/com.google.android.apps.classroom.application.launcher.LauncherActivity" image="google_classroom" />
+  <AppIcon name="com.google.android.apps.classroom/com.google.android.apps.classroom.application.launcher.LauncherActivity" image="google_classroom"/>
 
   <!-- Google Cloud Console -->
   <AppIcon name="com.google.android.apps.cloudconsole/com.google.android.apps.cloudconsole.MainContainerActivity" image="google_console"/>
@@ -2855,7 +2888,7 @@
   <AppIcon name="com.google.android.apps.docs.editors.slides/com.google.android.apps.docs.app.NewMainProxyActivity" image="google_slides"/>
 
   <!-- Google Street View -->
-  <AppIcon name="com.google.android.street/com.google.android.apps.dragonfly.activities.main.MainActivity" image="google_street_view" />
+  <AppIcon name="com.google.android.street/com.google.android.apps.dragonfly.activities.main.MainActivity" image="google_street_view"/>
 
   <!-- Google Tasks -->
   <AppIcon name="com.google.android.apps.tasks/com.google.android.apps.tasks.ui.TaskListsActivity" image="google_tasks"/>
@@ -2949,10 +2982,10 @@
   <!-- <AppIcon name="com.arobasmusic.guitarpro/com.arobasmusic.guitarpro.GuitarProActivity" image="guitar_pro"/> -->
 
   <!-- GuitarTuna -->
-  <AppIcon name="com.ovelin.guitartuna/com.facebook.unity.FBUnityPlayerActivity" image="guitar__tuna" />
-  <AppIcon name="com.ovelin.guitartuna/com.unity3d.player.UnityPlayerActivity" image="guitar__tuna" />
-  <AppIcon name="com.ovelin.guitartuna/com.unity3d.player.UnityPlayerNativeActivity" image="guitar__tuna" />
-  <AppIcon name="com.ovelin.guitartuna/com.unity3d.player.UnityPlayerProxyActivity" image="guitar__tuna" />
+  <AppIcon name="com.ovelin.guitartuna/com.facebook.unity.FBUnityPlayerActivity" image="guitar__tuna"/>
+  <AppIcon name="com.ovelin.guitartuna/com.unity3d.player.UnityPlayerActivity" image="guitar__tuna"/>
+  <AppIcon name="com.ovelin.guitartuna/com.unity3d.player.UnityPlayerNativeActivity" image="guitar__tuna"/>
+  <AppIcon name="com.ovelin.guitartuna/com.unity3d.player.UnityPlayerProxyActivity" image="guitar__tuna"/>
   <AppIcon name="com.ovelin.guitartuna/com.ovelin.guitartuna.GuitarTunaActivity" image="guitar__tuna"/>
 
   <!-- GUX Icons -->
@@ -2999,15 +3032,15 @@
   <!-- <AppIcon name="com.hathwayapp/com.hathwayapp.MainActivity" image="hathway"/> -->
 
   <!-- HBO Go -->
-  <AppIcon name="com.HBO/com.hbo.go.LaunchActivity" image="___hbo_go" />
-  <AppIcon name="com.hbo.android.app/com.hbo.android.app.bootstrap.ui.StartupActivity" image="___hbo_go" />
-  <AppIcon name="com.hbo.broadband.br/com.hbo.broadband.modules.splash.ui.SplashActivity" image="___hbo_go" />
-  <AppIcon name="com.hbo.go/com.hbo.go.LaunchActivity" image="___hbo_go" />
-  <AppIcon name="eu.hbogo.android/eu.hbogo.android.setup.activity.SetUpActivity" image="___hbo_go" />
-  <AppIcon name="sg.hbo.hbogo/com.onwardsmg.hbo.activity.SplashActivity" image="___hbo_go" />
+  <AppIcon name="com.HBO/com.hbo.go.LaunchActivity" image="___hbo_go"/>
+  <AppIcon name="com.hbo.android.app/com.hbo.android.app.bootstrap.ui.StartupActivity" image="___hbo_go"/>
+  <AppIcon name="com.hbo.broadband.br/com.hbo.broadband.modules.splash.ui.SplashActivity" image="___hbo_go"/>
+  <AppIcon name="com.hbo.go/com.hbo.go.LaunchActivity" image="___hbo_go"/>
+  <AppIcon name="eu.hbogo.android/eu.hbogo.android.setup.activity.SetUpActivity" image="___hbo_go"/>
+  <AppIcon name="sg.hbo.hbogo/com.onwardsmg.hbo.activity.SplashActivity" image="___hbo_go"/>
 
   <!-- HBO Now -->
-  <AppIcon name="com.hbo.hbonow/com.hbo.hbonow.splash.SplashActivity" image="___hbo_now" />
+  <AppIcon name="com.hbo.hbonow/com.hbo.hbonow.splash.SplashActivity" image="___hbo_now"/>
   <AppIcon name="com.hbo.hbonow/com.hbo.go.LaunchActivity" image="___hbo_now"/>
 
   <!-- HD Camera -->
@@ -3021,6 +3054,9 @@
 
   <!-- HD Streamz -->
   <!-- <AppIcon name="net.hd.streamz/net.hd.streamz.Splash" image="___hd_streamz"/> -->
+
+  <!-- HDFC Bank -->
+  <AppIcon name="com.snapwork.hdfc/com.hdfc.retail.netbanking.HDFCBank" image="___hdfc_bank" />
 
   <!-- Headspace -->
   <AppIcon name="com.getsomeheadspace.android/com.getsomeheadspace.android.activities.SplashActivity" image="headspace"/>
@@ -3043,8 +3079,8 @@
   <!-- Hermit -->
   <!-- <AppIcon name="com.chimbori.hermitcrab/com.chimbori.hermitcrab.AdminActivity" image="hermit"/> -->
 
-  <!-- hex  -->
-  <AppIcon name="project.vivid.hex.bodhi/project.vivid.hex.bodhi.activities.HexLauncherActivity" image="_hex" />
+  <!-- hex -->
+  <AppIcon name="project.vivid.hex.bodhi/project.vivid.hex.bodhi.activities.HexLauncherActivity" image="_hex"/>
 
   <!-- Hexa Icon Pack -->
   <!-- <AppIcon name="com.jndapp.hexagonal.hexa.iconpack/com.jndapp.hexagonal.hexa.iconpack.MainActivity" image="hexa_icon_pack"/> -->
@@ -3145,13 +3181,13 @@
   <!-- <AppIcon name="com.huawei.ch100/com.huawei.ch100.ui.activity.ActivityTerms" image="huawei_body_fat_scale"/> -->
 
   <!-- Huawei Game Suite -->
-  <AppIcon name="com.huawei.gameassistant/com.huawei.gameassistant.views.GameassistantMainActivity" image="huawei_game_suite" />
+  <AppIcon name="com.huawei.gameassistant/com.huawei.gameassistant.views.GameassistantMainActivity" image="huawei_game_suite"/>
 
   <!-- Huawei Health -->
-  <AppIcon name="com.huawei.health/com.huawei.health.MainActivity" image="huawei_health" />
+  <AppIcon name="com.huawei.health/com.huawei.health.MainActivity" image="huawei_health"/>
 
   <!-- Huawei HiCare -->
-  <AppIcon name="com.huawei.phoneservice/com.huawei.phoneservice.LaunchActivity" image="huawei_hi__care" />
+  <AppIcon name="com.huawei.phoneservice/com.huawei.phoneservice.LaunchActivity" image="huawei_hi__care"/>
 
   <!-- Huawei HiGame -->
   <AppIcon name="com.huawei.gamebox.global/com.huawei.higame.MainActivity" image="games"/>
@@ -3210,16 +3246,13 @@
   <!-- I Love Hue -->
   <!--<AppIcon name="com.zutgames.ilovehue/com.ansca.corona.CoronaActivity" image="i_love_hue" />-->
 
-  <!-- i Theme -->
-  <!-- <AppIcon name="com.bbk.theme/com.bbk.theme.Theme" image="_i_theme"/> -->
-
   <!-- iA Writer -->
   <AppIcon name="net.ia.iawriter/net.ia.iawriter.utilities.SplashActivity" image="_i__a_writer"/>
   <AppIcon name="net.ia.iawriter/net.ia.iawriter.editor.EditorActivity" image="_i__a_writer"/>
   <AppIcon name="net.ia.iawriter/net.ia.iawriter.EditorActivity" image="_i__a_writer"/>
 
   <!-- Icon Pack Studio -->
-  <AppIcon name="ginlemon.iconpackstudio/ginlemon.iconpackstudio.editor.homeActivity.HomeActivity" image="icon_pack_studio" />
+  <AppIcon name="ginlemon.iconpackstudio/ginlemon.iconpackstudio.editor.homeActivity.HomeActivity" image="icon_pack_studio"/>
 
   <!-- Iconzy -->
   <AppIcon name="com.arun.kustomiconpack/com.arun.kustomiconpack.MainActivity" image="iconzy"/>
@@ -3263,9 +3296,9 @@
   <!-- <AppIcon name="cn.com.broadlink.econtrol.plus/cn.com.broadlink.econtrol.plus.activity.LoadingActivity" image="_ihc"/> -->
 
   <!-- iHeartRadio -->
-  <AppIcon name="com.clearchannel.iheartradio.connect/com.clearchannel.iheartradio.connect.SplashActivity" image="_i__heart__radio" />
-  <AppIcon name="com.clearchannel.iheartradio.controller/com.clearchannel.iheartradio.controller.iheartradio" image="_i__heart__radio" />
-  <AppIcon name="com.clearchannel.iheartradio.controller/com.clearchannel.iheartradio.controller.activities.NavDrawerActivity" image="_i__heart__radio" />
+  <AppIcon name="com.clearchannel.iheartradio.connect/com.clearchannel.iheartradio.connect.SplashActivity" image="_i__heart__radio"/>
+  <AppIcon name="com.clearchannel.iheartradio.controller/com.clearchannel.iheartradio.controller.iheartradio" image="_i__heart__radio"/>
+  <AppIcon name="com.clearchannel.iheartradio.controller/com.clearchannel.iheartradio.controller.activities.NavDrawerActivity" image="_i__heart__radio"/>
 
   <!-- iJUK -->
   <!-- <AppIcon name="com.sikebo.ijuk.icons.simple/com.sikebo.ijuk.icons.simple.activities.SplashActivity" image="_i__juk"/> -->
@@ -3331,10 +3364,10 @@
   <!-- <AppIcon name="com.innologica.inoreader/com.innologica.inoreader.activities.BootstrapActivity" image="inoreader"/> -->
 
   <!-- inshorts -->
-  <!-- <AppIcon name="com.nis.app/com.nis.app.ui.activities.HomeActivity" image="_inshorts"/> -->
+  <AppIcon name="com.nis.app/com.nis.app.ui.activities.HomeActivity" image="_inshorts"/>
 
   <!-- InShot -->
-  <AppIcon name="com.camerasideas.instashot/com.camerasideas.instashot.DummyActivity" image="in__shot" />
+  <AppIcon name="com.camerasideas.instashot/com.camerasideas.instashot.DummyActivity" image="in__shot"/>
 
   <!-- Insight Timer -->
   <AppIcon name="com.spotlightsix.zentimerlite2/co.insight.timer2.LauncherActivity" image="timer_alt"/>
@@ -3347,10 +3380,10 @@
   <AppIcon name="com.instagram.layout/com.instagram.layout.LayoutActivity" image="instagram_layout"/>
 
   <!-- InstaMod -->
-  <AppIcon name="com.instamod.android/com.instamod.android.activity.MainTabActivity" image="insta__mod" />
+  <AppIcon name="com.instamod.android/com.instamod.android.activity.MainTabActivity" image="insta__mod"/>
 
   <!-- Instapaper -->
-  <AppIcon name="com.instapaper.android/com.instapaper.android.MainActivity" image="instapaper" />
+  <AppIcon name="com.instapaper.android/com.instapaper.android.MainActivity" image="instapaper"/>
 
   <!-- InstaSave -->
   <AppIcon name="com.meepo.instasave/com.meepo.instasave.activity.SplashActivity" image="insta__save"/>
@@ -3388,7 +3421,7 @@
   <AppIcon name="com.itaucard.activity/com.itaucard.app.IntroItaucardActivity" image="banking"/>
 
   <!-- iTranslate -->
-  <AppIcon name="at.nk.tools.iTranslate/com.sonicomobile.itranslate.app.activities.LaunchActivity" image="globe" />
+  <AppIcon name="at.nk.tools.iTranslate/com.sonicomobile.itranslate.app.activities.LaunchActivity" image="globe"/>
 
   <!-- IXIgo trains -->
   <AppIcon name="com.ixigo.train.ixitrain/com.ixigo.train.ixitrain.SplashScreenActivity" image="travel"/>
@@ -3397,7 +3430,7 @@
   <!-- <AppIcon name="cn.poco.jane/cn.poco.jane.MainActivity" image="jane"/> -->
 
   <!-- Jango -->
-  <AppIcon name="com.jangomobile.android/com.jangomobile.android.ui.activities.SplashActivity" image="jango" />
+  <AppIcon name="com.jangomobile.android/com.jangomobile.android.ui.activities.SplashActivity" image="jango"/>
 
   <!-- Jingdong Mail -->
   <!-- <AppIcon name="com.jingdong.app.mall/com.jingdong.app.mall.main.MainActivity" image="jingdong_mail"/> -->
@@ -3424,7 +3457,7 @@
   <AppIcon name="o.o.joey/o.o.joey.Activities.HomeActivity" image="reddit_alt"/>
 
   <!-- John SNES -->
-  <AppIcon name="com.johnemulators.johnsnes/com.johnemulators.common.RomListActivity" image="john_s___nes" />
+  <AppIcon name="com.johnemulators.johnsnes/com.johnemulators.common.RomListActivity" image="john_s___nes"/>
 
   <!-- Join -->
   <AppIcon name="com.joaomgcd.join/com.joaomgcd.join.activity.ActivityMain" image="join"/>
@@ -3512,8 +3545,11 @@
   <AppIcon name="kik.android/kik.android.chat.activity.IntroActivity" image="kik"/>
   <AppIcon name="kik.android/kik.android.chat.fragment.KikFragmentActivity" image="kik"/>
 
+  <!-- KineMaster -->
+  <AppIcon name="com.nexstreaming.app.kinemasterfree/com.nextreaming.nexeditorui.MainActivity" image="kine__master" />
+
   <!-- Kiwi Browser -->
-  <AppIcon name="com.kiwibrowser.browser/com.google.android.apps.chrome.Main" image="kiwi_browser" />
+  <AppIcon name="com.kiwibrowser.browser/com.google.android.apps.chrome.Main" image="kiwi_browser"/>
 
   <!-- Kiwi VPN -->
   <!-- <AppIcon name="com.securevpn.connectip.kiwivpn/vpn.client.activity.SplashActivity" image="kiwi_v__p__n"/> -->
@@ -3653,7 +3689,7 @@
   <AppIcon name="org.kustom.widget.pro/org.kustom.pro.MainActivity" image="kustom_k___wgt"/>
 
   <!-- KUNR -->
-  <AppIcon name="org.kustom.unread/org.kustom.unread.MainActivity" image="kustom_k___unr" />
+  <AppIcon name="org.kustom.unread/org.kustom.unread.MainActivity" image="kustom_k___unr"/>
 
   <!-- KWeather -->
   <AppIcon name="org.kustom.weather/org.kustom.weather.MainActivity" image="kustom_k__weather"/>
@@ -3665,13 +3701,13 @@
   <!--<AppIcon name="fm.last.android/fm.last.android.ui.activity.SplashScreen" image="last_f__m" />-->
 
   <!-- LastPass -->
-  <AppIcon name="com.lastpass.lpandroid.beta/com.lastpass.lpandroid.activity.WebBrowserActivity" image="last__pass" />
-  <AppIcon name="com.lastpass.lpandroid/com.lastpass.lpandroid.activity.WebBrowserActivity" image="last__pass" />
-  <AppIcon name="com.lastpass.lpandroid/com.lastpass.lpandroid.WebBrowserActivity" image="last__pass" />
+  <AppIcon name="com.lastpass.lpandroid.beta/com.lastpass.lpandroid.activity.WebBrowserActivity" image="last__pass"/>
+  <AppIcon name="com.lastpass.lpandroid/com.lastpass.lpandroid.activity.WebBrowserActivity" image="last__pass"/>
+  <AppIcon name="com.lastpass.lpandroid/com.lastpass.lpandroid.WebBrowserActivity" image="last__pass"/>
 
   <!-- LastPass Authenticator -->
-  <AppIcon name="com.lastpass.authenticator/com.lastpass.authenticator.activities.SplashActivity" image="last__pass_authenticator" />
-  <AppIcon name="com.lastpass.authenticator/com.logmein.authenticator.activities.SplashActivity" image="last__pass_authenticator" />
+  <AppIcon name="com.lastpass.authenticator/com.lastpass.authenticator.activities.SplashActivity" image="last__pass_authenticator"/>
+  <AppIcon name="com.lastpass.authenticator/com.logmein.authenticator.activities.SplashActivity" image="last__pass_authenticator"/>
 
   <!-- Lawnchair -->
   <AppIcon name="ch.deletescape.lawnchair.plah/ch.deletescape.lawnchair.Launcher" image="lawnchair_launcher"/>
@@ -3703,14 +3739,14 @@
   <!-- <AppIcon name="com.pamsys.lexisaudioeditor/md558ac07178e5e80c07598edf7bc81ad1f.MainActivity" image="lexis_audio_editor"/> -->
 
   <!-- LetItBe O -->
-  <!-- <AppIcon name="com.sikebo.letitbeO.icons.minimal/com.sikebo.letitbeO.icons.minimal.activities.SplashActivity" image="let__it__be_o"/> -->
+  <AppIcon name="com.sikebo.letitbeO.icons.minimal/com.sikebo.letitbeO.icons.minimal.activities.SplashActivity" image="let__it__be_o"/>
 
   <!-- Libby -->
   <AppIcon name="com.overdrive.mobile.android.libby/com.overdrive.mobile.android.nautilus.ui.Activity_Main" image="audiobook_alt"/>
 
   <!-- LibriVox -->
-  <AppIcon name="app.librivox.android/biz.bookdesign.librivox.LibriVoxActivity" image="audiobook" />
-  <AppIcon name="biz.bookdesign.librivox.pro/biz.bookdesign.librivox.LibriVoxActivity" image="audiobook" />
+  <AppIcon name="app.librivox.android/biz.bookdesign.librivox.LibriVoxActivity" image="audiobook"/>
+  <AppIcon name="biz.bookdesign.librivox.pro/biz.bookdesign.librivox.LibriVoxActivity" image="audiobook"/>
 
   <!-- LIFE Fasting Tracker -->
   <!--<AppIcon name="com.lifeomic.lifefasting/com.lifeomic.lifefasting.SplashActivity" image="___life_fasting" />-->
@@ -3735,10 +3771,10 @@
   <!--<AppIcon name="com.limebike/com.limebike.view.OnboardActivity" image="lime" />-->
 
   <!-- LimeLine Icons -->
-  <AppIcon name="com.jndapp.limeline.linex.iconpack/com.jndapp.limeline.linex.iconpack.MainActivity" image="lime__line" />
+  <AppIcon name="com.jndapp.limeline.linex.iconpack/com.jndapp.limeline.linex.iconpack.MainActivity" image="lime__line"/>
 
   <!-- LINE -->
-    <AppIcon name="jp.naver.line.android/jp.naver.line.android.activity.SplashActivity" image="___line" />
+  <AppIcon name="jp.naver.line.android/jp.naver.line.android.activity.SplashActivity" image="___line"/>
 
   <!-- Linebit -->
   <AppIcon name="com.edzondm.linebit/com.edzondm.linebit.MainActivity" image="linebit"/>
@@ -3747,15 +3783,15 @@
   <AppIcon name="com.edzondm.linebitse/com.edzondm.linebitse.MainActivity" image="linebit"/>
 
   <!-- Linebit Light -->
-  <!-- <AppIcon name="com.edzondm.linebitlight/com.edzondm.linebitwhite.MainActivity" image="linebit_light" /> -->
+  <AppIcon name="com.edzondm.linebitlight/com.edzondm.linebitlight.MainActivity" image="linebit_light" />
 
   <!-- LineX Icon Pack -->
-  <!-- <AppIcon name="com.jndapp.line.x.iconpack/com.jndapp.line.x.iconpack.MainActivity" image="line__x"/> -->
+  <AppIcon name="com.jndapp.line.x.iconpack/com.jndapp.line.x.iconpack.MainActivity" image="line__x_icon_pack"/>
 
   <!-- LinkedIn -->
-  <AppIcon name="com.linkedin.android.jobs.jobseeker/com.linkedin.android.jobs.jobseeker.activity.AppLauncherActivity" image="linked__in" />
-  <AppIcon name="com.linkedin.android/com.linkedin.android.authenticator.LaunchActivity" image="linked__in" />
-  <AppIcon name="com.Linkedinpluspro/com.Linkedinpluspro.MainNavigationActivity" image="linked__in" />
+  <AppIcon name="com.linkedin.android.jobs.jobseeker/com.linkedin.android.jobs.jobseeker.activity.AppLauncherActivity" image="linked__in"/>
+  <AppIcon name="com.linkedin.android/com.linkedin.android.authenticator.LaunchActivity" image="linked__in"/>
+  <AppIcon name="com.Linkedinpluspro/com.Linkedinpluspro.MainNavigationActivity" image="linked__in"/>
 
   <!-- LinkedIn Learning -->
   <!--<AppIcon name="com.linkedin.android.learning/com.linkedin.android.learning.onboarding.launchscreen.LaunchScreenActivity" image="linked__in_learning" />-->
@@ -3818,7 +3854,7 @@
   <AppIcon name="com.powerpoint45.launcherpro/com.powerpoint45.launcherpro.MainActivity" image="lucid_launcher"/>
 
   <!-- Ludo King -->
-  <AppIcon name="com.ludo.king/com.google.firebase.MessagingUnityPlayerActivity" image="ludo_king" />
+  <AppIcon name="com.ludo.king/com.google.firebase.MessagingUnityPlayerActivity" image="ludo_king"/>
 
   <!-- Lufthansa -->
   <!--<AppIcon name="com.lufthansa.android.lufthansa/com.lufthansa.android.lufthansa.ui.activity.HomeActivity" image="lufthansa" />-->
@@ -3955,6 +3991,9 @@
 
   <!-- Meu Destino Vix -->
   <!-- <AppIcon name="br.com.meudestino.activity/br.com.meudestino.activity.MainActivity" image="meu_destino_vix"/> -->
+
+  <!-- Meu TIM -->
+  <AppIcon name="br.com.timbrasil.meutim/com.accenture.meutim.activities.SplashScreenActivity" image="meu_t__i__m" />
 
   <!-- MeWe -->
   <AppIcon name="com.mewe/com.mewe.ui.activity.SplashActivity" image="me__we"/>
@@ -4117,7 +4156,7 @@
   <!-- <AppIcon name="com.cryptobees.mimind/com.rlib.GL2JNIActivity" image="_mi__mind"/> -->
 
   <!-- Min -->
-  <AppIcon name="com.ryanmkelly.me.min/com.ryanmkelly.me.min.ui.MainActivity" image="min" />
+  <AppIcon name="com.ryanmkelly.me.min/com.ryanmkelly.me.min.ui.MainActivity" image="min"/>
 
   <!-- Minecraft -->
   <AppIcon name="com.mojang.minecraftpe/com.mojang.minecraftpe.MainActivity" image="minecraft"/>
@@ -4126,7 +4165,7 @@
   <!-- <AppIcon name="com.minergate.miner/com.minergate.miner.activities.SplashActivity" image="miner__gate"/> -->
 
   <!-- Minimal O Icons -->
-  <AppIcon name="com.jndapp.minimal.o.iconpack/com.jndapp.minimal.o.iconpack.activities.SplashActivity" image="minimal_o" />
+  <AppIcon name="com.jndapp.minimal.o.iconpack/com.jndapp.minimal.o.iconpack.activities.SplashActivity" image="minimal_o"/>
 
   <!-- MinimaList -->
   <AppIcon name="com.davetech.todo/com.davetech.todo.main.MainActivity" image="minima__list"/>
@@ -4140,13 +4179,15 @@
   <!-- MiniVAN -->
   <!-- <AppIcon name="com.voteractivationnetwork.minivan/com.voteractivationnetwork.minivan.ui.activities.LaunchActivity" image="mini___van"/> -->
 
+  !-- Minma Icon Pack -->
+  <AppIcon name="com.minma.icon.free/com.minma.icon.free.activities.SplashActivity" image="minma_icon_pack" />
+
   <!-- MinMaCons -->
   <!-- <AppIcon name="com.rohitshetty.minmacons/com.rohitshetty.minmacons.activities.SplashActivity" image="min__ma__cons"/> -->
 
   <!-- Minty -->
   <AppIcon name="pl.patrykgoworowski.mintyfree/pl.patrykgoworowski.mintyfree.MainActivity" image="minty"/>
-  <AppIcon name="pl.patrykgoworowski.mintypro/pl.patrykgoworowski.mintypro.MainActivity"
-  image="minty"/>
+  <AppIcon name="pl.patrykgoworowski.mintypro/pl.patrykgoworowski.mintypro.MainActivity" image="minty"/>
 
   <!-- Mino -->
   <!-- <AppIcon name="com.santiagosarquis.mino/com.santiagosarquis.mino.activities.SplashActivity" image="mino"/> -->
@@ -4204,6 +4245,9 @@
   <!-- Moment Pro Camera -->
   <!-- <AppIcon name="com.shopmoment.momentprocamera/com.shopmoment.momentprocamera.feature.splash.SplashActivity" image="moment_pro_camera"/> -->
 
+  <!-- Money Lover -->
+  <AppIcon name="com.bookmark.money/com.zoostudio.moneylover.ui.ActivitySplash" image="money_lover" />
+
   <!-- Money Manager -->
   <!-- <AppIcon name="com.realbyteapps.moneymanagerfree/com.realbyteapps.moneymanagerfree.MMFreeActivity" image="money_manager"/> -->
 
@@ -4248,7 +4292,7 @@
   <!-- <AppIcon name="com.zumobi.android.motortrend/com.zumobi.android.MainActivity" image="motor__trend"/> -->
 
   <!-- Motorola -->
-  <AppIcon name="com.motorola.moto/com.motorola.assist.ui.screens.MainActivity" image="moto" />
+  <AppIcon name="com.motorola.moto/com.motorola.assist.ui.screens.MainActivity" image="moto"/>
 
   <!-- Motorola Notifications -->
   <!-- <AppIcon name="com.motorola.ccc.notification/com.motorola.engageapp.ui.NotificationLauncherActivity" image="moto_notifications" /> -->
@@ -4267,6 +4311,9 @@
 
   <!-- MTweaks -->
   <!-- <AppIcon name="com.moro.mtweaks/com.moro.mtweaks.activities.StartActivity" image="m__tweaks"/> -->
+
+  <!-- Mubert -->
+  <AppIcon name="com.jellyworkz.mubert/com.jellyworkz.mubert.presentation.MainActivity" image="mubert" />
 
   <!-- Multi Timer -->
   <AppIcon name="com.jee.timer/com.jee.timer.ui.activity.IntroActivity" image="timer"/>
@@ -4296,7 +4343,7 @@
   <!-- <AppIcon name="com.bitsmedia.android.muslimpro/com.bitsmedia.android.muslimpro.activities.SplashActivity" image="muslim_pro"/> -->
 
   <!-- Muviz -->
-  <AppIcon name="com.perfectapps.muviz/com.perfectapps.muviz.activity.HomeActivity" image="muviz" />
+  <AppIcon name="com.perfectapps.muviz/com.perfectapps.muviz.activity.HomeActivity" image="muviz"/>
 
   <!-- Muzzik -->
   <!-- <AppIcon name="com.buhane.muzzik/com.buhane.muzzik.ui.activities.MainActivity" image="muzzik"/> -->
@@ -4320,7 +4367,7 @@
   <!-- <AppIcon name="com.andatsoft.myapk.fwa/com.andatsoft.app.myapk.screen.SplashActivity" image="my_a__p__k"/> -->
 
   <!-- My Boy! -->
-  <AppIcon name="com.fastemulator.gba/com.fastemulator.gba.MainActivity" image="games_alt" />
+  <AppIcon name="com.fastemulator.gba/com.fastemulator.gba.MainActivity" image="games_alt"/>
 
   <!-- My Budget Book -->
   <AppIcon name="com.onetwoapps.mh/com.onetwoapps.mh.MainTabActivity" image="banking_alt"/>
@@ -4404,18 +4451,18 @@
   <!-- <AppIcon name="com.vandersw.navypfa/com.vandersw.navypfa.MainActivity" image="navy_p__f__a"/> -->
 
   <!-- NBC -->
-  <AppIcon name="com.nbcuni.nbc/com.nbcuni.nbc.NBCLaunchActivity" image="___nbc" />
-  <AppIcon name="com.nbcuni.nbc/com.nbc.nbcapp.activity.SplashScreen" image="___nbc" />
-  <AppIcon name="com.nbcuni.nbc/com.nbc.commonui.activity.SplashScreen" image="___nbc" />
-  <AppIcon name="com.nbcuni.nbc/com.nbc.commonui.activity.DeepLinkActivity" image="___nbc" />
+  <AppIcon name="com.nbcuni.nbc/com.nbcuni.nbc.NBCLaunchActivity" image="___nbc"/>
+  <AppIcon name="com.nbcuni.nbc/com.nbc.nbcapp.activity.SplashScreen" image="___nbc"/>
+  <AppIcon name="com.nbcuni.nbc/com.nbc.commonui.activity.SplashScreen" image="___nbc"/>
+  <AppIcon name="com.nbcuni.nbc/com.nbc.commonui.activity.DeepLinkActivity" image="___nbc"/>
 
   <!-- NBC News -->
-  <AppIcon name="com.zumobi.msnbc/com.nbcnews.newsappcommon.activities.SplashActivity" image="___nbc_news" />
-  <AppIcon name="com.zumobi.msnbc/com.nbcnews.newsappui.activities.SplashActivity" image="___nbc_news" />
-  <AppIcon name="com.zumobi.msnbc/com.nbc.activities.MainActivity" image="___nbc_news" />
+  <AppIcon name="com.zumobi.msnbc/com.nbcnews.newsappcommon.activities.SplashActivity" image="___nbc_news"/>
+  <AppIcon name="com.zumobi.msnbc/com.nbcnews.newsappui.activities.SplashActivity" image="___nbc_news"/>
+  <AppIcon name="com.zumobi.msnbc/com.nbc.activities.MainActivity" image="___nbc_news"/>
 
   <!-- NBC Sports -->
-  <AppIcon name="air.com.nbcuni.com.nbcsports.liveextra/com.nbc.nbcsports.activities.SplashActivity" image="___nbc_sports" />
+  <AppIcon name="air.com.nbcuni.com.nbcsports.liveextra/com.nbc.nbcsports.activities.SplashActivity" image="___nbc_sports"/>
 
   <!-- Nebo -->
   <AppIcon name="com.myscript.nebo/com.myscript.nebo.BootstrapActivity" image="productivity"/>
@@ -4469,7 +4516,7 @@
   <AppIcon name="com.nytimes.android/com.nytimes.android.MainActivity" image="___ny__times"/>
 
   <!-- New York Times Crossword -->
-  <AppIcon name="com.nytimes.crossword/com.nytimes.crosswordlib.activity.MainActivity" image="___ny__times_crossword" />
+  <AppIcon name="com.nytimes.crossword/com.nytimes.crosswordlib.activity.MainActivity" image="___ny__times_crossword"/>
 
   <!-- Newegg -->
   <!--<AppIcon name="com.newegg.app/com.newegg.app.MainActivity" image="newegg" />-->
@@ -4506,7 +4553,7 @@
   <!-- <AppIcon name="com.nike.snkrs/com.nike.snkrs.feed.activities.TheWallActivity" image="nike_s___nkrs"/> -->
 
   <!-- Nintendo Switch Online -->
-  <AppIcon name="com.nintendo.znca/md5e14d8df872e237c80839f608ad2933ea.MainActivity" image="nintendo" />
+  <AppIcon name="com.nintendo.znca/md5e14d8df872e237c80839f608ad2933ea.MainActivity" image="nintendo"/>
 
   <!-- NoBroker -->
   <!-- <AppIcon name="com.nobroker.app/com.nobroker.app.activities.NBSplashScreen" image="no__broker"/> -->
@@ -4553,7 +4600,7 @@
   <AppIcon name="com.teslacoilsw.launcher/preferences.SettingsActivity" image="nova_launcher_settings"/>
 
   <!-- Tesla Unread -->
-  <AppIcon name="com.teslacoilsw.notifier/com.teslacoilsw.notifier.NotifierSettings" image="nova_launcher_unread" />
+  <AppIcon name="com.teslacoilsw.notifier/com.teslacoilsw.notifier.NotifierSettings" image="nova_launcher_unread"/>
 
   <!-- NS -->
   <!-- <AppIcon name="nl.ns.android.activity/nl.ns.android.activity.start.StartActivity" image="___ns"/> -->
@@ -4568,8 +4615,8 @@
   <!-- <AppIcon name="nl.sanomamedia.android.nu/nl.sanomamedia.android.nu.activity.NUMainActivity" image="nu_nl"/> -->
 
   <!-- Nubank -->
-  <!-- <AppIcon name="com.nu.production/com.nu.activity.main.InitialActivity" image="nubank" /> -->
-  <!-- <AppIcon name="com.nu.production/br.com.nubank.shell.screens.splash.SplashActivity" image="nubank" /> -->
+  <AppIcon name="com.nu.production/com.nu.activity.main.InitialActivity" image="nubank" />
+  <AppIcon name="com.nu.production/br.com.nubank.shell.screens.splash.SplashActivity" image="nubank" />
 
   <!-- Numberwiz -->
   <!-- <AppIcon name="com.dalton.numberwiz/com.dalton.numberwiz.MainActivity" image="numberwiz"/> -->
@@ -4600,30 +4647,30 @@
   <!-- <AppIcon name="com.jagex.oldscape.android/com.jagex.oldscape.android.AndroidLauncher" image="runescape"/> -->
 
   <!-- OLX -->
-  <AppIcon name="com.schibsted.bomnegocio.androidApp/com.schibsted.scm.nextgenapp.main.MainActivity" image="___olx" />
-  <AppIcon name="com.olx.olx/com.olx.olx.activity.Olx" image="___olx" />
-  <AppIcon name="com.olx.olx/com.olx.olx.ui.activities.SplashActivity" image="___olx" />
-  <AppIcon name="com.olx.pk/pl.tablica2.activities.ProxyActivity" image="___olx" />
-  <AppIcon name="com.olx.ssa.gh/olx.com.delorean.activities.OnBoardingActivity" image="___olx" />
-  <AppIcon name="com.olx.ssa.ng/pl.olx.activities.OlxMainActivity" image="___olx" />
-  <AppIcon name="com.olx.ssa.za/pl.olx.activities.OlxMainActivity" image="___olx" />
-  <AppIcon name="com.olxmena.horizontal/pl.olx.activities.OlxMainActivity" image="___olx" />
-  <AppIcon name="com.olxmena.horizontal/pl.olx.activities.TakeOverActivityMena" image="___olx" />
-  <AppIcon name="com.fixeads.olxportugal/pl.olx.activities.OlxMainActivity" image="___olx" />
-  <AppIcon name="ph.com.sulit.app/ph.com.sulit.app.activities.MainActivity" image="___olx" />
-  <AppIcon name="pl.tablica/pl.tablica2.activities.MainActivity" image="___olx" />
-  <AppIcon name="pl.tablica/pl.olx.activities.OlxMainActivity" image="___olx" />
-  <AppIcon name="pl.tablica/pl.tablica2.app.startup.activity.StartupActivity" image="___olx" />
-  <AppIcon name="ua.slando/pl.tablica2.activities.MainActivity" image="___olx" />
-  <AppIcon name="ua.slando/pl.olx.activities.OlxMainActivity" image="___olx" />
-  <AppIcon name="ua.slando/pl.tablica2.app.startup.activity.StartupActivity" image="___olx" />
-  <AppIcon name="ro.mercador/pl.tablica2.activities.MainActivity" image="___olx" />
-  <AppIcon name="ro.mercador/pl.olx.activities.OlxMainActivity" image="___olx" />
-  <AppIcon name="ro.mercador/pl.tablica2.app.startup.activity.StartupActivity" image="___olx" />
+  <AppIcon name="com.schibsted.bomnegocio.androidApp/com.schibsted.scm.nextgenapp.main.MainActivity" image="___olx"/>
+  <AppIcon name="com.olx.olx/com.olx.olx.activity.Olx" image="___olx"/>
+  <AppIcon name="com.olx.olx/com.olx.olx.ui.activities.SplashActivity" image="___olx"/>
+  <AppIcon name="com.olx.pk/pl.tablica2.activities.ProxyActivity" image="___olx"/>
+  <AppIcon name="com.olx.ssa.gh/olx.com.delorean.activities.OnBoardingActivity" image="___olx"/>
+  <AppIcon name="com.olx.ssa.ng/pl.olx.activities.OlxMainActivity" image="___olx"/>
+  <AppIcon name="com.olx.ssa.za/pl.olx.activities.OlxMainActivity" image="___olx"/>
+  <AppIcon name="com.olxmena.horizontal/pl.olx.activities.OlxMainActivity" image="___olx"/>
+  <AppIcon name="com.olxmena.horizontal/pl.olx.activities.TakeOverActivityMena" image="___olx"/>
+  <AppIcon name="com.fixeads.olxportugal/pl.olx.activities.OlxMainActivity" image="___olx"/>
+  <AppIcon name="ph.com.sulit.app/ph.com.sulit.app.activities.MainActivity" image="___olx"/>
+  <AppIcon name="pl.tablica/pl.tablica2.activities.MainActivity" image="___olx"/>
+  <AppIcon name="pl.tablica/pl.olx.activities.OlxMainActivity" image="___olx"/>
+  <AppIcon name="pl.tablica/pl.tablica2.app.startup.activity.StartupActivity" image="___olx"/>
+  <AppIcon name="ua.slando/pl.tablica2.activities.MainActivity" image="___olx"/>
+  <AppIcon name="ua.slando/pl.olx.activities.OlxMainActivity" image="___olx"/>
+  <AppIcon name="ua.slando/pl.tablica2.app.startup.activity.StartupActivity" image="___olx"/>
+  <AppIcon name="ro.mercador/pl.tablica2.activities.MainActivity" image="___olx"/>
+  <AppIcon name="ro.mercador/pl.olx.activities.OlxMainActivity" image="___olx"/>
+  <AppIcon name="ro.mercador/pl.tablica2.app.startup.activity.StartupActivity" image="___olx"/>
   <AppIcon name="com.app.tokobagus.betterb/sea.olxsulley.OlxIdMainActivity" image="___olx"/>
   <AppIcon name="com.app.tokobagus.betterb/com.olxgroup.panamera.presentation.splash.SplashActivity" image="___olx"/>
   <AppIcon name="com.olx.southasia/com.olxgroup.panamera.presentation.splash.SplashActivity" image="___olx"/>
-  <AppIcon name="com.olx.southasia/pl.tablica2.activities.MainActivity" image="___olx" />
+  <AppIcon name="com.olx.southasia/pl.tablica2.activities.MainActivity" image="___olx"/>
 
   <!-- Omni -->
   <!-- <AppIcon name="se.omni/se.omni.features.intro.IntroActivity" image="omni"/> -->
@@ -4666,11 +4713,23 @@
   <AppIcon name="com.opera.browser/com.opera.Opera" image="opera"/>
   <AppIcon name="com.opera.mini.native.beta/com.opera.mini.android.Browser" image="opera"/>
 
+  <!-- OPPO Game Center -->
+  <AppIcon name="com.nearme.gamecenter/com.nearme.gamecenter.ui.activity.SplashActivity" image="___oppo_game_center" />
+
+  <!-- OPPO Game Space -->
+  <AppIcon name="com.coloros.gamespace/com.coloros.gamespace.activity.MainActivity" image="___oppo_game_space" />
+
+  <!-- OPPO One Tap Lockscreen -->
+  <AppIcon name="com.coloros.onekeylockscreen/com.coloros.onekeylockscreen.OppoLockScreen" image="one_tap_lockscreen" />
+
   <!-- Orbot -->
   <!-- <AppIcon name="org.torproject.android/org.torproject.android.OrbotMainActivity" image="orbot"/> -->
 
   <!-- Ordia -->
   <!-- <AppIcon name="com.lojugames.android.Ordia/com.unity3d.player.UnityPlayerActivity" image="ordia"/> -->
+
+  <!-- ORoaming -->
+  <AppIcon name="com.redteamobile.roaming/com.redteamobile.roaming.MainActivity" image="o__roaming" />
 
   <!-- Orphic -->
   <!-- <AppIcon name="orphic.eclectik.com.orphic/orphic.eclectik.com.orphic.activities.LoginActivity" image="orphic"/> -->
@@ -4784,15 +4843,15 @@
   <!-- <AppIcon name="com.popularapp.periodcalendar/com.popularapp.periodcalendar.AdActivity" image="period_tracker"/> -->
 
   <!-- Periodic Table -->
-  <AppIcon name="mendeleev.redlime/mendeleev.redlime.MainActivity" image="periodic_table" />
-  <AppIcon name="mendeleev.redlime/mendeleev.redlime.fragments.MainActivity" image="periodic_table" />
-  <AppIcon name="mendeleev.redlime/redlime.pereodic.MainActivityGrid" image="periodic_table" />
-  <AppIcon name="mendeleev.redlime/redlime.pereodic.MainActivityGrid_new" image="periodic_table" />
-  <AppIcon name="august.mendeleev.pro/august.mendeleev.pro.MainActivity" image="periodic_table" />
-  <AppIcon name="org.rsc.periodictable/md58de53ac9bfbcaef4d6118bfb02a0ae24.LoadingScreenActivity" image="periodic_table" />
+  <AppIcon name="mendeleev.redlime/mendeleev.redlime.MainActivity" image="periodic_table"/>
+  <AppIcon name="mendeleev.redlime/mendeleev.redlime.fragments.MainActivity" image="periodic_table"/>
+  <AppIcon name="mendeleev.redlime/redlime.pereodic.MainActivityGrid" image="periodic_table"/>
+  <AppIcon name="mendeleev.redlime/redlime.pereodic.MainActivityGrid_new" image="periodic_table"/>
+  <AppIcon name="august.mendeleev.pro/august.mendeleev.pro.MainActivity" image="periodic_table"/>
+  <AppIcon name="org.rsc.periodictable/md58de53ac9bfbcaef4d6118bfb02a0ae24.LoadingScreenActivity" image="periodic_table"/>
 
   <!-- PES 2020 -->
-  <AppIcon name="jp.konami.pesam/com.epicgames.ue4.SplashActivity" image="___pes_2020" />
+  <AppIcon name="jp.konami.pesam/com.epicgames.ue4.SplashActivity" image="___pes_2020"/>
 
   <!-- Phases of the Moon -->
   <!-- <AppIcon name="com.universetoday.moon.free/com.universetoday.moon.free.MoonPhases" image="phases_of_the_moon"/> -->
@@ -5060,7 +5119,7 @@
   <!-- <AppIcon name="br.com.promobit.app/br.com.promobit.app.activities.MainActivity" image="promobit"/> -->
 
   <!-- ProtonMail -->
-  <AppIcon name="ch.protonmail.android/ch.protonmail.android.activities.SplashActivity" image="proton__mail" />
+  <AppIcon name="ch.protonmail.android/ch.protonmail.android.activities.SplashActivity" image="proton__mail"/>
 
   <!-- ProtonVPN -->
   <AppIcon name="com.protonvpn.android/com.protonvpn.android.ui.LoginActivity" image="proton_v__p__n"/>
@@ -5074,7 +5133,7 @@
   <AppIcon name="com.tencent.ig/com.epicgames.ue4.SplashActivity" image="___pubg"/>
 
   <!-- Pulsar -->
-  <AppIcon name="com.rhmsoft.pulsar/com.rhmsoft.play.MainActivity" image="music" />
+  <AppIcon name="com.rhmsoft.pulsar/com.rhmsoft.play.MainActivity" image="music"/>
   <!--<AppIcon name="com.rhmsoft.pulsar/com.rhmsoft.play.MainActivity" image="pulsar" />-->
 
   <!-- Pulse Messenger -->
@@ -5132,8 +5191,8 @@
   <AppIcon name="tw.com.quickmark/tw.com.quickmark.Splash" image="barcode_scanner"/>
 
   <!-- QuickPic -->
-  <AppIcon name="com.alensw.PicFolder/com.alensw.PicFolder.MainActivity" image="quick__pic" />
-  <AppIcon name="com.alensw.PicFolder/com.alensw.PicFolder.GalleryActivity" image="quick__pic" />
+  <AppIcon name="com.alensw.PicFolder/com.alensw.PicFolder.MainActivity" image="quick__pic"/>
+  <AppIcon name="com.alensw.PicFolder/com.alensw.PicFolder.GalleryActivity" image="quick__pic"/>
 
   <!-- QuickSwitch -->
   <!-- <AppIcon name="xyz.paphonb.quickstepswitcher/xyz.paphonb.quickstepswitcher.MainActivity" image="quick__switch"/> -->
@@ -5238,8 +5297,8 @@
   <!-- <AppIcon name="com.nitrome.redungeon/md5f28eb93c915e83953b6c580bbf213b35.SplashActivity" image="redungeon"/> -->
 
   <!-- Reev Icons -->
-  <!-- <AppIcon name="com.reevicons.grabsterstudios/com.reevicons.grabsterstudios.MainActivity" image="reev_icons"/> -->
-  <!-- <AppIcon name="com.reevpro.grabsterstudios/com.reevpro.grabsterstudios.MainActivity" image="reev_icons"/> -->
+  <AppIcon name="com.reevicons.grabsterstudios/com.reevicons.grabsterstudios.MainActivity" image="reev_icons"/>
+  <AppIcon name="com.reevpro.grabsterstudios/com.reevpro.grabsterstudios.MainActivity" image="reev_icons"/>
 
   <!-- Rejseplanen -->
   <!-- <AppIcon name="de.hafas.android.rejseplanen/de.hafas.main.HafasApp" image="rejseplanen"/> -->
@@ -5336,7 +5395,6 @@
   <!--<AppIcon name="com.geag.vehicleregistrationdetails.vehicleinfo/com.geag.vehicleregistrationdetails.vehicleinfo.SplashRTO" image="___rto_vehicle_information"/>-->
   <!--<AppIcon name="com.suitableapps.vehicleinfo/com.suitableapps.vehicleinfo.Splash" image="___rto_vehicle_information"/>-->
 
-
   <!-- RuneScape -->
   <!--<AppIcon name="com.jagex.runescape.android/com.jagex.android.MainActivity" image="runescape" />-->
 
@@ -5363,6 +5421,9 @@
 
   <!-- Samsung Bixby Vision -->
   <!-- <AppIcon name="com.samsung.android.visionintelligence/com.samsung.android.visionintelligence.app.DummyActivity" image="samsung_bixby_vision"/> -->
+
+  <!-- Samsung Bixby Voice -->
+  <AppIcon name="com.samsung.android.bixby.agent/com.samsung.android.bixby.assistanthome.AssistantHomeLauncherActivity" image="samsung_bixby_voice"/>
 
   <!-- Samsung Cloud -->
   <AppIcon name="com.samsung.android.scloud/com.samsung.android.scloud.app.ui.splash.launcher" image="samsung_cloud"/>
@@ -5393,8 +5454,8 @@
   <!-- <AppIcon name="com.samsung.android.gametuner.thin/com.samsung.android.gametuner.thin.activity.SplashActivity" image="samsung_game_tuner"/> -->
 
   <!-- Samsung Good Lock -->
-  <AppIcon name="com.samsung.android.goodlock/com.samsung.android.goodlock.presentation.view.PluginListActivity" image="samsung_good_lock" />
-  <AppIcon name="yuh.yuh.finelock/yuh.yuh.finelock.M" image="samsung_good_lock" />
+  <AppIcon name="com.samsung.android.goodlock/com.samsung.android.goodlock.presentation.view.PluginListActivity" image="samsung_good_lock"/>
+  <AppIcon name="yuh.yuh.finelock/yuh.yuh.finelock.M" image="samsung_good_lock"/>
 
   <!-- Samsung Health -->
   <AppIcon name="com.sec.android.app.shealth/com.samsung.android.app.shealth.home.HomeMainActivity" image="samsung_health"/>
@@ -5407,6 +5468,9 @@
 
   <!-- Samsung Level -->
   <!-- <AppIcon name="com.sec.samsungsoundphone/com.sec.samsungsoundphone.ui.control.DefaultActivity" image="samsung_level"/> -->
+
+  <!-- Samsung Max -->
+  <AppIcon name="com.opera.max.oem/com.opera.max.ui.v2.MainActivity" image="samsung_max" />
 
   <!-- Samsung Members -->
   <AppIcon name="com.samsung.android.voc/com.samsung.android.voc.LauncherActivity" image="samsung_members"/>
@@ -5465,7 +5529,7 @@
   <AppIcon name="com.samsung.android.oneconnect/com.samsung.android.oneconnect.ui.SCMainActivity" image="samsung_smart__things"/>
 
   <!-- Samsung SoundAssistant -->
-  <!-- <AppIcon name="com.samsung.android.soundassistant/com.sec.android.soundassistant.activities.MainActivity" image="samsung_sound__assistant"/> -->
+  <AppIcon name="com.samsung.android.soundassistant/com.sec.android.soundassistant.activities.MainActivity" image="samsung_sound__assistant"/>
 
   <!-- Samsung Video Library -->
   <AppIcon name="com.samsung.android.videolist/com.samsung.android.videolist.list.activity.VideoList" image="samsung_video_library"/>
@@ -5520,8 +5584,8 @@
   <AppIcon name="com.mctech.apps.screenrecorder/com.jakewharton.telecine.LaunchActivity" image="sound_recorder"/>
   <AppIcon name="com.dev47apps.screenrecorder/com.dev47apps.screenrecorder.MainActivity" image="sound_recorder"/>
   <AppIcon name="com.oneplus.soundrecorder/com.oneplus.soundrecorder.SoundRecorder" image="sound_recorder"/>
-  <AppIcon name="com.kimcy929.secretvideorecorder/com.kimcy929.secretvideorecorder.LoginActivity_1" image="sound_recorder" />
-  <AppIcon name="com.coloros.screenrecorder/com.coloros.screenrecorder.MainActivity" image="sound_recorder" />
+  <AppIcon name="com.kimcy929.secretvideorecorder/com.kimcy929.secretvideorecorder.LoginActivity_1" image="sound_recorder"/>
+  <AppIcon name="com.coloros.screenrecorder/com.coloros.screenrecorder.MainActivity" image="sound_recorder"/>
 
   <!-- Screener -->
   <AppIcon name="de.toastcode.screener/de.toastcode.screener.MainActivity" image="screener"/>
@@ -5613,7 +5677,8 @@
   <AppIcon name="com.shazam.android.lite/com.shazam.android.lite.ui.SplashActivity" image="shazam"/>
 
   <!-- Shopee -->
-  <!-- <AppIcon name="com.shopee.ph/com.shopee.app.ui.home.HomeActivity_" image="shopee"/> -->
+  <AppIcon name="com.shopee.ph/com.shopee.app.ui.home.HomeActivity_" image="shopee"/>
+  <AppIcon name="com.shopee.id/com.shopee.app.ui.home.HomeActivity_" image="shopee" />
 
   <!-- Shortcutter -->
   <!-- <AppIcon name="com.leedroid.shortcutter/com.leedroid.shortcutter.Launcher" image="shortcutter"/> -->
@@ -5725,7 +5790,7 @@
   <!-- <AppIcon name="com.fullpower.applications.sleepz/com.fullpower.applications.sleepz.SplashActivity" image="sleeptracker"/> -->
 
   <!-- Sliced -->
-  <AppIcon name="com.b16h22.sliced/com.b16h22.sliced.MainActivity" image="sliced" />
+  <AppIcon name="com.b16h22.sliced/com.b16h22.sliced.MainActivity" image="sliced"/>
 
   <!-- Slide for Reddit -->
   <AppIcon name="me.ccrama.redditslide/me.ccrama.redditslide.Activities.Slide" image="slide_for_reddit"/>
@@ -5756,6 +5821,9 @@
   <!-- Smart Recorder -->
   <AppIcon name="com.andrwq.recorder/com.andrwq.recorder.RecorderActivity" image="podcast"/>
 
+  <!-- Smart Tutor -->
+  <AppIcon name="com.rsupport.rs.activity.rsupport.aas2/com.rsupport.rs.activity.edit.IntroActivity" image="smart_tutor" />
+
   <!-- Smarter Time -->
   <AppIcon name="com.smartertime/com.smartertime.ui.MainActivity" image="timer_alt"/>
 
@@ -5766,16 +5834,16 @@
   <!-- <AppIcon name="se.smhi.mobile.android/se.smhi.mobile.android.MainActivity" image="___smhi_vader"/> -->
 
   <!-- SMS Backup & Restore -->
-  <AppIcon name="com.riteshsahu.SMSBackupRestore/com.riteshsahu.SMSBackupRestore.FreeMain" image="___sms_backup_and_restore" />
-  <AppIcon name="com.riteshsahu.SMSBackupRestore/com.riteshsahu.SMSBackupRestore.activities.IntroActivity" image="___sms_backup_and_restore" />
-  <AppIcon name="com.riteshsahu.SMSBackupRestore/com.riteshsahu.SMSBackupRestore.activities.MainActivity" image="___sms_backup_and_restore" />
-  <AppIcon name="com.riteshsahu.SMSBackupRestorePro/com.riteshsahu.SMSBackupRestore.activities.IntroActivity" image="___sms_backup_and_restore" />
+  <AppIcon name="com.riteshsahu.SMSBackupRestore/com.riteshsahu.SMSBackupRestore.FreeMain" image="___sms_backup_and_restore"/>
+  <AppIcon name="com.riteshsahu.SMSBackupRestore/com.riteshsahu.SMSBackupRestore.activities.IntroActivity" image="___sms_backup_and_restore"/>
+  <AppIcon name="com.riteshsahu.SMSBackupRestore/com.riteshsahu.SMSBackupRestore.activities.MainActivity" image="___sms_backup_and_restore"/>
+  <AppIcon name="com.riteshsahu.SMSBackupRestorePro/com.riteshsahu.SMSBackupRestore.activities.IntroActivity" image="___sms_backup_and_restore"/>
 
   <!-- SMS Backup+ -->
   <AppIcon name="com.zegoggles.smssync/com.zegoggles.smssync.activity.MainActivity" image="___sms_backup_plus"/>
 
   <!-- SmugMug -->
-  <AppIcon name="com.snapwood.smugfolio/com.smugmug.android.activities.SmugMainActivity" image="smug__mug" />
+  <AppIcon name="com.snapwood.smugfolio/com.smugmug.android.activities.SmugMainActivity" image="smug__mug"/>
 
   <!-- Snackpass -->
   <!-- <AppIcon name="com.snackpassapp/com.snackpassapp.MainActivity" image="snackpass"/> -->
@@ -5852,7 +5920,7 @@
   <!--<AppIcon name="com.sony.songpal/com.sony.songpal.app.view.overview.DeviceAndGroupActivity" image="sony_music_center" />-->
 
   <!-- Sony Headphones -->
-  <AppIcon name="com.sony.songpal.mdr/com.sony.songpal.mdr.vim.activity.MdrMainActivity" image="sony_headphones" />
+  <AppIcon name="com.sony.songpal.mdr/com.sony.songpal.mdr.vim.activity.MdrMainActivity" image="sony_headphones"/>
 
   <!-- SonyLIV -->
   <!-- <AppIcon name="com.sonyliv/tv.accedo.via.android.app.splash.InitializationActivity" image="sony___liv"/> -->
@@ -5987,8 +6055,8 @@
   <!--<AppIcon name="com.hoodwinked.starlost/com.unity3d.player.UnityPlayerNativeActivity" image="starlost" />-->
 
   <!-- Starz -->
-  <AppIcon name="com.bydeluxe.d3.android.program.starz/com.bydeluxe.d3.android.program.activities.SplashScreenActivity" image="starz" />
-  <AppIcon name="com.bydeluxe.d3.android.program.starz/com.starz.handheld.SplashActivity" image="starz" />
+  <AppIcon name="com.bydeluxe.d3.android.program.starz/com.bydeluxe.d3.android.program.activities.SplashScreenActivity" image="starz"/>
+  <AppIcon name="com.bydeluxe.d3.android.program.starz/com.starz.handheld.SplashActivity" image="starz"/>
 
   <!-- State Farm -->
   <AppIcon name="com.statefarm.pocketagent/com.statefarm.pocketagent.ui.login.activity.SplashScreenActivity" image="state_farm"/>
@@ -6003,7 +6071,7 @@
   <AppIcon name="com.valvesoftware.android.steam.friendsui/host.exp.exponent.MainActivity" image="steam_chat"/>
 
   <!-- Steam Link -->
-  <AppIcon name="com.valvesoftware.steamlink/com.valvesoftware.steamlink.SteamShellActivity" image="steam_link" />
+  <AppIcon name="com.valvesoftware.steamlink/com.valvesoftware.steamlink.SteamShellActivity" image="steam_link"/>
 
   <!-- Stellarium -->
   <!-- <AppIcon name="com.noctuasoftware.stellarium/com.noctuasoftware.stellarium.Stellarium" image="stellarium"/> -->
@@ -6013,6 +6081,9 @@
 
   <!-- Stevens Duckbills -->
   <!-- <AppIcon name="com.jsatechnologies.stevenstech/com.jsatechnologies.stevenstech.LoginActivity" image="stevens_duckbills"/> -->
+
+  <!-- Sticker.ly -->
+  <AppIcon name="com.snowcorp.stickerly.android/com.snowcorp.stickerly.android.main.ui.LauncherEntryActivity" image="sticker_ly" />
 
   <!-- Stitcher Podcasts -->
   <AppIcon name="com.stitcher.app/com.stitcher.app.LaunchContainer" image="stitcher"/>
@@ -6059,7 +6130,7 @@
   <AppIcon name="com.brit.swiftinstaller/com.brit.swiftinstaller.SwiftTutorial" image="substratum_theme"/>
 
   <!-- Sudoku -->
-  <AppIcon name="ee.dustland.android.dustlandsudoku/ee.dustland.android.dustlandsudoku.NativeActivity" image="sudoku" />
+  <AppIcon name="ee.dustland.android.dustlandsudoku/ee.dustland.android.dustlandsudoku.NativeActivity" image="sudoku"/>
 
   <!-- Summoner's Companion -->
   <!--<AppIcon name="com.lolsummoners/com.lolsummoners.features.menu.MainActivity" image="summoners_companion" />-->
@@ -6135,7 +6206,7 @@
   <AppIcon name="com.huawei.android.hwouc/com.huawei.android.hwouc.ui.activities.MainEntranceActivity" image="system_updates"/>
 
   <!-- T UI -->
-  <AppIcon name="ohi.andre.consolelauncher/ohi.andre.consolelauncher.LauncherActivity" image="terminal_alt" />
+  <AppIcon name="ohi.andre.consolelauncher/ohi.andre.consolelauncher.LauncherActivity" image="terminal_alt"/>
 
   <!-- T-Mobile -->
   <AppIcon name="com.tmobile.pr.mytmobile/com.tmobile.pr.mytmobile.MyTMobileActivity" image="t_mobile"/>
@@ -6155,7 +6226,7 @@
   <AppIcon name="com.tmobile.vvm.application/com.tmobile.vvm.application.activity.setup.WelcomeActivity" image="t_mobile_visual_voicemail"/>
 
   <!-- Tachiyomi -->
-  <AppIcon name="eu.kanade.tachiyomi/eu.kanade.tachiyomi.ui.main.MainActivity" image="tachiyomi" />
+  <AppIcon name="eu.kanade.tachiyomi/eu.kanade.tachiyomi.ui.main.MainActivity" image="tachiyomi"/>
 
   <!-- Talitha Squircle -->
   <!-- <AppIcon name="com.panico.squircon/com.panico.squircon.MainActivity" image="talitha_squircle"/> -->
@@ -6182,9 +6253,9 @@
   <!-- <AppIcon name="com.sharpregion.tapet/com.sharpregion.tapet.MainActivity" image="tapet"/> -->
 
   <!-- Target -->
-  <AppIcon name="com.target.ui/com.target.ui.activity.NavigationActivity" image="target" />
-  <AppIcon name="com.target.ui/com.target.android.activity.TopLevelNavigationActivity" image="target" />
-  <AppIcon name="com.lasoo.android.target/com.lasoo.android.target.MainActivity" image="target" />
+  <AppIcon name="com.target.ui/com.target.ui.activity.NavigationActivity" image="target"/>
+  <AppIcon name="com.target.ui/com.target.android.activity.TopLevelNavigationActivity" image="target"/>
+  <AppIcon name="com.lasoo.android.target/com.lasoo.android.target.MainActivity" image="target"/>
 
   <!-- Tasker -->
   <AppIcon name="net.dinglisch.android.tasker/net.dinglisch.android.tasker.Tasker" image="tasker"/>
@@ -6252,9 +6323,9 @@
   <!-- <AppIcon name="com.tcf.d3/d3banking.screenSwitcher.activity.ScreenSwitcherActivity" image="___tcf_bank"/> -->
 
   <!-- TD Bank -->
-  <AppIcon name="com.tdbank/com.tdbank.app.MainActivity" image="___td_bank" />
-  <AppIcon name="com.tdbank/com.td.dcts.android.us.app.SplashScreenActivity" image="___td_bank" />
-  <AppIcon name="com.td/com.td.mobile.controllers.SplashActivity" image="___td_bank" />
+  <AppIcon name="com.tdbank/com.tdbank.app.MainActivity" image="___td_bank"/>
+  <AppIcon name="com.tdbank/com.td.dcts.android.us.app.SplashScreenActivity" image="___td_bank"/>
+  <AppIcon name="com.td/com.td.mobile.controllers.SplashActivity" image="___td_bank"/>
 
   <!-- TeamViewer -->
   <AppIcon name="com.teamviewer.teamviewer.market.mobile/com.teamviewer.remotecontrollib.activity.MainActivity" image="team__viewer"/>
@@ -6484,7 +6555,7 @@
   <!-- <AppIcon name="com.ss.android.article.news/com.ss.android.article.news.activity.SplashBadgeActivity" image="toutiao"/> -->
 
   <!-- TP-Link Tether -->
-  <AppIcon name="com.tplink.tether/com.tplink.tether.WelcomeActivity" image="tether" />
+  <AppIcon name="com.tplink.tether/com.tplink.tether.WelcomeActivity" image="tether"/>
 
   <!-- Transavia -->
   <!-- <AppIcon name="com.mttnow.droid.transavia/com.mttnow.droid.transavia.ui.SplashScreenActivity_" image="transavia"/> -->
@@ -6497,18 +6568,18 @@
   <AppIcon name="com.thetransitapp.droid/com.thetransitapp.droid.TransitActivity" image="transit"/>
 
   <!-- Trello -->
-  <AppIcon name="com.trello/com.trello.home.HomeActivity" image="trello" />
+  <AppIcon name="com.trello/com.trello.home.HomeActivity" image="trello"/>
 
   <!-- TripAdvisor -->
-  <AppIcon name="com.tripadvisor.tripadvisor.amazon/com.tripadvisor.tripadvisor.amazon.TripAdvisorAmazonActivity" image="trip__advisor" />
-  <AppIcon name="com.tripadvisor.tripadvisor.daodao/com.tripadvisor.tripadvisor.daodao.TripAdvisorDaoDaoActivity" image="trip__advisor" />
-  <AppIcon name="com.tripadvisor.tripadvisor.daodao/com.tripadvisor.tripadvisor.daodao.launch.TripAdvisorDaoDaoActivity" image="trip__advisor" />
-  <AppIcon name="com.tripadvisor.tripadvisor.samsung/com.tripadvisor.tripadvisor.samsung.TripAdvisorSamsungActivity" image="trip__advisor" />
-  <AppIcon name="com.tripadvisor.tripadvisor.vodafonesmart/com.tripadvisor.tripadvisor.vodafonesmart.TripAdvisorVodafoneSmartActivity" image="trip__advisor" />
-  <AppIcon name="com.tripadvisor.tripadvisor/com.tripadvisor.android.lib.tamobile.activities.HomeActivity" image="trip__advisor" />
-  <AppIcon name="com.tripadvisor.tripadvisor/com.tripadvisor.android.lib.tamobile.activities.SplashScreenActivity" image="trip__advisor" />
-  <AppIcon name="com.tripadvisor.tripadvisor/com.tripadvisor.tripadvisor.TripAdvisor" image="trip__advisor" />
-  <AppIcon name="com.tripadvisor.tripadvisor/com.tripadvisor.tripadvisor.TripAdvisorTripAdvisorActivity" image="trip__advisor" />
+  <AppIcon name="com.tripadvisor.tripadvisor.amazon/com.tripadvisor.tripadvisor.amazon.TripAdvisorAmazonActivity" image="trip__advisor"/>
+  <AppIcon name="com.tripadvisor.tripadvisor.daodao/com.tripadvisor.tripadvisor.daodao.TripAdvisorDaoDaoActivity" image="trip__advisor"/>
+  <AppIcon name="com.tripadvisor.tripadvisor.daodao/com.tripadvisor.tripadvisor.daodao.launch.TripAdvisorDaoDaoActivity" image="trip__advisor"/>
+  <AppIcon name="com.tripadvisor.tripadvisor.samsung/com.tripadvisor.tripadvisor.samsung.TripAdvisorSamsungActivity" image="trip__advisor"/>
+  <AppIcon name="com.tripadvisor.tripadvisor.vodafonesmart/com.tripadvisor.tripadvisor.vodafonesmart.TripAdvisorVodafoneSmartActivity" image="trip__advisor"/>
+  <AppIcon name="com.tripadvisor.tripadvisor/com.tripadvisor.android.lib.tamobile.activities.HomeActivity" image="trip__advisor"/>
+  <AppIcon name="com.tripadvisor.tripadvisor/com.tripadvisor.android.lib.tamobile.activities.SplashScreenActivity" image="trip__advisor"/>
+  <AppIcon name="com.tripadvisor.tripadvisor/com.tripadvisor.tripadvisor.TripAdvisor" image="trip__advisor"/>
+  <AppIcon name="com.tripadvisor.tripadvisor/com.tripadvisor.tripadvisor.TripAdvisorTripAdvisorActivity" image="trip__advisor"/>
 
   <!-- triple j -->
   <!-- <AppIcon name="au.net.abc.triplej/au.net.abc.triplej.mainscreen.MainActivity" image="triple_j"/> -->
@@ -6533,11 +6604,11 @@
   <!--<AppIcon name="com.affinityblue.tunable/cc.openframeworks.tunable.OFActivity" image="tunable" />-->
 
   <!-- TuneIn Radio -->
-  <AppIcon name="tunein.player/tunein.player.Activity" image="tune__in_radio" />
-  <AppIcon name="tunein.player/tunein.ui.actvities.TuneInHomeActivity" image="tune__in_radio" />
-  <AppIcon name="radiotime.player/tunein.player.pro.Activity" image="tune__in_radio" />
-  <AppIcon name="radiotime.player/tunein.player.pro.Splash" image="tune__in_radio" />
-  <AppIcon name="radiotime.player/tunein.ui.actvities.TuneInHomeActivity" image="tune__in_radio" />
+  <AppIcon name="tunein.player/tunein.player.Activity" image="tune__in_radio"/>
+  <AppIcon name="tunein.player/tunein.ui.actvities.TuneInHomeActivity" image="tune__in_radio"/>
+  <AppIcon name="radiotime.player/tunein.player.pro.Activity" image="tune__in_radio"/>
+  <AppIcon name="radiotime.player/tunein.player.pro.Splash" image="tune__in_radio"/>
+  <AppIcon name="radiotime.player/tunein.ui.actvities.TuneInHomeActivity" image="tune__in_radio"/>
   <AppIcon name="radiotime.player/radiotime.player.Main" image="tune__in_radio"/>
   <AppIcon name="radiotime.player/radiotime.player.TuneInRadioPro" image="tune__in_radio"/>
 
@@ -6571,9 +6642,9 @@
   <AppIcon name="com.twitter.android.lite/com.twitter.android.lite.TwitterLiteActivity" image="twitter"/>
 
   <!-- Two Dots -->
-  <AppIcon name="com.weplaydots.twodotsandroid/com.prime31.UnityPlayerNativeActivity" image="two_dots" />
-  <AppIcon name="com.weplaydots.twodotsandroid/com.appboy.unity.prime31compatible.AppboyUnityPlayerNativeActivity" image="two_dots" />
-  <AppIcon name="com.weplaydots.twodotsandroid/com.weplaydots.twodots.TwoDotsActivity" image="two_dots" />
+  <AppIcon name="com.weplaydots.twodotsandroid/com.prime31.UnityPlayerNativeActivity" image="two_dots"/>
+  <AppIcon name="com.weplaydots.twodotsandroid/com.appboy.unity.prime31compatible.AppboyUnityPlayerNativeActivity" image="two_dots"/>
+  <AppIcon name="com.weplaydots.twodotsandroid/com.weplaydots.twodots.TwoDotsActivity" image="two_dots"/>
 
   <!-- TWRP -->
   <!-- <AppIcon name="me.twrp.twrpapp/me.twrp.officialtwrpapp.activities.MainActivity" image="___twrp" /> -->
@@ -6593,7 +6664,7 @@
   <!--<AppIcon name="com.ubercab.driver/com.ubercab.driver.feature.launch.LauncherActivity" image="uber_driver" />-->
 
   <!-- Uber Eats -->
-  <AppIcon name="com.ubercab.eats/com.ubercab.eats.app.feature.launch.LauncherActivity" image="uber_eats" />
+  <AppIcon name="com.ubercab.eats/com.ubercab.eats.app.feature.launch.LauncherActivity" image="uber_eats"/>
 
   <!-- UC Browser -->
   <AppIcon name="com.UCMobile.intl/com.UCMobile.main.UCMobile" image="___uc_browser"/>
@@ -6614,13 +6685,13 @@
   <!-- <AppIcon name="com.unlimited.turbo.ukvpn/com.unlimited.turbo.ukvpn.splash.SplashActivity" image="___ukvpn"/> -->
 
   <!-- Ultimate Guitar Tabs -->
-  <AppIcon name="com.ultimateguitar.tabs/com.ultimateguitar.ugpro.ui.activity.StartUpActivity" image="ultimate_guitar_tabs" />
+  <AppIcon name="com.ultimateguitar.tabs/com.ultimateguitar.ugpro.ui.activity.StartUpActivity" image="ultimate_guitar_tabs"/>
 
   <!-- Under Armour -->
-  <AppIcon name="com.ua.shop/com.ua.shop.misc.ui.WelcomeActivity" image="under_armour" />
+  <AppIcon name="com.ua.shop/com.ua.shop.misc.ui.WelcomeActivity" image="under_armour"/>
 
   <!-- Under Armour MyFitnessPal -->
-  <AppIcon name="com.myfitnesspal.android/com.myfitnesspal.android.login.Welcome" image="under_armour" />
+  <AppIcon name="com.myfitnesspal.android/com.myfitnesspal.android.login.Welcome" image="under_armour"/>
 
   <!-- Underlords -->
   <!-- <AppIcon name="com.valvesoftware.underlords/com.valvesoftware.underlords.applauncher" image="underlords"/> -->
@@ -6670,8 +6741,7 @@
   <!-- <AppIcon name="com.neptuns.usefulknots/com.neptuns.usefulknots.KnotCategoriesActivity" image="useful_knots"/> -->
 
   <!-- uTorrent -->
-  <!-- <AppIcon name="com.utorrent.client.pro/com.bittorrent.client.Main" image="_u__torrent"/>
-  <AppIcon name="com.utorrent.client/com.bittorrent.client.Main" image="_u__torrent"/> -->
+  <!-- <AppIcon name="com.utorrent.client.pro/com.bittorrent.client.Main" image="_u__torrent"/> <item component="ComponentInfo{com.utorrent.client/com.bittorrent.client.Main}" image="_u__torrent"/> -->
 
   <!-- UTS -->
   <!-- <AppIcon name="com.cris.utsmobile/com.cris.utsmobile.mainmenuitems.SplashActivity" image="___uts"/> -->
@@ -6692,7 +6762,7 @@
   <AppIcon name="com.venmo/com.venmo.TabCentralActivity" image="venmo"/>
 
   <!-- Verizon Messages -->
-  <AppIcon name="com.verizon.messaging.vzmsgs/com.verizon.mms.ui.activity.Provisioning" image="chat" />
+  <AppIcon name="com.verizon.messaging.vzmsgs/com.verizon.mms.ui.activity.Provisioning" image="chat"/>
 
   <!-- Verizon My Fios -->
   <AppIcon name="com.verizon.myfios/com.verizon.myfios.MainActivity" image="verizon_my_fios"/>
@@ -6717,11 +6787,11 @@
   <!-- <AppIcon name="com.vice.viceforandroid/com.vice.sharedcode.UI.LaunchActivity" image="___vice"/> -->
 
   <!-- Video -->
-  <AppIcon name="com.zte.videoplayer/com.zte.videoplayer.VideoBrowserActivity" image="video" />
-  <AppIcon name="com.coloros.video/com.oppo.video.VideoListActivity" image="video" />
-  <AppIcon name="com.myself.videoplayer/com.myself.videoplayer.MovieListActivity" image="video" />
-  <AppIcon name="com.samsung.android.video/com.samsung.android.video.list.activity.VideoList" image="video" />
-  <AppIcon name="video.player.videoplayer/com.inshot.xplayer.activities.SplashActivity" image="video" />
+  <AppIcon name="com.zte.videoplayer/com.zte.videoplayer.VideoBrowserActivity" image="video"/>
+  <AppIcon name="com.coloros.video/com.oppo.video.VideoListActivity" image="video"/>
+  <AppIcon name="com.myself.videoplayer/com.myself.videoplayer.MovieListActivity" image="video"/>
+  <AppIcon name="com.samsung.android.video/com.samsung.android.video.list.activity.VideoList" image="video"/>
+  <AppIcon name="video.player.videoplayer/com.inshot.xplayer.activities.SplashActivity" image="video"/>
 
   <!-- Video MP3 Converter -->
   <AppIcon name="com.fundevs.app.mediaconverter/com.fundevs.app.mediaconverter.SplashActivity" image="video_m__p3_converter"/>
@@ -6733,12 +6803,12 @@
   <AppIcon name="com.rahul.videoderbeta/com.rahul.videoderbeta.appinit.ActivityInitLoader" image="video"/>
 
   <!-- VidMate -->
-<AppIcon name="com.nemo.vidmate/com.nemo.vidmate.WelcomeActivity" image="vid__mate" />
+  <AppIcon name="com.nemo.vidmate/com.nemo.vidmate.WelcomeActivity" image="vid__mate"/>
 
   <!-- Vimeo -->
-  <AppIcon name="com.vimeo.android.videoapp/com.vimeo.android.videoapp.activities.authentication.LaunchActivity" image="vimeo" />
-  <AppIcon name="com.vimeo.android.videoapp/com.vimeo.android.videoapp.activities.LaunchActivity" image="vimeo" />
-  <AppIcon name="com.vimeo.android.videoapp/com.vimeo.android.videoapp.launch.LaunchActivity" image="vimeo" />
+  <AppIcon name="com.vimeo.android.videoapp/com.vimeo.android.videoapp.activities.authentication.LaunchActivity" image="vimeo"/>
+  <AppIcon name="com.vimeo.android.videoapp/com.vimeo.android.videoapp.activities.LaunchActivity" image="vimeo"/>
+  <AppIcon name="com.vimeo.android.videoapp/com.vimeo.android.videoapp.launch.LaunchActivity" image="vimeo"/>
 
   <!-- Vinilo -->
   <!-- <AppIcon name="com.vinilo.iconpack/com.vinilo.iconpack.activities.SplashActivity" image="vinilo"/> -->
@@ -6750,7 +6820,7 @@
   <!-- <AppIcon name="com.ssd.vipre/com.ssd.vipre.ui.SplashScreenActivity" image="___vipre_mobile_security"/> -->
 
   <!-- Viral -->
-  <AppIcon name="vintage.icon.pack.ddt/vintage.icon.pack.ddt.activities.SplashActivity" image="viral" />
+  <AppIcon name="vintage.icon.pack.ddt/vintage.icon.pack.ddt.activities.SplashActivity" image="viral"/>
 
   <!-- Virtual Wallet -->
   <AppIcon name="com.pnc.ecommerce.mobile.vw.android/com.pnc.ecommerce.mobile.vw.android.VirtualWalletPHXapp" image="virtual_wallet"/>
@@ -6764,8 +6834,14 @@
   <!-- VivaVideo -->
   <AppIcon name="com.quvideo.xiaoying/com.quvideo.xiaoying.app.splash.SplashActivity" image="viva__video"/>
 
+  <!-- V Appstore -->
+  <AppIcon name="com.vivo.appstore/com.vivo.appstore.activity.LaunchActivity" image="v_appstore" />
+
   <!-- Vivo Easy -->
   <!-- <AppIcon name="br.com.vivo.vivoeasy/br.com.zup.vivoeasy3.ui.MainActivity" image="vivo_easy"/> -->
+
+  <!-- Vivo i Theme -->
+  <AppIcon name="com.bbk.theme/com.bbk.theme.Theme" image="vivo_i_theme"/>
 
   <!-- vivoCloud -->
   <AppIcon name="com.bbk.cloud/com.bbk.cloud.ui.BBKCloudHomeScreen" image="cloud_alt"/>
@@ -6777,9 +6853,9 @@
   <!-- <AppIcon name="com.vivint.vivintsky/com.vivint.vivintsky.ui.SplashActivity" image="vivint"/> -->
 
   <!-- VLC -->
-  <AppIcon name="org.videolan.vlc/org.videolan.vlc.StartActivity" image="___vlc" />
-  <AppIcon name="org.videolan.vlc/org.videolan.vlc.gui.MainActivity" image="___vlc" />
-  <AppIcon name="org.videolan.vlc.betav7neon/org.videolan.vlc.betav7neon.gui.MainActivity" image="___vlc" />
+  <AppIcon name="org.videolan.vlc/org.videolan.vlc.StartActivity" image="___vlc"/>
+  <AppIcon name="org.videolan.vlc/org.videolan.vlc.gui.MainActivity" image="___vlc"/>
+  <AppIcon name="org.videolan.vlc.betav7neon/org.videolan.vlc.betav7neon.gui.MainActivity" image="___vlc"/>
 
   <!-- VLC Mobile Remote -->
   <!-- <AppIcon name="adarshurs.android.vlcmobileremote/adarshurs.android.vlcmobileremote.MainActivity" image="___vlc_mobile_remote"/> -->
@@ -6826,13 +6902,13 @@
   <!--<AppIcon name="com.vrbo.android/com.vacationrentals.homeaway.activities.SplashActivity" image="___vrbo" />-->
 
   <!-- VRV -->
-  <AppIcon name="com.ellation.vrv/com.ellation.vrv.presentation.startup.StartupActivity" image="___vrv" />
+  <AppIcon name="com.ellation.vrv/com.ellation.vrv.presentation.startup.StartupActivity" image="___vrv"/>
 
   <!-- VSCO -->
-  <AppIcon name="com.vsco.cam/com.vsco.cam.gallery.ImageGridActivity" image="___vsco" />
-  <AppIcon name="com.vsco.cam/com.vsco.cam.navigation.LithiumActivity" image="___vsco" />
-  <AppIcon name="com.vsco.cam/com.vsco.cam.navigation.NavigationBaseActivity" image="___vsco" />
-  <AppIcon name="com.vsco.cam/com.vsco.cam.SplashActivity" image="___vsco" />
+  <AppIcon name="com.vsco.cam/com.vsco.cam.gallery.ImageGridActivity" image="___vsco"/>
+  <AppIcon name="com.vsco.cam/com.vsco.cam.navigation.LithiumActivity" image="___vsco"/>
+  <AppIcon name="com.vsco.cam/com.vsco.cam.navigation.NavigationBaseActivity" image="___vsco"/>
+  <AppIcon name="com.vsco.cam/com.vsco.cam.SplashActivity" image="___vsco"/>
 
   <!-- VUDU -->
   <!-- <AppIcon name="com.vudu.google.tv.vuduapp/com.vudu.google.tv.vuduapp.VuduActivity" image="___vudu" /> -->
@@ -6869,7 +6945,6 @@
   <!-- WallHub -->
   <AppIcon name="com.Hastamev.WallHubPro/jahirfiquitiva.apps.frames.sample.MainActivity" image="wall__hub"/>
   <AppIcon name="com.Hastamev.WallHubFree/jahirfiquitiva.apps.frames.sample.MainActivity" image="wall__hub"/>
-
 
   <!-- Walli -->
   <AppIcon name="com.shanga.walli/com.shanga.walli.mvp.splash.SplashActivity" image="walli"/>
@@ -6954,24 +7029,24 @@
   <AppIcon name="com.what3words.android/com.what3words.android.ui.splash.SplashActivity" image="_what3words"/>
 
   <!-- WhatsApp -->
-  <AppIcon name="com.whatsapp/com.whatsapp.0" image="whats__app" />
-  <AppIcon name="com.whatsapp/com.whatsapp.22" image="whats__app" />
-  <AppIcon name="com.whatsapp/com.whatsapp.61" image="whats__app" />
-  <AppIcon name="com.whatsapp/com.whatsapp.Main" image="whats__app" />
-  <AppIcon name="com.whatsapp/com.whatsapp.Main0" image="whats__app" />
-  <AppIcon name="com.whatsapp/com.whatsapp.Main-01" image="whats__app" />
-  <AppIcon name="com.whatsapp/com.whatsapp.Main-03" image="whats__app" />
-  <AppIcon name="com.whatsapp/com.whatsapp.Main3" image="whats__app" />
-  <AppIcon name="com.whatsapp/com.whatsapp.Main-06" image="whats__app" />
-  <AppIcon name="com.whatsapp/com.whatsapp.Main12" image="whats__app" />
-  <AppIcon name="com.whatsapp/com.whatsapp.Main-14" image="whats__app" />
-  <AppIcon name="com.whatsapp/com.whatsapp.Main-Plus" image="whats__app" />
+  <AppIcon name="com.whatsapp/com.whatsapp.0" image="whats__app"/>
+  <AppIcon name="com.whatsapp/com.whatsapp.22" image="whats__app"/>
+  <AppIcon name="com.whatsapp/com.whatsapp.61" image="whats__app"/>
+  <AppIcon name="com.whatsapp/com.whatsapp.Main" image="whats__app"/>
+  <AppIcon name="com.whatsapp/com.whatsapp.Main0" image="whats__app"/>
+  <AppIcon name="com.whatsapp/com.whatsapp.Main-01" image="whats__app"/>
+  <AppIcon name="com.whatsapp/com.whatsapp.Main-03" image="whats__app"/>
+  <AppIcon name="com.whatsapp/com.whatsapp.Main3" image="whats__app"/>
+  <AppIcon name="com.whatsapp/com.whatsapp.Main-06" image="whats__app"/>
+  <AppIcon name="com.whatsapp/com.whatsapp.Main12" image="whats__app"/>
+  <AppIcon name="com.whatsapp/com.whatsapp.Main-14" image="whats__app"/>
+  <AppIcon name="com.whatsapp/com.whatsapp.Main-Plus" image="whats__app"/>
 
   <!-- WhatsApp FMod -->
-  <AppIcon name="com.fmwhatsapp/com.fmwhatsapp.69" image="whats__app" />
+  <AppIcon name="com.fmwhatsapp/com.fmwhatsapp.69" image="whats__app"/>
 
   <!-- WhatsApp Business -->
-  <!--<AppIcon name="com.whatsapp.w4b/com.whatsapp.Main" image="whats__app_business" />-->
+  <AppIcon name="com.whatsapp.w4b/com.whatsapp.Main" image="whats__app_business" />
 
   <!-- WhatsApp Stickers -->
   <!-- <AppIcon name="com.stickers.allinonesticker/com.stickers.allinonesticker.activity.HomeActivity" image="whats__app_stickers"/> -->
@@ -7000,8 +7075,8 @@
 
   <!-- WiFi Mouse -->
   <!-- <AppIcon name="com.necta.wifimouse/com.necta.wifimouse.activity.MainMaterial" image="wi__fi_mouse"/> <item component="ComponentInfo{com.necta.wifimousefree/com.necta.wifimousefree.Main}" image="wi__fi_mouse"/> <item
-  component="ComponentInfo{com.necta.wifimouse.HD/com.necta.wifimouse.HD.activity.SplashActivity" image="wi__fi_mouse"/> <AppIcon name="com.necta.wifimousefree/com.necta.wifimousefree.activity.SplashActivity}" image="wi__fi_mouse"/>
-  <AppIcon name="com.necta.wifimouse/com.necta.wifimouse.Main" image="wi__fi_mouse"/> -->
+  component="ComponentInfo{com.necta.wifimouse.HD/com.necta.wifimouse.HD.activity.SplashActivity" image="wi__fi_mouse"/> <AppIcon name="com.necta.wifimousefree/com.necta.wifimousefree.activity.SplashActivity}"
+  image="wi__fi_mouse"/> <AppIcon name="com.necta.wifimouse/com.necta.wifimouse.Main" image="wi__fi_mouse"/> -->
 
   <!-- WiFi Router Setup -->
   <!-- <AppIcon name="com.magdalm.wifiroutersetuppage/com.magdalm.wifiroutersetuppage.PolicyActivity" image="wi__fi_router_setup"/> -->
@@ -7039,8 +7114,8 @@
   <!--<AppIcon name="com.n4no.wigglegram/com.n4no.wigglegram.app.RecordingActivity" image="wigglegram" />-->
 
   <!-- Wolfram Alpha -->
-  <AppIcon name="com.wolfram.android.alpha/com.wolfram.android.alpha.activity.SplashScreenActivity" image="wolfram__alpha" />
-  <AppIcon name="com.wolfram.android.alpha/com.wolfram.android.alpha.activity.WolframAlpha" image="wolfram__alpha" />
+  <AppIcon name="com.wolfram.android.alpha/com.wolfram.android.alpha.activity.SplashScreenActivity" image="wolfram__alpha"/>
+  <AppIcon name="com.wolfram.android.alpha/com.wolfram.android.alpha.activity.WolframAlpha" image="wolfram__alpha"/>
 
   <!-- Wolpepper -->
   <!-- <AppIcon name="com.eclectik.wolpepper/com.eclectik.wolpepper.activities.StartActivity" image="wolpepper"/> -->
@@ -7176,14 +7251,14 @@
   <AppIcon name="com.youku.phone/com.youku.phone.ActivityWelcome" image="youku"/>
 
   <!-- Youtube -->
-  <AppIcon name="com.google.android.youtube/com.google.android.youtube.HomeActivity" image="you__tube" />
-  <AppIcon name="com.google.android.youtube/com.google.android.youtube.HomePage" image="you__tube" />
-  <AppIcon name="com.google.android.youtube/com.google.android.youtube.app.froyo.phone.HomeActivity" image="you__tube" />
-  <AppIcon name="com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity" image="you__tube" />
-  <AppIcon name="com.google.android.youtube/com.google.android.youtube.app.tablet.HomeActivity" image="you__tube" />
+  <AppIcon name="com.google.android.youtube/com.google.android.youtube.HomeActivity" image="you__tube"/>
+  <AppIcon name="com.google.android.youtube/com.google.android.youtube.HomePage" image="you__tube"/>
+  <AppIcon name="com.google.android.youtube/com.google.android.youtube.app.froyo.phone.HomeActivity" image="you__tube"/>
+  <AppIcon name="com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity" image="you__tube"/>
+  <AppIcon name="com.google.android.youtube/com.google.android.youtube.app.tablet.HomeActivity" image="you__tube"/>
 
   <!-- Youtube Gaming -->
-  <AppIcon name="com.google.android.apps.youtube.gaming/com.google.android.apps.youtube.gaming.watchwhile.activity.WatchWhileActivity" image="you__tube_gaming" />
+  <AppIcon name="com.google.android.apps.youtube.gaming/com.google.android.apps.youtube.gaming.watchwhile.activity.WatchWhileActivity" image="you__tube_gaming"/>
 
   <!-- Youtube Go -->
   <!--<AppIcon name="com.google.android.apps.youtube.mango/com.google.android.apps.youtube.lite.frontend.activities.SplashActivity" image="you__tube_go" />-->
@@ -7196,8 +7271,8 @@
   <AppIcon name="com.gg2.android.apps.youtube.music/com.google.android.apps.youtube.music.activities.MusicActivity" image="you__tube_music"/>
 
   <!-- Youtube Studio -->
-  <AppIcon name="com.google.android.apps.youtube.creator/com.google.android.apps.youtube.creator.main.MainActivity" image="you__tube_studio" />
-  <AppIcon name="com.google.android.apps.youtube.creator/com.google.android.apps.youtube.creator.activities.SplashActivity" image="you__tube_studio" />
+  <AppIcon name="com.google.android.apps.youtube.creator/com.google.android.apps.youtube.creator.main.MainActivity" image="you__tube_studio"/>
+  <AppIcon name="com.google.android.apps.youtube.creator/com.google.android.apps.youtube.creator.activities.SplashActivity" image="you__tube_studio"/>
 
   <!-- Youtube TV -->
   <!--<AppIcon name="com.google.android.apps.youtube.unplugged/com.google.android.apps.youtube.unplugged.activities.MainActivity" image="you__tube_t__v" />-->
@@ -7230,7 +7305,7 @@
   <AppIcon name="ru.zdevs.zarchiver.pro/ru.zdevs.zarchiver.pro.ZArchiver" image="z__archiver"/>
 
   <!-- Zedge -->
-  <AppIcon name="net.zedge.android/net.zedge.android.Main" image="zedge" />
+  <AppIcon name="net.zedge.android/net.zedge.android.Main" image="zedge"/>
 
   <!-- ZEE5 -->
   <AppIcon name="com.graymatrix.did/com.graymatrix.did.splash.SplashActivity" image="___zee5"/>
@@ -7272,7 +7347,7 @@
   <!-- <AppIcon name="com.zoom.zoomandroid/com.zoom.zoomandroid.splash.ui.activity.ZoomSplashActivity" image="zoom" /> -->
 
   <!-- ZOOM Cloud Meetings -->
-  <AppIcon name="us.zoom.videomeetings/com.zipow.videobox.LauncherActivity" image="zoom_cloud_meetings" />
+  <AppIcon name="us.zoom.videomeetings/com.zipow.videobox.LauncherActivity" image="zoom_cloud_meetings"/>
 
   <!-- Zoomcar -->
   <!-- <AppIcon name="com.zoomcar/com.zoomcar.activity.SplashActivity" image="zoomcar"/> -->
