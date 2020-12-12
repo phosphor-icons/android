@@ -12,7 +12,7 @@
         Scale up and down to your liking.</string>
 
     <!--    This is the link for the JSON file where you have listed your wallpapers -->
-    <string name="json_url">https://www.tobiasfried.com/assets/phosphor/classic/wallpaper.json</string>
+    <string name="json_url">https://phosphoricons.com/assets/phosphor-android/classic/wallpaper.json</string>
     <!--<string name="json_url">https://jahirfiquitiva.com/frames/wallpapers.json</string>-->
 
     <!--    Default wallpapers download folder. Always write it like '%1$s/xxxxxxx' -->
