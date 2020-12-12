@@ -32,7 +32,7 @@ android {
 
     signingConfigs {
         mykey {
-            storeFile file('C:\\Users\\Tobias Fried\\Dropbox\\Personal\\code\\Android\\Keystores\\my-key.keystore')
+            storeFile file('C:\\Users\\TobiasFried\\.android\\keystores\\my-key.keystore')
             storePassword 'babysnakes00'
             keyAlias = 'key0'
             keyPassword 'babysnakes00'
