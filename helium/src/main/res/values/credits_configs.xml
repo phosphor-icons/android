@@ -26,7 +26,7 @@
     </string-array>
 
     <string-array name="credits_descriptions">
-        <item>Mobile developer, command-line noodler, and kombucha brewer in Brooklyn. </item>
+        <item>Full-stack developer, command-line noodler, and kombucha brewer in Brooklyn. </item>
         <item>Designer, writer, and artist based in Brooklyn, New York. She enjoys making more with less.</item>
     </string-array>
 
@@ -36,7 +36,7 @@
     </string-array>
 
     <string-array name="credits_links">
-        <item>https://github.com/rektdeckard|http://tobiasfried.com</item>
-        <item>http://abodywithoutorgans.com|https://dribbble.com/abodywithout</item>
+        <item>https://github.com/rektdeckard|https://tobiasfried.com</item>
+        <item>https://helenazhang.com|https://dribbble.com/minoraxis</item>
     </string-array>
 </resources>

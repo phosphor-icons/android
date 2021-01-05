@@ -35,6 +35,7 @@
         <item>___hdfc_bank</item>
         <item>___td_bank</item>
         <item>___us_bank</item>
+        <item>___yono</item>
         <item>acorns</item>
         <item>alipay</item>
         <item>am__ex</item>
@@ -51,6 +52,7 @@
         <item>credit_karma</item>
         <item>finance</item>
         <item>google_pay</item>
+        <item>mi_pay</item>
         <item>money_lover</item>
         <item>nubank</item>
         <item>pay__pal</item>
@@ -80,10 +82,12 @@
         <item>adobe_photoshop_sketch</item>
         <item>afterlight</item>
         <item>autodesk_sketch__book</item>
+        <item>b612</item>
         <item>background_eraser</item>
         <item>behance</item>
         <item>camera</item>
         <item>camera_alt</item>
+        <item>canva</item>
         <item>color_palette</item>
         <item>crystal</item>
         <item>deviant__art</item>
@@ -109,6 +113,7 @@
         <item>photo__grid</item>
         <item>pics__art</item>
         <item>pinterest</item>
+        <item>pixel__lab</item>
         <item>pixlr</item>
         <item>quik</item>
         <item>samsung_p___enup</item>
@@ -174,7 +179,9 @@
         <item>___ppsspp</item>
         <item>___pubg</item>
         <item>alto_odyssey</item>
+        <item>among_us</item>
         <item>angry_birds</item>
+        <item>asphalt_9</item>
         <item>blizzard_authenticator</item>
         <item>brawl_stars</item>
         <item>call_of_duty</item>
@@ -196,11 +203,13 @@
         <item>ludo_king</item>
         <item>minecraft</item>
         <item>mixer</item>
+        <item>mobile_legends_bang_bang</item>
         <item>monument_valley</item>
         <item>nintendo</item>
         <item>plants_vs_zombies</item>
         <item>pokemon</item>
         <item>roblox</item>
+        <item>samsung_a__r_zone</item>
         <item>samsung_game_launcher</item>
         <item>sony_playstation_app</item>
         <item>sony_playstation_messages</item>
@@ -241,6 +250,7 @@
         <item>google_fi</item>
         <item>google_find_my_device</item>
         <item>google_fit</item>
+        <item>google_go</item>
         <item>google_hangouts</item>
         <item>google_hangouts_chat</item>
         <item>google_hangouts_chat_alt</item>
@@ -313,6 +323,7 @@
         <item>life360</item>
         <item>meu_t__i__m</item>
         <item>my__jio</item>
+        <item>my__vodaphone</item>
         <item>my_verizon</item>
         <item>samsung_members</item>
         <item>state_farm</item>
@@ -407,6 +418,7 @@
         <item>replaio_radio</item>
         <item>retro_music</item>
         <item>roku</item>
+        <item>samsung_a__r_zone</item>
         <item>samsung_music</item>
         <item>samsung_video_library</item>
         <item>shazam</item>
@@ -434,6 +446,7 @@
         <item>you__tube_studio</item>
         <item>you__tube_t__v</item>
         <item>you__tube_vanced</item>
+        <item>you__tube_vanced_manager</item>
         <item>youku</item>
     </string-array>
     <string-array name="messaging">
@@ -468,6 +481,7 @@
         <item>mi_talk</item>
         <item>microsoft_outlook</item>
         <item>microsoft_outlook_alt</item>
+        <item>microsoft_teams</item>
         <item>plus_messenger</item>
         <item>proton__mail</item>
         <item>pulse_messenger</item>
@@ -516,6 +530,7 @@
         <item>quartz</item>
         <item>quora</item>
         <item>the_weather_channel</item>
+        <item>vivo_weather</item>
         <item>weather</item>
         <item>weather_underground</item>
         <item>yahoo_news</item>
@@ -534,6 +549,7 @@
         <item>___xda_feed_alt</item>
         <item>___xda_labs</item>
         <item>_hex</item>
+        <item>_vivo</item>
         <item>abstruct</item>
         <item>action__dash</item>
         <item>action_launcher</item>
@@ -615,14 +631,15 @@
         <item>substratum_theme</item>
         <item>system___ui_tuner</item>
         <item>tasker</item>
-        <item>vivo_i_theme</item>
         <item>tholotis</item>
         <item>viral</item>
+        <item>vivo_i_theme</item>
         <item>wall__craft</item>
         <item>wall__hub</item>
         <item>walli</item>
         <item>walli_alt</item>
         <item>wallpaper</item>
+        <item>whicons</item>
         <item>zedge</item>
         <item>zedge_alt</item>
         <item>zero_launcher</item>
@@ -732,6 +749,7 @@
         <item>microsoft_excel</item>
         <item>microsoft_excel_alt</item>
         <item>microsoft_office</item>
+        <item>microsoft_office_lens</item>
         <item>microsoft_one__drive</item>
         <item>microsoft_one__note</item>
         <item>microsoft_one__note_alt</item>
@@ -740,6 +758,7 @@
         <item>microsoft_powerpoint</item>
         <item>microsoft_powerpoint_alt</item>
         <item>microsoft_s__m__s_organizer</item>
+        <item>microsoft_teams</item>
         <item>microsoft_word</item>
         <item>microsoft_word_alt</item>
         <item>microsoft_your_phone_companion</item>
@@ -780,51 +799,36 @@
         <item>zoom_cloud_meetings_alt</item>
     </string-array>
     <string-array name="recent">
-        <item>_99</item>
-        <item>___caixa</item>
-        <item>___caixa_auxilio_emergencial</item>
-        <item>___caixa_tem</item>
-        <item>___hdfc_bank</item>
-        <item>___oppo_game_center</item>
-        <item>___oppo_game_space</item>
-        <item>_foodpanda</item>
-        <item>_inshorts</item>
-        <item>aarogya_setu</item>
-        <item>airtel_xstream</item>
-        <item>amoledpapers</item>
-        <item>amoledpapers_alt</item>
-        <item>app_box</item>
-        <item>app_market</item>
-        <item>book__my__show</item>
-        <item>color__note</item>
-        <item>deezer</item>
-        <item>free_fire</item>
-        <item>frost</item>
-        <item>gaana</item>
-        <item>get__apps</item>
-        <item>kine__master</item>
-        <item>let__it__be_o</item>
-        <item>line__x_icon_pack</item>
-        <item>linebit_light</item>
-        <item>meu_t__i__m</item>
-        <item>minma_icon_pack</item>
-        <item>money_lover</item>
-        <item>mubert</item>
-        <item>nubank</item>
-        <item>o__roaming</item>
-        <item>one_tap_lockscreen</item>
-        <item>reev_icons</item>
-        <item>samsung_bixby_voice</item>
-        <item>samsung_max</item>
-        <item>samsung_sound__assistant</item>
-        <item>shopee</item>
-        <item>smart_tutor</item>
-        <item>sticker_ly</item>
-        <item>teddy_bear_frown</item>
-        <item>teddy_bear_smile</item>
-        <item>vivo_i_theme</item>
-        <item>v_appstore</item>
-        <item>whats__app_business</item>
+        <item>___irctc_rail_connect</item>
+        <item>___yono</item>
+        <item>_u__torrent</item>
+        <item>_vivo</item>
+        <item>alarm</item>
+        <item>among_us</item>
+        <item>asphalt_9</item>
+        <item>b612</item>
+        <item>canva</item>
+        <item>cloud_service</item>
+        <item>device_tips</item>
+        <item>digi__locker</item>
+        <item>easy__share</item>
+        <item>google_go</item>
+        <item>key</item>
+        <item>mi_browser</item>
+        <item>mi_mover</item>
+        <item>mi_pay</item>
+        <item>microsoft_office_lens</item>
+        <item>microsoft_teams</item>
+        <item>mobile_legends_bang_bang</item>
+        <item>my__vodaphone</item>
+        <item>opera_mini</item>
+        <item>pixel__lab</item>
+        <item>samsung_a__r_zone</item>
+        <item>samsung_bixby_vision</item>
+        <item>turbo_v__p__n</item>
+        <item>vivo_weather</item>
+        <item>whicons</item>
+        <item>you__tube_vanced_manager</item>
     </string-array>
     <string-array name="security">
         <item>_1_1_1_1</item>
@@ -843,8 +847,10 @@
         <item>brave</item>
         <item>brave_alt</item>
         <item>citizen</item>
+        <item>digi__locker</item>
         <item>fingerprint</item>
         <item>kee__pass</item>
+        <item>key</item>
         <item>last__pass</item>
         <item>last__pass_authenticator</item>
         <item>lookout</item>
@@ -859,6 +865,7 @@
         <item>samsung_pass</item>
         <item>samsung_secure_folder</item>
         <item>t_mobile_unlock</item>
+        <item>turbo_v__p__n</item>
     </string-array>
     <string-array name="shopping">
         <item>___ikea</item>
@@ -963,6 +970,7 @@
     </string-array>
     <string-array name="travel">
         <item>_99</item>
+        <item>___irctc_rail_connect</item>
         <item>___oyo</item>
         <item>_car2go</item>
         <item>_what3words</item>
@@ -1011,11 +1019,14 @@
         <item>___sms_backup_plus</item>
         <item>___tv_time</item>
         <item>___uc_browser</item>
+        <item>_u__torrent</item>
+        <item>_vivo</item>
         <item>_what3words</item>
         <item>_what3words_alt</item>
         <item>accu__battery</item>
         <item>adobe_scan</item>
         <item>air__droid</item>
+        <item>alarm</item>
         <item>amaze</item>
         <item>amaze_alt</item>
         <item>amazon_drive</item>
@@ -1044,14 +1055,18 @@
         <item>clock</item>
         <item>cloud</item>
         <item>cloud_alt</item>
+        <item>cloud_service</item>
         <item>color_palette</item>
         <item>comic_trim</item>
         <item>compass</item>
         <item>contacts</item>
         <item>customization</item>
         <item>dark_mode</item>
+        <item>device_tips</item>
+        <item>digi__locker</item>
         <item>document_scan</item>
         <item>download_manager</item>
+        <item>easy__share</item>
         <item>emergency_alerts</item>
         <item>file_manager</item>
         <item>file_transfer</item>
@@ -1081,6 +1096,7 @@
         <item>insta__save</item>
         <item>kine__master</item>
         <item>meu_t__i__m</item>
+        <item>mi_mover</item>
         <item>mi_remote</item>
         <item>mic</item>
         <item>mic_alt</item>
@@ -1101,6 +1117,7 @@
         <item>printer</item>
         <item>radio</item>
         <item>rubber_ducky</item>
+        <item>samsung_bixby_vision</item>
         <item>samsung_bixby_voice</item>
         <item>samsung_cloud</item>
         <item>samsung_device_care</item>
@@ -1142,6 +1159,7 @@
         <item>vid__mate</item>
         <item>video</item>
         <item>video_m__p3_converter</item>
+        <item>vivo_weather</item>
         <item>voicemail</item>
         <item>wearables</item>
         <item>weather</item>
@@ -1160,6 +1178,7 @@
         <item>___idm</item>
         <item>___idm_alt</item>
         <item>___uc_browser</item>
+        <item>_u__torrent</item>
         <item>ad__guard</item>
         <item>ad_block_plus</item>
         <item>adblock</item>
@@ -1170,21 +1189,26 @@
         <item>blokada</item>
         <item>brave</item>
         <item>brave_alt</item>
+        <item>cloud_service</item>
         <item>download_manager</item>
         <item>firefox</item>
         <item>flud</item>
         <item>google</item>
         <item>google_chrome</item>
         <item>google_datally</item>
+        <item>google_go</item>
         <item>kiwi_browser</item>
+        <item>mi_browser</item>
         <item>microsoft_bing</item>
         <item>microsoft_edge</item>
         <item>nord___vpn</item>
         <item>open___vpn</item>
         <item>opera</item>
+        <item>opera_mini</item>
         <item>proton_v__p__n</item>
         <item>samsung_internet</item>
         <item>torr___se</item>
+        <item>turbo_v__p__n</item>
         <item>web</item>
         <item>web_alt</item>
         <item>web_alt_2</item>
@@ -1223,6 +1247,7 @@
         <item>___ikea</item>
         <item>___im__db</item>
         <item>___im__db_alt</item>
+        <item>___irctc_rail_connect</item>
         <item>___line</item>
         <item>___mega</item>
         <item>___miui_feedback</item>
@@ -1272,6 +1297,7 @@
         <item>___xda_feed</item>
         <item>___xda_feed_alt</item>
         <item>___xda_labs</item>
+        <item>___yono</item>
         <item>___zalora</item>
         <item>___zee5</item>
         <item>___zee5_alt</item>
@@ -1285,6 +1311,8 @@
         <item>_imo</item>
         <item>_inshorts</item>
         <item>_tumblr</item>
+        <item>_u__torrent</item>
+        <item>_vivo</item>
         <item>_what3words</item>
         <item>_what3words_alt</item>
         <item>aarogya_setu</item>
@@ -1316,6 +1344,7 @@
         <item>airtable</item>
         <item>airtel</item>
         <item>airtel_xstream</item>
+        <item>alarm</item>
         <item>ali__express</item>
         <item>alipay</item>
         <item>all__trails</item>
@@ -1335,6 +1364,7 @@
         <item>amoled__walls</item>
         <item>amoledpapers</item>
         <item>amoledpapers_alt</item>
+        <item>among_us</item>
         <item>amtrak</item>
         <item>an__yme</item>
         <item>ancestry</item>
@@ -1353,6 +1383,7 @@
         <item>arrow_down</item>
         <item>arrow_up</item>
         <item>asana</item>
+        <item>asphalt_9</item>
         <item>astro</item>
         <item>audible</item>
         <item>audio</item>
@@ -1363,6 +1394,7 @@
         <item>authy</item>
         <item>autodesk_sketch__book</item>
         <item>autosync</item>
+        <item>b612</item>
         <item>backdrops</item>
         <item>background_eraser</item>
         <item>badoo</item>
@@ -1436,6 +1468,7 @@
         <item>camera</item>
         <item>camera_alt</item>
         <item>candy_crush</item>
+        <item>canva</item>
         <item>canvas_student</item>
         <item>capital_one</item>
         <item>carousell</item>
@@ -1453,6 +1486,7 @@
         <item>clock</item>
         <item>cloud</item>
         <item>cloud_alt</item>
+        <item>cloud_service</item>
         <item>coinbase</item>
         <item>coinbase_alt</item>
         <item>collect</item>
@@ -1478,8 +1512,10 @@
         <item>delta</item>
         <item>deviant__art</item>
         <item>deviant__art_alt</item>
+        <item>device_tips</item>
         <item>dice</item>
         <item>dictionary</item>
+        <item>digi__locker</item>
         <item>diligent</item>
         <item>discord</item>
         <item>disney</item>
@@ -1498,6 +1534,7 @@
         <item>dropsync</item>
         <item>duolingo</item>
         <item>duolingo_alt</item>
+        <item>easy__share</item>
         <item>education</item>
         <item>education_alt</item>
         <item>elsa_speak</item>
@@ -1584,6 +1621,7 @@
         <item>google_fi</item>
         <item>google_find_my_device</item>
         <item>google_fit</item>
+        <item>google_go</item>
         <item>google_hangouts</item>
         <item>google_hangouts_chat</item>
         <item>google_hangouts_chat_alt</item>
@@ -1678,6 +1716,7 @@
         <item>kasa</item>
         <item>kayak</item>
         <item>kee__pass</item>
+        <item>key</item>
         <item>kickstarter</item>
         <item>kik</item>
         <item>kine__master</item>
@@ -1717,10 +1756,13 @@
         <item>messages_alt</item>
         <item>meu_t__i__m</item>
         <item>mi__xplorer</item>
+        <item>mi_browser</item>
         <item>mi_community</item>
         <item>mi_drop</item>
         <item>mi_fit</item>
+        <item>mi_mover</item>
         <item>mi_music</item>
+        <item>mi_pay</item>
         <item>mi_remote</item>
         <item>mi_security</item>
         <item>mi_store</item>
@@ -1736,6 +1778,7 @@
         <item>microsoft_excel_alt</item>
         <item>microsoft_launcher</item>
         <item>microsoft_office</item>
+        <item>microsoft_office_lens</item>
         <item>microsoft_one__drive</item>
         <item>microsoft_one__note</item>
         <item>microsoft_one__note_alt</item>
@@ -1744,6 +1787,7 @@
         <item>microsoft_powerpoint</item>
         <item>microsoft_powerpoint_alt</item>
         <item>microsoft_s__m__s_organizer</item>
+        <item>microsoft_teams</item>
         <item>microsoft_word</item>
         <item>microsoft_word_alt</item>
         <item>microsoft_your_phone_companion</item>
@@ -1755,6 +1799,7 @@
         <item>minma_icon_pack</item>
         <item>minty</item>
         <item>mixer</item>
+        <item>mobile_legends_bang_bang</item>
         <item>money_lover</item>
         <item>monument_valley</item>
         <item>moon_reader</item>
@@ -1767,6 +1812,7 @@
         <item>musixmatch</item>
         <item>muviz</item>
         <item>my__jio</item>
+        <item>my__vodaphone</item>
         <item>my_verizon</item>
         <item>myntra</item>
         <item>navigation</item>
@@ -1795,6 +1841,7 @@
         <item>open___vpn</item>
         <item>open_camera</item>
         <item>opera</item>
+        <item>opera_mini</item>
         <item>outdoors</item>
         <item>overdrop</item>
         <item>pandora</item>
@@ -1818,6 +1865,7 @@
         <item>photobucket</item>
         <item>pics__art</item>
         <item>pinterest</item>
+        <item>pixel__lab</item>
         <item>pixlr</item>
         <item>pizza_hut</item>
         <item>plants_vs_zombies</item>
@@ -1859,6 +1907,8 @@
         <item>roku</item>
         <item>rubber_ducky</item>
         <item>runkeeper</item>
+        <item>samsung_a__r_zone</item>
+        <item>samsung_bixby_vision</item>
         <item>samsung_bixby_voice</item>
         <item>samsung_cloud</item>
         <item>samsung_device_care</item>
@@ -1969,7 +2019,6 @@
         <item>tether</item>
         <item>textra</item>
         <item>the_weather_channel</item>
-        <item>vivo_i_theme</item>
         <item>tholotis</item>
         <item>tick__tick</item>
         <item>ticketmaster</item>
@@ -1989,6 +2038,7 @@
         <item>trip__advisor</item>
         <item>truecaller</item>
         <item>tune__in_radio</item>
+        <item>turbo_v__p__n</item>
         <item>twitch</item>
         <item>twitter</item>
         <item>two_dots</item>
@@ -2010,6 +2060,8 @@
         <item>viral</item>
         <item>virtual_wallet</item>
         <item>viva__video</item>
+        <item>vivo_i_theme</item>
+        <item>vivo_weather</item>
         <item>voicemail</item>
         <item>wall__craft</item>
         <item>wall__hub</item>
@@ -2028,6 +2080,7 @@
         <item>wells_fargo</item>
         <item>whats__app</item>
         <item>whats__app_business</item>
+        <item>whicons</item>
         <item>wikipedia</item>
         <item>wolfram__alpha</item>
         <item>write_on_pdf</item>
@@ -2050,6 +2103,7 @@
         <item>you__tube_studio</item>
         <item>you__tube_t__v</item>
         <item>you__tube_vanced</item>
+        <item>you__tube_vanced_manager</item>
         <item>youku</item>
         <item>yr</item>
         <item>z__archiver</item>
@@ -2096,6 +2150,7 @@
         <item>___ikea</item>
         <item>___im__db</item>
         <item>___im__db_alt</item>
+        <item>___irctc_rail_connect</item>
         <item>___line</item>
         <item>___mega</item>
         <item>___miui_feedback</item>
@@ -2145,6 +2200,7 @@
         <item>___xda_feed</item>
         <item>___xda_feed_alt</item>
         <item>___xda_labs</item>
+        <item>___yono</item>
         <item>___zalora</item>
         <item>___zee5</item>
         <item>___zee5_alt</item>
@@ -2158,6 +2214,8 @@
         <item>_imo</item>
         <item>_inshorts</item>
         <item>_tumblr</item>
+        <item>_u__torrent</item>
+        <item>_vivo</item>
         <item>_what3words</item>
         <item>_what3words_alt</item>
         <item>aarogya_setu</item>
@@ -2189,6 +2247,7 @@
         <item>airtable</item>
         <item>airtel</item>
         <item>airtel_xstream</item>
+        <item>alarm</item>
         <item>ali__express</item>
         <item>alipay</item>
         <item>all__trails</item>
@@ -2208,6 +2267,7 @@
         <item>amoled__walls</item>
         <item>amoledpapers</item>
         <item>amoledpapers_alt</item>
+        <item>among_us</item>
         <item>amtrak</item>
         <item>an__yme</item>
         <item>ancestry</item>
@@ -2226,6 +2286,7 @@
         <item>arrow_down</item>
         <item>arrow_up</item>
         <item>asana</item>
+        <item>asphalt_9</item>
         <item>astro</item>
         <item>audible</item>
         <item>audio</item>
@@ -2236,6 +2297,7 @@
         <item>authy</item>
         <item>autodesk_sketch__book</item>
         <item>autosync</item>
+        <item>b612</item>
         <item>backdrops</item>
         <item>background_eraser</item>
         <item>badoo</item>
@@ -2309,6 +2371,7 @@
         <item>camera</item>
         <item>camera_alt</item>
         <item>candy_crush</item>
+        <item>canva</item>
         <item>canvas_student</item>
         <item>capital_one</item>
         <item>carousell</item>
@@ -2326,6 +2389,7 @@
         <item>clock</item>
         <item>cloud</item>
         <item>cloud_alt</item>
+        <item>cloud_service</item>
         <item>coinbase</item>
         <item>coinbase_alt</item>
         <item>collect</item>
@@ -2351,8 +2415,10 @@
         <item>delta</item>
         <item>deviant__art</item>
         <item>deviant__art_alt</item>
+        <item>device_tips</item>
         <item>dice</item>
         <item>dictionary</item>
+        <item>digi__locker</item>
         <item>diligent</item>
         <item>discord</item>
         <item>disney</item>
@@ -2371,6 +2437,7 @@
         <item>dropsync</item>
         <item>duolingo</item>
         <item>duolingo_alt</item>
+        <item>easy__share</item>
         <item>education</item>
         <item>education_alt</item>
         <item>elsa_speak</item>
@@ -2457,6 +2524,7 @@
         <item>google_fi</item>
         <item>google_find_my_device</item>
         <item>google_fit</item>
+        <item>google_go</item>
         <item>google_hangouts</item>
         <item>google_hangouts_chat</item>
         <item>google_hangouts_chat_alt</item>
@@ -2551,6 +2619,7 @@
         <item>kasa</item>
         <item>kayak</item>
         <item>kee__pass</item>
+        <item>key</item>
         <item>kickstarter</item>
         <item>kik</item>
         <item>kine__master</item>
@@ -2590,10 +2659,13 @@
         <item>messages_alt</item>
         <item>meu_t__i__m</item>
         <item>mi__xplorer</item>
+        <item>mi_browser</item>
         <item>mi_community</item>
         <item>mi_drop</item>
         <item>mi_fit</item>
+        <item>mi_mover</item>
         <item>mi_music</item>
+        <item>mi_pay</item>
         <item>mi_remote</item>
         <item>mi_security</item>
         <item>mi_store</item>
@@ -2609,6 +2681,7 @@
         <item>microsoft_excel_alt</item>
         <item>microsoft_launcher</item>
         <item>microsoft_office</item>
+        <item>microsoft_office_lens</item>
         <item>microsoft_one__drive</item>
         <item>microsoft_one__note</item>
         <item>microsoft_one__note_alt</item>
@@ -2617,6 +2690,7 @@
         <item>microsoft_powerpoint</item>
         <item>microsoft_powerpoint_alt</item>
         <item>microsoft_s__m__s_organizer</item>
+        <item>microsoft_teams</item>
         <item>microsoft_word</item>
         <item>microsoft_word_alt</item>
         <item>microsoft_your_phone_companion</item>
@@ -2628,6 +2702,7 @@
         <item>minma_icon_pack</item>
         <item>minty</item>
         <item>mixer</item>
+        <item>mobile_legends_bang_bang</item>
         <item>money_lover</item>
         <item>monument_valley</item>
         <item>moon_reader</item>
@@ -2640,6 +2715,7 @@
         <item>musixmatch</item>
         <item>muviz</item>
         <item>my__jio</item>
+        <item>my__vodaphone</item>
         <item>my_verizon</item>
         <item>myntra</item>
         <item>navigation</item>
@@ -2668,6 +2744,7 @@
         <item>open___vpn</item>
         <item>open_camera</item>
         <item>opera</item>
+        <item>opera_mini</item>
         <item>outdoors</item>
         <item>overdrop</item>
         <item>pandora</item>
@@ -2691,6 +2768,7 @@
         <item>photobucket</item>
         <item>pics__art</item>
         <item>pinterest</item>
+        <item>pixel__lab</item>
         <item>pixlr</item>
         <item>pizza_hut</item>
         <item>plants_vs_zombies</item>
@@ -2732,6 +2810,8 @@
         <item>roku</item>
         <item>rubber_ducky</item>
         <item>runkeeper</item>
+        <item>samsung_a__r_zone</item>
+        <item>samsung_bixby_vision</item>
         <item>samsung_bixby_voice</item>
         <item>samsung_cloud</item>
         <item>samsung_device_care</item>
@@ -2842,7 +2922,6 @@
         <item>tether</item>
         <item>textra</item>
         <item>the_weather_channel</item>
-        <item>vivo_i_theme</item>
         <item>tholotis</item>
         <item>tick__tick</item>
         <item>ticketmaster</item>
@@ -2862,6 +2941,7 @@
         <item>trip__advisor</item>
         <item>truecaller</item>
         <item>tune__in_radio</item>
+        <item>turbo_v__p__n</item>
         <item>twitch</item>
         <item>twitter</item>
         <item>two_dots</item>
@@ -2883,6 +2963,8 @@
         <item>viral</item>
         <item>virtual_wallet</item>
         <item>viva__video</item>
+        <item>vivo_i_theme</item>
+        <item>vivo_weather</item>
         <item>voicemail</item>
         <item>wall__craft</item>
         <item>wall__hub</item>
@@ -2901,6 +2983,7 @@
         <item>wells_fargo</item>
         <item>whats__app</item>
         <item>whats__app_business</item>
+        <item>whicons</item>
         <item>wikipedia</item>
         <item>wolfram__alpha</item>
         <item>write_on_pdf</item>
@@ -2923,6 +3006,7 @@
         <item>you__tube_studio</item>
         <item>you__tube_t__v</item>
         <item>you__tube_vanced</item>
+        <item>you__tube_vanced_manager</item>
         <item>youku</item>
         <item>yr</item>
         <item>z__archiver</item>

@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <version title="v1.6.4" />
-    <item text="Added 45 new icons" />
-    <item text="Removed Piracy Check that was preventing some good-faith users from downloading!" />
-    <version title="v1.6.3" />
-    <item text="Added 41 new icons" />
-    <item text="Updated to support Niagara Launcher" />
-    <item text="Fixed automatic theming for 100+ icons" />
-    <version title="v1.6.2" />
-    <item text="Added Privacy Policy to assuage the gods of the Play Store" />
-    <version title="v1.6.1" />
-    <item text="Fixed automatic theming for 90+ icons" />
+    <version title="v1.6.5" />
+    <item text="Added 30 new icons" />
+    <item text="Fixed automatic theming for hundreds of icons" />
+    <item text="We've been hard at work on our sister project at phosphoricons.com, and will be settling into a more leisurely update schedule with all of our Android icon packs" />
+    <item text="Thanks for the continued support!" />
 </resources>
